@@ -1,0 +1,170 @@
+<resources>
+    <string name="app_name">QuizApp Aptitude</string>
+    <string name="app_name_2_line">QuizApp\nFree</string>
+    <string name="app_series">QuizApp</string>
+    <string name="app_fields">iOS | Java | HTML | JavaScript</string>
+
+    <string name="app_id">966500666857</string>
+    <string name="package_name">com.prembros.aptitude.quizapp</string>
+    <string name="achievement_rule_section_1">CgkI6Zu3v5AcEAIQBw</string>
+    <string name="achievement_rule_section_2">CgkI6Zu3v5AcEAIQCA</string>
+    <string name="achievement_rule_section_3">CgkI6Zu3v5AcEAIQCQ</string>
+    <string name="achievement_rule_section_4">CgkI6Zu3v5AcEAIQCg</string>
+    <string name="achievement_rule_section_5">CgkI6Zu3v5AcEAIQCw</string>
+    <string name="leaderboard_arithmetic_reasoning">CgkI6Zu3v5AcEAIQAg</string>
+    <string name="leaderboard_logical_word_sequence">CgkI6Zu3v5AcEAIQAw</string>
+    <string name="leaderboard_blood_relations">CgkI6Zu3v5AcEAIQBA</string>
+    <string name="leaderboard_series_completion">CgkI6Zu3v5AcEAIQBQ</string>
+    <string name="leaderboard_analogy">CgkI6Zu3v5AcEAIQBg</string>
+
+    <string name="colon"> : </string>
+    <!--FIELDS-->
+    <string name="arithmetic_reasoning">Arithmetic Reasoning</string>
+    <string name="logical_word_sequence">Logical Word Sequence</string>
+    <string name="blood_relations">Blood Relations</string>
+    <string name="series_completion">Series Completion</string>
+    <string name="analogy">Analogy</string>
+    <string name="intro">Do you really have what it takes?\nTest your aptitude in the following fields:</string>
+    <string name="intro_section">Now select a section\nand get on with the test!</string>
+
+    <!--DIFFICULTIES-->
+    <string name="section_1">Section 1</string>
+    <string name="section_2">Section 2</string>
+    <string name="section_3">Section 3</string>
+    <string name="section_4">Section 4</string>
+    <string name="section_5">Section 5</string>
+
+    <string name="title_activity_questions">Quiz</string>
+    <string name="title_activity_bookmarks">Bookmarks</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">section: %1$d</string>
+    <string name="title_activity_results">Results</string>
+
+    <!--ABOUT PAGE STRINGS-->
+    <string name="about_header">About</string>
+    <string name="about_the_developers">About the developers</string>
+    <string name="about_the_developers_details">
+        Prem Suman and Prem Ankur
+        \nYes we\'re brothers!
+        \nEmail us at:</string>
+    <string name="about_the_app">About the App</string>
+    <string name="about_the_app_details">
+        QuizApp is a series of android apps designed specially for the quiz minds.
+        \nThis app consists of the quizzes related to the programming languages.
+        \n(Objective C, Java, HTML and Javascript)</string>
+    <string name="other_apps_in_quizapp_series">Other apps in QuizApp series:</string>
+    <string name="other_apps_in_quizapp_series_details">
+        QuizApp-Aptitude(Coming soon)
+        \nQuizApp-Science(Coming soon)</string>
+    <string name="special_thanks">Special Thanks</string>
+    <string name="special_thanks_details">My Parents for the support</string>
+
+    <!--HELP PAGE STRINGS-->
+    <string name="help_header">Help</string>
+    <string name="help_choosing_a_difficulty_level">Choosing a Difficulty level</string>
+    <string name="help_choosing_a_difficulty_level_content">
+        * You can choose a difficulty level ranging from very easy up to very hard:
+        \nRookie - Very easy
+        \nApprentice - Fair
+        \nPro - Kind of difficult
+        \nHitman - Very difficult
+    </string>
+    <string name="help_during_the_quiz">During the quiz</string>
+    <string name="help_during_the_quiz_content">
+        * You can change the difficulty by clicking the \'up\' button.
+        \n\n* To exit the quiz at any time, press the back button on the action bar.
+        \n\n* There is also a skip option in the middle if you want to skip the current question.
+    </string>
+    <string name="help_bookmarks">Bookmarks</string>
+    <string name="help_bookmarks_content">
+        * Like a question and want to refer to it later?
+        \n\n* Just click on \'add bookmark\' on the top right corner and that\'s it!
+        \n\n* You can later view it in the Bookmarks section.
+        \n\n* To remove a bookmark, just click on the darkened \'add bookmark\' and it will remove the bookmark!
+    </string>
+    <string name="help_want_more_features">Want no ads and more features?</string>
+    <string name="help_want_more_features_content">
+        * Ads can be disabled by purchasing the pro version \nwithout the \'FREE\' suffix.(Coming Soon!)
+        \n\n* You can purchase the ad-free version From the Play Store.
+        \n(or click below)</string>
+
+<!--RATING-->
+    <string name="rate_us">Rate this app?</string>
+
+    <string name="skip_the_current_question">Skip the current question</string>
+    <string name="previous_question">Previous question</string>
+    <string name="next_question">Next Question</string>
+    <string name="add_or_remove_bookmark">Add or remove bookmark</string>
+    <string name="title_activity_login">Connect</string>
+    <string name="results">Results</string>
+    <string name="quiz_results">QuizResult</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in with Google</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email completions."</string>
+    <!-- Button labels -->
+    <string name="sign_out">Sign Out</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="connect">Connect</string>
+    <string name="email_id">Email ID: </string>
+    <string name="user_name">Username: </string>
+    <string name="sign_in">Sign in</string>
+    <string name="account">Account</string>
+    <string name="detailed_results">Detailed Results</string>
+    <string name="your_correct_answers">Your correct answers</string>
+    <string name="your_incorrect_answers">Your incorrect answers</string>
+    <string name="your_skipped_answers">Your skipped answers</string>
+    <string name="close">Close</string>
+    <string name="achievements">Achievements</string>
+    <string name="leaderboard">Leaderboards</string>
+    <string name="delete_this_question">Delete this question</string>
+
+    <!--MENU LABELS-->
+    <string name="clear_all">Clear all</string>
+    <string name="get_pro">Get Pro version</string>
+    <string name="about">About</string>
+    <string name="help">Help</string>
+    <string name="bookmarks">Bookmarks</string>
+    <string name="share">Share</string>
+    <string name="email">itsprembros@gmail.com</string>
+    <string name="prembros">PremBros</string>
+    <string name="visit_us_at">Visit us at:</string>
+    <string name="login_intro">Connect with Google Play and keep track of your performance, high scores and achievements.
+        \n\nSee how your friends are doing and compete with them.
+        \n\nTo get started, press the button below:
+    </string>
+    <string name="connect_to_google_play_games">Connect to Google Play Games</string>
+    <string name="quiz">Quiz</string>
+    <!-- <string name="int_add_full">ca-app-pub-3940256099942544/6300978111</string>&lt;!&ndash;ca-app-pub-3940256099942544/6300978111&ndash;&gt;
+    <string name="int_add_full1">ca-app-pub-3940256099942544/6300978111</string>&lt;!&ndash;ca-app-pub-3940256099942544/6300978111&ndash;&gt;
+    <string name="int_add_full2">ca-app-pub-3940256099942544/6300978111</string>&lt;!&ndash;ca-app-pub-3940256099942544/6300978111&ndash;&gt;
+    <string name="int_add_full_bookmark">ca-app-pub-3940256099942544/6300978111</string>&lt;!&ndash;ca-app-pub-3940256099942544/6300978111&ndash;&gt;
+-->
+    <string name="int_add_full">ca-app-pub-0057541165660355/5470334687</string><!--ca-app-pub-3940256099942544/6300978111-->
+    <string name="int_add_full1">ca-app-pub-0057541165660355/4940454280</string><!--ca-app-pub-3940256099942544/6300978111-->
+    <string name="int_add_full2">ca-app-pub-0057541165660355/6417187483</string><!--ca-app-pub-3940256099942544/6300978111-->
+    <string name="int_add_full_bookmark">ca-app-pub-0057541165660355/5152277085</string><!--ca-app-pub-3940256099942544/6300978111-->
+    <string name="times_up">Times up!</string><!--ca-app-pub-0057541165660355/5470334687-->
+    <string name="get_pro_content">Pro version comes with the following features:
+                        \n\n*No Ads
+                        \n*Bookmark Feature
+                        \n*New Questions
+                        \n*Personal score history
+                        \n\n*Also, the developers really appreciate your contribution!
+    </string>
+    <string name="get_pro_coming_soon">\n\nWe\'re currently working on the pro version. It will be available to you as soon as possible.</string>
+    <string name="get_pro_redirect">You will now be taken to our Play Store page.
+                                \nInstall "QuizApp Pro" from there.
+    </string>
+    <string name="rate_this_app">Rate this app</string>
+    <string name="tutorial">Tutorial</string>
+    <string name="introduction">Introduction</string>
+
+</resources>

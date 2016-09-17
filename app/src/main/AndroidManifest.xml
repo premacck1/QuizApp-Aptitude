@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:tools="http://schemas.android.com/tools"
+package="com.prembros.aptitude.quizapp">
+
+<!-- Include required permissions for Google Mobile Ads to run. -->
+<uses-permission android:name="android.permission.INTERNET" />
+<uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+<!-- To auto-complete the email text field in the login form with the user's emails -->
+<!--<uses-permission android:name="android.permission.GET_ACCOUNTS" />-->
+<!--<uses-permission android:name="android.permission.READ_CONTACTS" />-->
+<!-- To access accounts configured on device -->
+<uses-permission android:name="android.permission.GET_ACCOUNTS" />
+<uses-permission android:name="android.permission.READ_PROFILE" />
+<!-- To use account credentials -->
+<uses-permission android:name="android.permission.USE_CREDENTIALS" />
+<!--To share the screenshot-->
+<uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+<uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+
+<application
+    android:allowBackup="true"
+    android:icon="@mipmap/ic_launcher"
+    android:label="@string/app_name"
+    android:supportsRtl="true"
+    android:theme="@style/AppTheme"
+    tools:ignore="AllowBackup,GoogleAppIndexingWarning">
+    <meta-data android:name="com.google.android.gms.games.APP_ID"
+        android:value="@string/app_id" />
+    <meta-data android:name="com.google.android.gms.version"
+        android:value="@integer/google_play_services_version"/>
+    <activity
+        android:name="com.prembros.aptitude.quizapp.FirstScreen"
+        android:configChanges="orientation|keyboardHidden|screenSize"
+        android:label="@string/app_name"
+        android:noHistory="true"
+        android:launchMode="singleTask"
+        android:screenOrientation="portrait"
+        android:theme="@style/FirstScreenTheme">
+        <intent-filter>
+            <action android:name="android.intent.action.MAIN" />
+
+            <category android:name="android.intent.category.LAUNCHER" />
+        </intent-filter>
+    </activity>
+    <activity
+        android:name=".MainActivity"
+        android:launchMode="singleInstance"
+        android:theme="@style/MainActivityTheme"
+        android:configChanges="orientation|screenSize">
+        <!--<intent-filter>-->
+            <!--<action android:name="android.intent.action.MAIN" />]-->
+            <!--<category android:name="android.intent.category.INFO" />-->
+        <!--</intent-filter>-->
+
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+    </activity>
+    <!-- This meta-data tag is required to use Google Play Services. -->
+    <meta-data
+        android:name="com.google.android.gms.version"
+        android:value="@integer/google_play_services_version" />
+    <activity android:name=".FirstIntro"
+        android:theme="@style/FirstScreenTheme"
+        android:label="@string/introduction"/>
+
+    <activity
+        android:name=".LoginActivity"
+        android:theme="@style/LoginActivityTheme"
+        android:label="@string/title_activity_login">
+        <intent-filter>
+        <action android:name="android.intent.action.VIEW"/>
+        </intent-filter>
+    </activity>
+</application>
+</manifest>

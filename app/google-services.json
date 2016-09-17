@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "966500666857",
+    "project_id": "quizapp-aptitude-74433397"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:966500666857:android:977696aa5d5e9400",
+        "android_client_info": {
+          "package_name": "com.prembros.aptitude.quizapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "966500666857-dobrvu1gsujkd866glquiqg6maobhl3t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.prembros.aptitude.quizapp",
+            "certificate_hash": "DD974A12233B13F1F9F6CE847DEDD62D025354DF"
+          }
+        },
+        {
+          "client_id": "966500666857-ehef2nou7iv4fg1hso5leb5v2ef32m2o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.prembros.aptitude.quizapp",
+            "certificate_hash": "8F06FFDADD8A467B5D99E4082AFD5FE3259FA984"
+          }
+        },
+        {
+          "client_id": "966500666857-bsfd7ckpdvtfpktkt4g1m186ou910emh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKz_z_ck5GEn64on_-1rsvNnbWrjqss4Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

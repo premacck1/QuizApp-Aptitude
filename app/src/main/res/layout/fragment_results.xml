@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/result_page"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.prembros.aptitude.quizapp.Results"
+    android:background="@drawable/bg_gradient">
+
+    <com.prembros.aptitude.quizapp.CustomTextViewBlack
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/quiz_results"
+        android:id="@+id/result_header_text"
+        android:layout_gravity="center"
+        android:padding="5dp"
+        android:gravity="center"
+        android:textSize="35sp"
+        android:textColor="#f1f1f1"
+        android:shadowColor="@color/black_overlay"
+        android:shadowDx="5"
+        android:shadowDy="5"
+        android:shadowRadius="18"
+        android:layout_alignParentTop="true"
+        android:layout_above="@+id/resultPieChart"/>
+
+    <com.github.mikephil.charting.charts.PieChart
+        android:layout_height="385dp"
+        android:layout_width="match_parent"
+        android:layout_centerInParent="true"
+        android:id="@+id/resultPieChart" />
+
+    <com.prembros.aptitude.quizapp.CustomTextViewSemiLight
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/score_points"
+        android:id="@+id/field_text"
+        android:layout_gravity="center_horizontal"
+        android:gravity="center"
+        android:textSize="20sp"
+        android:paddingBottom="5dp"
+        android:paddingRight="5dp"
+        android:paddingEnd="5dp"
+        android:paddingLeft="0dp"
+        android:paddingStart="0dp"
+        android:textColor="#f1f1f1"
+        android:shadowColor="@color/black_overlay"
+        android:shadowDx="5"
+        android:shadowDy="5"
+        android:shadowRadius="10"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="10dp" />
+
+    <com.prembros.aptitude.quizapp.CustomTextViewSemiLight
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/score_marks"
+        android:textSize="20sp"
+        android:textColor="#f1f1f1"
+        android:shadowColor="@color/black_overlay"
+        android:shadowDx="5"
+        android:shadowDy="5"
+        android:shadowRadius="10"
+        android:padding="10dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        tools:ignore="RelativeOverlap" />
+
+<!--
+    <com.prembros.aptitude.quizapp.CustomTextViewBlack
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/app_name_2_line"
+        android:id="@+id/app_name_bottom"
+        android:layout_gravity="bottom"
+        android:gravity="start"
+        android:textSize="20sp"
+        android:textColor="#f1f1f1"
+        android:padding="10dp"
+        android:shadowColor="@color/black_overlay"
+        android:shadowDx="5"
+        android:shadowDy="5"
+        android:shadowRadius="10"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+-->
+
+    <com.prembros.aptitude.quizapp.CustomTextViewLight
+        android:id="@+id/score_points"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="15sp"
+        android:textColor="#f1f1f1"
+        android:shadowColor="@color/black_overlay"
+        android:shadowDx="5"
+        android:shadowDy="5"
+        android:shadowRadius="5"
+        android:paddingBottom="10dp"
+        android:paddingRight="5dp"
+        android:paddingEnd="5dp"
+        android:paddingLeft="0dp"
+        android:paddingStart="0dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true" />
+
+</RelativeLayout>

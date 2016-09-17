@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/result_list_item_container"
+    android:background="@drawable/card_theme"
+    android:layout_height="wrap_content"
+    android:layout_width="match_parent"
+    android:paddingTop="12dp"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingStart="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingEnd="@dimen/activity_horizontal_margin"
+    android:paddingBottom="12dp">
+
+    <com.prembros.aptitude.quizapp.CustomTextViewSemiLight
+        android:id="@+id/result_header_textView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAllCaps="false"
+        android:textSize="16sp"
+        android:textColor="@color/colorText"
+        android:gravity="start" />
+
+    <com.prembros.aptitude.quizapp.CustomTextViewLight
+        android:id="@+id/result_child_textView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAllCaps="false"
+        android:textSize="14sp"
+        android:layout_marginTop="5dp"
+        android:layout_below="@+id/result_header_textView"
+        android:textColor="@color/colorText"
+        android:gravity="start" />
+</RelativeLayout>

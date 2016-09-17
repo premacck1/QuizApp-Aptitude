@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:padding="16dp"
+    android:layout_gravity="center_horizontal"
+    tools:context=".MainActivity">
+
+    <ToggleButton
+        android:textOff=""
+        android:textOn=""
+        android:id="@+id/addBookmark"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:contentDescription="@string/add_or_remove_bookmark"
+        android:visibility="gone"/>
+
+    <com.prembros.aptitude.quizapp.CustomTextViewSemiLight
+        android:lines="2"
+        android:lineSpacingExtra="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textSize="18sp"
+        android:textColor="@color/colorText"
+        android:id="@+id/intro_textView"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="50dp" />
+
+    <ListView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@android:id/list"
+        android:divider="@android:color/transparent"
+        android:dividerHeight="10dp"
+        android:listSelector="#00ffffff"
+        android:scrollbars="none"
+        android:layout_gravity="center"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:layout_centerInParent="true"
+        android:layout_above="@+id/view" />
+
+    <com.balysv.materialripple.MaterialRippleLayout
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_alignParentBottom="true"
+        app:mrl_rippleColor="#ffffff"
+        app:mrl_rippleOverlay="true"
+        app:mrl_rippleHover="true"
+        app:mrl_rippleDelayClick="true"
+        app:mrl_rippleRoundedCorners="2dp"
+        android:id="@+id/view">
+
+        <!--<com.google.android.gms.common.SignInButton
+            android:id="@+id/sign_in_button"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:gravity="center"/>-->
+
+        <ImageView
+            android:id="@+id/sign_in"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:src="@drawable/game_controller"
+            android:background="@drawable/sign_in_button"
+            android:layout_gravity="center"
+            android:contentDescription="@string/connect_to_google_play_games" />
+    </com.balysv.materialripple.MaterialRippleLayout>
+
+</RelativeLayout>

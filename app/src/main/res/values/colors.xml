@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimaryLight">#4dd0e1</color>
+    <color name="colorPrimary">#00acc1</color>
+    <color name="colorPrimaryTranslucent">#9900acc1</color>
+    <color name="colorPrimaryDark">#00acc1</color>
+    <color name="colorPrimaryDarker">#006064</color>
+    <color name="colorPrimaryDarkTranslucent">#cc006064</color>
+    <color name="colorAccent">#424242</color>
+    <color name="colorLink">#42a5f5</color>
+    <color name="colorText">#616161</color>
+    <color name="page_bg">#b2ebf2</color>
+    <color name="colorProgress">#b71c1c</color>
+
+    <!--COLORS USED IN RESULT PIE CHART (EXPLICITLY DEFINED THERE BECAUSE USING THESE REFERENCES WASN'T WORKING-->
+<!--
+    <color name="pieChartCorrect">#4caf50</color>
+    <color name="pieChartIncorrect">#d32f2f</color>
+    <color name="pieChartSkipped">#1de9b6</color>
+-->
+
+    <color name="black_overlay">#66000000</color>
+    <color name="black">#000000</color>
+    <color name="pressed_color">#d7ccc8</color>
+    <color name="default_color">#ffffff</color>
+    <color name="bg_text">#383838</color>
+    <color name="bg_text_checked">#d7ccc8</color>
+    <color name="welcome_page_text">#8c263238</color>
+</resources>

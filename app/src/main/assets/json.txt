@@ -1,0 +1,4032 @@
+﻿{
+  "Arithmetic Reasoning": [
+    {
+      "Section 1": [
+        {
+          "question": "The total of the ages of Amar, Akbar and Anthony is 80 years. What was the total of their ages three years ago ?",
+          "opt1": "71 years",
+          "opt2": "72 years",
+          "opt3": "74 years",
+          "opt4": "77 years",
+          "ans": "71 years"
+        },
+        {
+          "question": "Two bus tickets from city A to B and three tickets from city A to C cost Rs. 77 but three tickets from city A to B and two tickets from city A to C cost Rs. 73. What are the fares for cities B and C from A ?",
+          "opt1": "Rs. 4, Rs. 23",
+          "opt2": "Rs. 13, Rs. 17",
+          "opt3": "Rs. 15, Rs. 14",
+          "opt4": "Rs. 17, Rs. 13",
+          "ans": "Rs. 13, Rs. 17"
+        },
+        {
+          "question": "An institute organised a fete and 1/5 of the girls and 1/8 of the boys participated in the same. What fraction of the total number of students took part in the fete ?",
+          "opt1": "2/13",
+          "opt2": "13/40",
+          "opt3": "Data inadequate",
+          "opt4": "None of these",
+          "ans": "Data inadequate"
+        },
+        {
+          "question": "A number of friends decided to go on a picnic and planned to spend Rs. 96 on eatables. Four of them, however, did not turn up. As a consequence, the remaining ones had to contribute Rs. 4 each extra. The number of those who attended the picnic was",
+          "opt1": "8",
+          "opt2": "12",
+          "opt3": "16",
+          "opt4": "24",
+          "ans": "8"
+        },
+        {
+          "question": "A, B, C, D and E play a game of cards. A says to B, \"If you give me three cards, you will have as many as E has and if I give you three cards, you will have as many as D has.\" A and B together have 10 cards more than what D and E together have. If B has two cards more than what C has and the total number of cards be 133, how many cards does B have?",
+          "opt1": "22",
+          "opt2": "23",
+          "opt3": "25",
+          "opt4": "35",
+          "ans": "25"
+        },
+        {
+          "question": "A pineapple costs Rs. 7 each. A watermelon costs Rs. 5 each. X spends Rs. 38 on these fruits. The number of pineapples purchased is",
+          "opt1": "2",
+          "opt2": "3",
+          "opt3": "4",
+          "opt4": "Data inadequate",
+          "ans": "4"
+        },
+        {
+          "question": "A woman says, \"If you reverse my own age, the figures represent my husband\'s age. He is, of course, senior to me and the difference between our ages is one-eleventh of their sum.\" The woman\'s age is",
+          "opt1": "23 years",
+          "opt2": "34 years",
+          "opt3": "45 years",
+          "opt4": "None of these",
+          "ans": "45 years"
+        },
+        {
+          "question": "A girl counted in the following way on the fingers of her left hand : She started by calling the thumb 1, the index finger 2, middle finger 3, ring finger 4, little finger 5 and then reversed direction calling the ring finger 6, middle finger 7 and so on. She counted upto 1994. She ended counting on which finger?",
+          "opt1": "Thumb",
+          "opt2": "Index finger",
+          "opt3": "Middle finger",
+          "opt4": "Ring finger",
+          "ans": "Index finger"
+        },
+        {
+          "question": "A man has Rs. 480 in the denominations of one-rupee notes, five-rupee notes and ten-rupee notes. The number of notes of each denomination is equal. What is the total number of notes that he has?",
+          "opt1": "45",
+          "opt2": "60",
+          "opt3": "75",
+          "opt4": "90",
+          "ans": "90"
+        },
+        {
+          "question": "What is the product of all the numbers in the dial of a telephone?",
+          "opt1": "1,58,480",
+          "opt2": "1,59,450",
+          "opt3": "1,59,480",
+          "opt4": "None of these",
+          "ans": "None of these"
+        },
+        {
+          "question": "A is 3 years older to B and 3 years younger to C, while B and D are twins. How many years older is C to D?",
+          "opt1": "2",
+          "opt2": "3",
+          "opt3": "6",
+          "opt4": "12",
+          "ans": "6"
+        },
+        {
+          "question": "The 30 members of a club decided to play a badminton singles tournament. Every time a member loses a game he is out of the tournament. There are no ties. What is the minimum number of matches that must be played to determine the winner?",
+          "opt1": "15",
+          "opt2": "29",
+          "opt3": "61",
+          "opt4": "None of these",
+          "ans": "29"
+        },
+        {
+          "question": "In a garden, there are 10 rows and 12 columns of mango trees. The distance between the two trees is 2 metres and a distance of one metre is left from all sides of the boundary of the garden. The length of the garden is",
+          "opt1": "20 m",
+          "opt2": "22 m",
+          "opt3": "24 m",
+          "opt4": "26 m",
+          "ans": "24 m"
+        },
+        {
+          "question": "12 year old Manick is three times as old as his brother Rahul. How old will Manick be when he is twice as old as Rahul?",
+          "opt1": "14 years",
+          "opt2": "16 years",
+          "opt3": "18 years",
+          "opt4": "20 years",
+          "ans": "16 years"
+        },
+        {
+          "question": "A tailor had a number of shirt pieces to cut from a roll of fabric. He cut each roll of equal length into 10 pieces. He cut at the rate of 45 cuts a minute. How many rolls would be cut in 24 minutes?",
+          "opt1": "32 rolls",
+          "opt2": "54 rolls",
+          "opt3": "108 rolls",
+          "opt4": "120 rolls",
+          "ans": "120 rolls"
+        },
+        {
+          "question": "In a class of 60 students, the number of boys and girls participating in the annual sports is in the ratio 3 : 2 respectively. The number of girls not participating in the sports is 5 more than the number of boys not participating in the sports. If the number of boys participating in the sports is 15, then how many girls are there in the class?",
+          "opt1": "20",
+          "opt2": "25",
+          "opt3": "30",
+          "opt4": "Data inadequate",
+          "ans": "30"
+        },
+        {
+          "question": "There are deer and peacocks in a zoo. By counting heads they are 80. The number of their legs is 200. How many peacocks are there?",
+          "opt1": "20",
+          "opt2": "30",
+          "opt3": "50",
+          "opt4": "60",
+          "ans": "60"
+        },
+        {
+          "question": "A man wears socks of two colours - Black and brown. He has altogether 20 black socks and 20 brown socks in a drawer. Supposing he has to take out the socks in the dark, how many must he take out to be sure that he has a matching pair?",
+          "opt1": "3",
+          "opt2": "20",
+          "opt3": "39",
+          "opt4": "None of these",
+          "ans": "3"
+        },
+        {
+          "question": "A motorist knows four different routes from Bristol to Birmingham. From Birmingham to Sheffield he knows three different routes and from Sheffield to Carlisle he knows two different routes. How many routes does he know from Bristol to Carlisle?",
+          "opt1": "4",
+          "opt2": "8",
+          "opt3": "12",
+          "opt4": "24",
+          "ans": "24"
+        },
+        {
+          "question": "Mac has £ 3 more than Ken, but then Ken wins on the horses and trebles his money, so that he now has £ 2 more than the original amount of money that the two boys had between them. How much money did Mac and Ken have between them before Ken\'s win?",
+          "opt1": "£ 9",
+          "opt2": "£ 11",
+          "opt3": "£ 13",
+          "opt4": "£ 15",
+          "ans": "£ 13"
+        }
+      ]
+    },
+    {
+      "Section 2": [
+        {
+          "question": "A is 3 years older to B and 3 years younger to C, while B and D are twins. How many years older is C to D?",
+          "opt1": "2",
+          "opt2": "3",
+          "opt3": "6",
+          "opt4": "12",
+          "ans": "6"
+        },
+        {
+          "question": "The 30 members of a club decided to play a badminton singles tournament. Every time a member loses a game he is out of the tournament. There are no ties. What is the minimum number of matches that must be played to determine the winner?",
+          "opt1": "15",
+          "opt2": "29",
+          "opt3": "61",
+          "opt4": "None of these",
+          "ans": "29"
+        },
+        {
+          "question": "In a garden, there are 10 rows and 12 columns of mango trees. The distance between the two trees is 2 metres and a distance of one metre is left from all sides of the boundary of the garden. The length of the garden is",
+          "opt1": "20 m",
+          "opt2": "22 m",
+          "opt3": "24 m",
+          "opt4": "26 m",
+          "ans": "24 m"
+        },
+        {
+          "question": "12 year old Manick is three times as old as his brother Rahul. How old will Manick be when he is twice as old as Rahul?",
+          "opt1": "14 years",
+          "opt2": "16 years",
+          "opt3": "18 years",
+          "opt4": "20 years",
+          "ans": "16 years"
+        },
+        {
+          "question": "A tailor had a number of shirt pieces to cut from a roll of fabric. He cut each roll of equal length into 10 pieces. He cut at the rate of 45 cuts a minute. How many rolls would be cut in 24 minutes?",
+          "opt1": "32 rolls",
+          "opt2": "54 rolls",
+          "opt3": "108 rolls",
+          "opt4": "120 rolls",
+          "ans": "120 rolls"
+        },
+        {
+          "question": "In a class of 60 students, the number of boys and girls participating in the annual sports is in the ratio 3 : 2 respectively. The number of girls not participating in the sports is 5 more than the number of boys not participating in the sports. If the number of boys participating in the sports is 15, then how many girls are there in the class?",
+          "opt1": "20",
+          "opt2": "25",
+          "opt3": "30",
+          "opt4": "Data inadequate",
+          "ans": "30"
+        },
+        {
+          "question": "There are deer and peacocks in a zoo. By counting heads they are 80. The number of their legs is 200. How many peacocks are there?",
+          "opt1": "20",
+          "opt2": "30",
+          "opt3": "50",
+          "opt4": "60",
+          "ans": "60"
+        },
+        {
+          "question": "A man wears socks of two colours - Black and brown. He has altogether 20 black socks and 20 brown socks in a drawer. Supposing he has to take out the socks in the dark, how many must he take out to be sure that he has a matching pair?",
+          "opt1": "3",
+          "opt2": "20",
+          "opt3": "39",
+          "opt4": "None of these",
+          "ans": "3"
+        },
+        {
+          "question": "A motorist knows four different routes from Bristol to Birmingham. From Birmingham to Sheffield he knows three different routes and from Sheffield to Carlisle he knows two different routes. How many routes does he know from Bristol to Carlisle?",
+          "opt1": "4",
+          "opt2": "8",
+          "opt3": "12",
+          "opt4": "24",
+          "ans": "24"
+        },
+        {
+          "question": "Mac has £ 3 more than Ken, but then Ken wins on the horses and trebles his money, so that he now has £ 2 more than the original amount of money that the two boys had between them. How much money did Mac and Ken have between them before Ken\'s win?",
+          "opt1": "£ 9",
+          "opt2": "£ 11",
+          "opt3": "£ 13",
+          "opt4": "£ 15",
+          "ans": "£ 13"
+        }
+      ]
+    },
+    {
+      "Section 3": [
+        {
+          "question": "The number of boys in a class is three times the number of girls. Which one of the following numbers cannot represent the total number of children in the class ?",
+          "opt1": "48",
+          "opt2": "44",
+          "opt3": "42",
+          "opt4": "40",
+          "ans": "42"
+        },
+        {
+          "question": "A shepherd had 17 sheep. All but nine died. How many was he left with ?",
+          "opt1": "Nil",
+          "opt2": "8",
+          "opt3": "9",
+          "opt4": "17",
+          "ans": "9"
+        },
+        {
+          "question": "In a family, the father took 1/4 of the cake and he had 3 times as much as each of the other members had. The total number of family members is",
+          "opt1": "3",
+          "opt2": "7",
+          "opt3": "10",
+          "opt4": "12",
+          "ans": "10"
+        },
+        {
+          "question": "In three coloured boxes - Red, Green and Blue, 108 balls are placed. There are twice as many balls in the green and red boxes combined as there are in the blue box and twice as many in the blue box as there are in the red box. How many balls are there in the green box ?",
+          "opt1": "18",
+          "opt2": "36",
+          "opt3": "45",
+          "opt4": "None of these",
+          "ans": "None of these"
+        },
+        {
+          "question": "In a cricket match, five batsmen A, B, C, D and E scored an average of 36 runs. D Scored 5 more than E; E scored 8 fewer than A; B scored as many as D and E combined; and B and C scored 107 between them. How many runs did E score ?",
+          "opt1": "62",
+          "opt2": "45",
+          "opt3": "28",
+          "opt4": "20",
+          "ans": "20"
+        },
+        {
+          "question": "The total number of digits used in numbering the pages of a book having 366 pages is",
+          "opt1": "732",
+          "opt2": "990",
+          "opt3": "1098",
+          "opt4": "1305",
+          "ans": "990"
+        },
+        {
+          "question": "In a family, each daughter has the same number of brothers as she has sisters and each son has twice as many sisters as he has brothers. How many sons are there in the family ?",
+          "opt1": "2",
+          "opt2": "3",
+          "opt3": "4",
+          "opt4": "5",
+          "ans": "3"
+        },
+        {
+          "question": "At a dinner party every two guests used a bowl of rice between them, every three guests used a bowl of dal between them and every four used a bowl of meat between them. There were altogether 65 dishes. How many guests were present at the party ?",
+          "opt1": "60",
+          "opt2": "65",
+          "opt3": "90",
+          "opt4": "None of these",
+          "ans": "60"
+        },
+        {
+          "question": "Ayush was born two years after his father\'s marriage. His mother is five years younger than his father but 20 years older than Ayush who is 10 years old. At what age did the father get married ?",
+          "opt1": "23 years",
+          "opt2": "25 years",
+          "opt3": "33 years",
+          "opt4": "35 years",
+          "ans": "23 years"
+        },
+        {
+          "question": "There were 36 houses in a village, a flood destroyed all but 7. How many houses were destroyed?",
+          "opt1": "29",
+          "opt2": "30",
+          "opt3": "7",
+          "opt4": "36",
+          "ans": "29"
+        },
+        {
+          "question": "A student got twice as many sums wrong as he got right. If he attempted 48 sums in all, how many did he solve correctly ?",
+          "opt1": "12",
+          "opt2": "16",
+          "opt3": "18",
+          "opt4": "24",
+          "ans": "16"
+        },
+        {
+          "question": "David gets on the elevator at the 11th floor of a building and rides up at the rate of 57 floors per minute. At the same time, Albert gets on an elevator at the 51st floor of the same building and rides down at the rate of 63 floors per minute. If they continue travelling at these rates, then at which floor will their paths cross ?",
+          "opt1": "19",
+          "opt2": "28",
+          "opt3": "30",
+          "opt4": "37",
+          "ans": "30"
+        },
+        {
+          "question": "I have a few sweets to be distributed. If I keep 2, 3 or 4 in a pack, I am left with one sweet. If I keep 5 in a pack, I am left with none. What is the minimum number of sweets I have to pack and distribute ?",
+          "opt1": "25",
+          "opt2": "37",
+          "opt3": "54",
+          "opt4": "65",
+          "ans": ""
+        },
+        {
+          "question": "If a clock takes seven seconds to strike seven, how long will it take to strike ten ?",
+          "opt1": "7 seconds",
+          "opt2": "9 seconds",
+          "opt3": "10 seconds",
+          "opt4": "None of these",
+          "ans": "None of these"
+        },
+        {
+          "question": "In a group of cows and hens, the number of legs are 14 more than twice the number of heads. The number of cows is",
+          "opt1": "5",
+          "opt2": "7",
+          "opt3": "10",
+          "opt4": "12",
+          "ans": "7"
+        },
+        {
+          "question": "A father tells his son, \"I was of your present age when you were born\". If the father is 36 now, how old was the boy five years back ?",
+          "opt1": "13",
+          "opt2": "15",
+          "opt3": "17",
+          "opt4": "20",
+          "ans": "13"
+        },
+        {
+          "question": "A fires 5 shots to B\'s 3 but A kills only once in 3 shots while B kills once in 2 shots. When B has missed 27 times, A has killed",
+          "opt1": "30 birds",
+          "opt2": "60 birds",
+          "opt3": "72 birds",
+          "opt4": "90 birds",
+          "ans": "30 birds"
+        },
+        {
+          "question": "In a class, 3/5 of the students are girls and rest are boys. If 2/9 of the girls and 1/4 of the boys are absent, what part of the total number of students is present ?",
+          "opt1": "17/25",
+          "opt2": "18/49",
+          "opt3": "23/30",
+          "opt4": "23/36",
+          "ans": "23/30"
+        },
+        {
+          "question": "In a family, a couple has a son and a daughter. The age of the father is three times that of his daughter and the age of the son is half of that of his mother. The wife is 9 years younger to her husband and the brother is seven years older than his sister. What is the age of the mother ?",
+          "opt1": "40 years",
+          "opt2": "45 years",
+          "opt3": "50 years",
+          "opt4": "60 years",
+          "ans": "60 years"
+        },
+        {
+          "question": "If a 1 mm thick paper is folded so that the area is halved at every fold, then what would be the thickness of the pile after 50 folds ?",
+          "opt1": "100 km",
+          "opt2": "1000 km",
+          "opt3": "1 million km",
+          "opt4": "1 billion km",
+          "ans": "1 billion km"
+        }
+      ]
+    },
+    {
+      "Section 4": [
+        {
+          "question": "First bunch of bananas has (1/4) again as many bananas as a second bunch. If the second bunch has 3 bananas less than the first bunch, then the number of bananas in the first bunch is",
+          "opt1": "9",
+          "opt2": "10",
+          "opt3": "12",
+          "opt4": "15",
+          "ans": "15"
+        },
+        {
+          "question": "Mr. X, a mathematician, defines a number as \'connected with 6 if it is divisible by 6 or if the sum of its digits is 6, or if 6 is one of the digits of the number. Other numbers are all \'not connected with 6\'. As per this definition, the number of integers from 1 to 60 (both inclusive) which are not connected with 6 is",
+          "opt1": "18",
+          "opt2": "22",
+          "opt3": "42",
+          "opt4": "43",
+          "ans": "43"
+        },
+        {
+          "question": "Find the number which when added to itself 13 times, gives 112.",
+          "opt1": "7",
+          "opt2": "8",
+          "opt3": "9",
+          "opt4": "11",
+          "ans": "8"
+        },
+        {
+          "question": "Aruna cut a cake into two halves and cuts one half into smaller pieces of equal size. Each of the small pieces is twenty grams in weight. If she has seven pieces of the cake in all with her, how heavy was the original cake ?",
+          "opt1": "120 grams",
+          "opt2": "140 grams",
+          "opt3": "240 grams",
+          "opt4": "280 grams",
+          "ans": "240 grams"
+        },
+        {
+          "question": "A total of 324 coins of 20 paise and 25 paise make a sum of Rs. 71. The number of 25-paise coins is",
+          "opt1": "120",
+          "opt2": "124",
+          "opt3": "144",
+          "opt4": "200",
+          "ans": "124"
+        },
+        {
+          "question": "A player holds 13 cards of four suits, of which seven are black and six are red. There are twice as many diamonds as spades and twice as many hearts as diamonds. How many clubs does he hold ?",
+          "opt1": "4",
+          "opt2": "5",
+          "opt3": "6",
+          "opt4": "7",
+          "ans": "6"
+        },
+        {
+          "question": "The taxi charges in a city comprise of a fixed charge, together with the charge of the distance covered. For a journey of 16 km, the charges paid are Rs. 156 and for a journey of 24 km, the charges paid are Rs. 204. What will a person have to pay for travelling a distance of 30 km?",
+          "opt1": "Rs. 236",
+          "opt2": "Rs. 240",
+          "opt3": "Rs. 248",
+          "opt4": "Rs. 252",
+          "ans": "Rs. 240"
+        },
+        {
+          "question": "If every 2 out of 3 readymade shirts need alterations in the sleeves, and every 4 out of 5 need it in the body, how many alterations will be required for 60 shirts ?",
+          "opt1": "88",
+          "opt2": "123",
+          "opt3": "133",
+          "opt4": "143",
+          "ans": "133"
+        },
+        {
+          "question": "At the end of a business conference the ten people present all shake hands with each other once. How many handshakes will there be altogether ?",
+          "opt1": "20",
+          "opt2": "45",
+          "opt3": "55",
+          "opt4": "90",
+          "ans": "45"
+        },
+        {
+          "question": "After distributing the sweets equally among 25 children, 8 sweets remain. Had the number of children been 28, 22 sweets would have been left after equal distribution. What was the total number of sweets ?",
+          "opt1": "328",
+          "opt2": "348",
+          "opt3": "358",
+          "opt4": "Data inadequate",
+          "ans": "358"
+        },
+        {
+          "question": "A group of 1200 persons consisting of captains and soldiers is travelling in a train. For every 15 soldiers there is one captain. The number of captains in the group is",
+          "opt1": "85",
+          "opt2": "80",
+          "opt3": "75",
+          "opt4": "70",
+          "ans": "75"
+        },
+        {
+          "question": "In a caravan, in addition to 50 hens, there are 45 goats and 8 camels with some keepers. If the total number of feet be 224 more than the number of heads in the caravan, the number of keepers is",
+          "opt1": "5",
+          "opt2": "8",
+          "opt3": "10",
+          "opt4": "15",
+          "ans": "15"
+        },
+        {
+          "question": "A monkey climbs 30 feet at the beginning of each hour and rests for a while when he slips back 20 feet before he again starts climbing in the beginning of the next hour. If he begins his ascent at 8.00 a.m., at what time will he first touch a flag at 120 feet from the ground?",
+          "opt1": "4 p.m.",
+          "opt2": "5 p.m.",
+          "opt3": "6 p.m.",
+          "opt4": "None of these",
+          "ans": "6 p.m."
+        },
+        {
+          "question": "A number consists of two digits whose sum is 11. If 27 is added to the number, then the digits change their places. What is the number ?",
+          "opt1": "47",
+          "opt2": "65",
+          "opt3": "83",
+          "opt4": "92",
+          "ans": "47"
+        },
+        {
+          "question": "An enterprising businessman earns an income of Re. 1 on the first day of his business. On every subsequent day, he earns an income which is just double of that made on the previous day. One the 10th day of business, his income is",
+          "opt1": "Rs. 2^9",
+          "opt2": "Rs. 2^10",
+          "opt3": "Rs. 10",
+          "opt4": "Rs. 10^2",
+          "ans": "Rs. 2^9"
+        },
+        {
+          "question": "Nitin\'s age was equal to square of some number last year and the following year it would be cube of a number. If again Nitin\'s age has to be equal to the cube of some number, then for how long he will have to wait?",
+          "opt1": "10 years",
+          "opt2": "38 years",
+          "opt3": "39 years",
+          "opt4": "64 years",
+          "ans": "38 years"
+        },
+        {
+          "question": "On Children\'s Day, sweets were to be equally distributed among 175 children in a school. Actually on the Children\'s Day, 35 children were absent and therefore each child got 4 sweets extra. Total how many sweets were available for distribution ?",
+          "opt1": "2400",
+          "opt2": "2480",
+          "opt3": "2680",
+          "opt4": "2800",
+          "ans": "2800"
+        },
+        {
+          "question": "Between two book-ends in your study are displayed your five favourite puzzle books. If you decide to arrange the five books in every possible combination and moved just one book every minute, how long would it take you ?",
+          "opt1": "1 hour",
+          "opt2": "2 hours",
+          "opt3": "3 hours",
+          "opt4": "4 hours",
+          "ans": "2 hours"
+        },
+        {
+          "question": "A placed three sheets with two carbons to get two extra copies of the original. Then he decided to get more carbon copies and folded the paper in such a way that the upper half of the sheets were on top of the lower half. Then he typed. How many carbon copies did he get?",
+          "opt1": "1",
+          "opt2": "2",
+          "opt3": "3",
+          "opt4": "4",
+          "ans": "2"
+        },
+        {
+          "question": "A printer numbers the pages of a book starting with 1 and uses 3189 digits in all. How many pages does the book have ?",
+          "opt1": "1000",
+          "opt2": "1074",
+          "opt3": "1075",
+          "opt4": "1080",
+          "ans": "1074"
+        }
+      ]
+    },
+    {
+      "Section 5": [
+        {
+          "question": "In a class, there are 18 boys who are over 160 cm tall. If these constitute three-fourths of the boys and the total number of boys is two-thirds of the total number of students in the class, what is the number of girls in the class?",
+          "opt1": "6",
+          "opt2": "12",
+          "opt3": "28",
+          "opt4": "24",
+          "ans": "12"
+        },
+        {
+          "question": "A father is now three times as old as his son. Five years back, he was four times as old as his son. The age of the son (in years) is",
+          "opt1": "12",
+          "opt2": "15",
+          "opt3": "18",
+          "opt4": "20",
+          "ans": "15"
+        },
+        {
+          "question": "A waiter\'s salary consists of his salary and tips. During one week his tips were 5/4 of his salary. What fraction of his income came from tips ?",
+          "opt1": "4/9",
+          "opt2": "5/4",
+          "opt3": "5/8",
+          "opt4": "5/9",
+          "ans": "5/9"
+        },
+        {
+          "question": "If you write down all the numbers from 1 to 100, then how many times do you write 3 ?",
+          "opt1": "11",
+          "opt2": "18",
+          "opt3": "20",
+          "opt4": "21",
+          "ans": "20"
+        },
+        {
+          "question": "If 100 cats kill 100 mice in 100 days, then 4 cats would kill 4 mice in how many days ?",
+          "opt1": "1 day",
+          "opt2": "4 days",
+          "opt3": "40 days",
+          "opt4": "100 days",
+          "ans": "100 days"
+        },
+        {
+          "question": "Five bells begin to toll together and toll respectively at intervals of 6, 5, 7, 10 and 12 seconds. How many times will they toll together in one hour excluding the one at the start ?",
+          "opt1": "7 times",
+          "opt2": "8 times",
+          "opt3": "9 times",
+          "opt4": "11 times",
+          "ans": "8 times"
+        },
+        {
+          "question": "A bus starts from city X. The number of women in the bus is half of the number of men. In city Y, 10 men leave the bus and five women enter. Now, number of men and women is equal. In the beginning, how many passengers entered the bus ?",
+          "opt1": "15",
+          "opt2": "30",
+          "opt3": "36",
+          "opt4": "45",
+          "ans": "45"
+        },
+        {
+          "question": "A, B, C, D and E play a game of cards. A says to B, \"If you give me 3 cards, you will have as many as I have at this moment while if D takes 5 cards from you, he will have as many as E has.\" A and C together have twice as many cards as E has. B and D together also have the same number of cards as A and C taken together. If together they have 150 cards, how many cards has C got?",
+          "opt1": "28",
+          "opt2": "29",
+          "opt3": "31",
+          "opt4": "35",
+          "ans": "28"
+        },
+        {
+          "question": "A farmer built a fence around his square plot. He used 27 fence poles on each side of the square. How many poles did he need altogether ?",
+          "opt1": "100",
+          "opt2": "104",
+          "opt3": "108",
+          "opt4": "None of these",
+          "ans": "104"
+        },
+        {
+          "question": "In a city, 40% of the adults are illiterate while 85% of the children are literate. If the ratio of the adults to that of the children is 2 : 3, then what percent of the population is literate ?",
+          "opt1": "20%",
+          "opt2": "25%",
+          "opt3": "50%",
+          "opt4": "75%",
+          "ans": "75%"
+        },
+        {
+          "question": "A is three times as old as B. C was twice-as old as A four years ago. In four years\' time, A will be 31. What are the present ages of B and C ?",
+          "opt1": "9, 46",
+          "opt2": "9, 50",
+          "opt3": "10, 46",
+          "opt4": "10, 50",
+          "ans": "9, 50"
+        },
+        {
+          "question": "Today is Varun\'s birthday. One year, from today he will be twice as old as he was 12 years ago. How old is Varun today ?",
+          "opt1": "20 years",
+          "opt2": "22 years",
+          "opt3": "25 years",
+          "opt4": "27 years",
+          "ans": "25 years"
+        },
+        {
+          "question": "A bird shooter was askgd how many birds he had in the bag. He replied that there were all sparrows but six, all pigeons but six, and all ducks but six. How many birds he had in the bag in all?",
+          "opt1": "9",
+          "opt2": "18",
+          "opt3": "27",
+          "opt4": "36",
+          "ans": "9"
+        },
+        {
+          "question": "Mr. Johnson was to earn £ 300 and a free holiday for seven weeks\' work. He worked for only 4 weeks and earned £ 30 and a free holiday. What was the value of the holiday?",
+          "opt1": "£ 300",
+          "opt2": "£ 330",
+          "opt3": "£ 360",
+          "opt4": "£ 420",
+          "ans": "£ 330"
+        },
+        {
+          "question": "What is the smallest number of ducks that could swim in this formation - two ducks in front of a duck, two ducks behind a duck and a duck between two ducks ?",
+          "opt1": "3",
+          "opt2": "5",
+          "opt3": "7",
+          "opt4": "9",
+          "ans": "3"
+        },
+        {
+          "question": "Three friends had dinner at a restaurant. When the bill was received, Amita paid 2/3 as much as Veena paid and Veena paid 1/2 as much as Tanya paid. What faction of the bill did Veena pay ?",
+          "opt1": "1/3",
+          "opt2": "3/11",
+          "opt3": "12/13",
+          "opt4": "5/8",
+          "ans": "3/11"
+        },
+        {
+          "question": "In a class, 20% of the members own only two cars each, 40% of the remaining own three cars each and the remaining members own only one car each. Which of the following statements is definitely true from the given statements ?",
+          "opt1": "20% of total members own three cars each",
+          "opt2": "48% of total members own only one car each",
+          "opt3": "80% of the total members own at least one car",
+          "opt4": "None of these",
+          "ans": "48% of total members own only one car each"
+        },
+        {
+          "question": "When Rahul was born, his father was 32 years older than his brother and his mother was 25 years older than his sister. If Rahul\'s brother is 6 years older than him and his mother is 3 years younger than his father, how old was Rahul\'s sister when he was born ?",
+          "opt1": "7 years",
+          "opt2": "10 years",
+          "opt3": "14 years",
+          "opt4": "19 years",
+          "ans": "10 years"
+        },
+        {
+          "question": "A certain number of horses and an equal number of men are going somewhere. Half of the owners are on their horses\' back while the remaining ones are walking along leading their horses. If the number of legs walking on the ground is 70, how many horses are there ?",
+          "opt1": "10",
+          "opt2": "12",
+          "opt3": "14",
+          "opt4": "16",
+          "ans": "14"
+        },
+        {
+          "question": "Ravi\'s brother is 3 years senior to him. His father was 28 years of age when his sister was born while his mother was 26 years of age when he was born. If his sister was 4 years of age when his brother was born, what were the ages of Ravi\'s father and mother respectively when his brother was born ?",
+          "opt1": "32 years, 23 years",
+          "opt2": "32 years, 29 years",
+          "opt3": "35 years, 29 years",
+          "opt4": "35 years, 33 years",
+          "ans": "32 years, 23 years"
+        }
+      ]
+    }
+  ],
+  "Logical Word Sequence": [
+    {
+      "Section 1": [
+        {
+          "question": "Arrange the words given below in a meaningful sequence.\n1. Key\n2. Door\n3. Lock\n4. Room\n5. Switch on",
+          "opt1": "5, 1, 2, 4, 3",
+          "opt2": "4, 2, 1, 5, 3",
+          "opt3": "1, 3, 2, 4, 5",
+          "opt4": "1, 2, 3, 5, 4",
+          "ans": "1, 3, 2, 4, 5"
+        },
+        {
+          "question": "Arrange the words given below in a meaningful sequence.\n1.\nWord\n2. Paragraph\n3. Sentence\n4. Letters\n5. Phrase",
+          "opt1": "4, 1, 5, 2, 3",
+          "opt2": "4, 1, 3, 5, 2",
+          "opt3": "4, 2, 5, 1, 3",
+          "opt4": "4, 1, 5, 3, 2",
+          "ans": "4, 1, 5, 3, 2"
+        },
+        {
+          "question": "Arrange the words given below in a meaningful sequence.\n1. Police\n2. Punishment\n3. Crime\n4. Judge\n5. Judgement",
+          "opt1": "3, 1, 2, 4, 5",
+          "opt2": "1, 2, 4, 3, 5",
+          "opt3": "5, 4, 3, 2, 1",
+          "opt4": "3, 1, 4, 5, 2",
+          "ans": "3, 1, 4, 5, 2"
+        },
+        {
+          "question": "Arrange the words given below in a meaningful sequence.\n1. Family\n2. Community\n3. Member\n4. Locality\n5. Country",
+          "opt1": "3, 1, 2, 4, 5",
+          "opt2": "3, 1, 2, 5, 4",
+          "opt3": "3, 1, 4, 2, 5",
+          "opt4": "3, 1, 4, 5, 2",
+          "ans": "3, 1, 2, 4, 5"
+        },
+        {
+          "question": "Arrange the words given below in a meaningful sequence.\n1. Poverty\n\n2. Population\n\n3. Death\n\n4. Unemployment\n\n5. Disease",
+          "opt1": "2, 3, 4, 5, 1",
+          "opt2": "3, 4, 2, 5, 1",
+          "opt3": "2, 4, 1, 5, 3",
+          "opt4": "1, 2, 3, 4, 5",
+          "ans": "2, 4, 1, 5, 3"
+        },
+        {
+          "question": "Arrange the words given below in a meaningful sequence. \n\n1. Leaf\n\n2. Fruit\n\n3. Stem\n\n4. Root\n\n5. Flower",
+          "opt1": "3, 4, 5, 1, 2",
+          "opt2": "4, 3, 1, 5, 2",
+          "opt3": "4, 1, 3, 5, 2",
+          "opt4": "4, 3, 1, 2, 5",
+          "ans": "4, 3, 1, 5, 2"
+        },
+        {
+          "question": "Arrange the words given below in a meaningful sequence. \n\n1. Nation\n\n2. Village\n\n3. City\n\n4. District\n\n5. State",
+          "opt1": "2, 3, 4, 5, 1",
+          "opt2": "2, 3, 4, 1, 5",
+          "opt3": "1, 2, 3, 4, 5",
+          "opt4": "1, 3, 5, 4, 2",
+          "ans": "2, 3, 4, 5, 1"
+        },
+        {
+          "question": "Arrange the words given below in a meaningful sequence. \n\n1. Caste\n\n2. Family\n\n3. Newly married Couple\n\n4. Clan\n\n5. Species",
+          "opt1": "2, 3, 1, 4, 5",
+          "opt2": "3, 4, 5, 1, 2",
+          "opt3": "3, 2, 1, 4, 5",
+          "opt4": "4, 5, 3, 2, 1",
+          "ans": "3, 2, 1, 4, 5"
+        },
+        {
+          "question": "Arrange the words given below in a meaningful sequence. \n\n1. Cut\t\n\n2. Put on\n\n3. Mark\n\n4. Measure\n\n5. Tailor",
+          "opt1": "3, 1, 5, 4, 2",
+          "opt2": "2, 4, 3, 1, 5",
+          "opt3": "1, 3, 2, 4, 5",
+          "opt4": "4, 3, 1, 5, 2",
+          "ans": "4, 3, 1, 5, 2"
+        },
+        {
+          "question": "Arrange the words given below in a meaningful sequence. \n\n1. House\n\n2. Street\n\n3. Room\n\n4. Town\n\n5. District",
+          "opt1": "3, 2, 1, 4, 5",
+          "opt2": "3, 1, 4, 2, 5",
+          "opt3": "3, 1, 2, 4, 5",
+          "opt4": "3, 1, 2, 5, 4",
+          "ans": "3, 1, 2, 4, 5"
+        }
+      ]
+    },
+    {
+      "Section 2": [
+        {
+          "question": "Arrange the words given below in a meaningful sequence. \n\n1. Wall\n\n2. Clay\n\n3. House\n\n4. Room\n\n5. Bricks",
+          "opt1": "5, 2, 1, 4, 3",
+          "opt2": "2, 5, 4, 1, 3",
+          "opt3": "2, 5, 1, 4, 3",
+          "opt4": "1, 2, 3, 4, 5",
+          "ans": "2, 5, 1, 4, 3"
+        },
+        {
+          "question": "Arrange the words given below in a meaningful sequence. \n\n1. Probation\n\n2. Interview\n\n3. Selection\n\n4. Appointment\n\n5. Advertisement\n\n6. Application",
+          "opt1": "5, 6, 3, 2, 4, 1",
+          "opt2": "5, 6, 4, 2, 3, 1",
+          "opt3": "5, 6, 2, 3, 4, 1",
+          "opt4": "6, 5, 4, 2, 3, 1",
+          "ans": "5, 6, 2, 3, 4, 1"
+        },
+        {
+          "question": "Arrange the words given below in a meaningful sequence.\n1. Elephant\n 2. Cat\n 3. Mosquito\n 4. Tiger\n 5. Whale",
+          "opt1": "5, 3, 1, 2, 4",
+          "opt2": "3, 2, 4, 1, 5",
+          "opt3": "1, 3, 5, 4, 2",
+          "opt4": "2, 5, 1, 4, 3",
+          "ans": "3, 2, 4, 1, 5"
+        },
+        {
+          "question": "Arrange the words given below in a meaningful sequence.\n1. Yarn\n 2. Plant\n 3. Saree\n 4. Cotton\n 5. Cloth",
+          "opt1": "2, 4, 5, 1, 3",
+          "opt2": "2, 4, 3, 5, 1",
+          "opt3": "2, 4, 1, 5, 3",
+          "opt4": "2, 4, 5, 3, 1",
+          "ans": "2, 4, 1, 5, 3"
+        },
+        {
+          "question": "Arrange the words given below in a meaningful sequence.\n1. Infant\n 2. Old\n 3. Adult\n 4. Adolescent\n 5. Child",
+          "opt1": "5, 4, 3, 2, 1",
+          "opt2": "3, 4, 2, 1, 5",
+          "opt3": "2, 3, 4, 5, 1",
+          "opt4": "1, 5, 4, 3, 2",
+          "ans": "1, 5, 4, 3, 2"
+        },
+        {
+          "question": "Arrange the words given below in a meaningful sequence.\n1. Leaves\n 2. Branch\n 3. Flower\n4. Tree\n 5. Fruit",
+          "opt1": "4, 3, 1, 2, 5",
+          "opt2": "4, 2, 5, 1, 3",
+          "opt3": "4, 3, 2, 1, 5",
+          "opt4": "4, 2, 1, 3, 5",
+          "ans": "4, 2, 1, 3, 5"
+        },
+        {
+          "question": "Arrange the words given below in a meaningful sequence.\n1. Tree\n 2. Seed\n 3. Flowers\n 4. Fruit\n 5. Plant",
+          "opt1": "5, 2, 1, 3, 4",
+          "opt2": "2, 5, 1, 4, 3",
+          "opt3": "2, 5, 1, 3, 4",
+          "opt4": "2, 5, 3, 1, 4",
+          "ans": "2, 5, 1, 3, 4"
+        },
+        {
+          "question": "Arrange the words given below in a meaningful sequence.\n1. Adult\n 2. Child\n 3. Infant\n 4. Boy\n 5. Adolescent",
+          "opt1": "1, 3, 4, 5, 2",
+          "opt2": "2, 3, 5, 4, 1",
+          "opt3": "2, 3, 4, 1, 5",
+          "opt4": "3, 2, 4, 5, 1",
+          "ans": "3, 2, 4, 5, 1"
+        },
+        {
+          "question": "Arrange the words given below in a meaningful sequence.\n1. Protect\n 2. Pressure\n 3. Relief\n 4. Rain\n 5. Flood",
+          "opt1": "2, 4, 3, 1, 5",
+          "opt2": "2, 4, 5, 1, 3",
+          "opt3": "2, 5, 4, 1, 3",
+          "opt4": "2, 5, 4, 1, 3",
+          "ans": "2, 4, 5, 1, 3"
+        },
+        {
+          "question": "Arrange the words given below in a meaningful sequence.\n1. Presentation\n 2. Recommendation\n 3. Arrival\n 4. Discussion\n 5. Introduction",
+          "opt1": "5, 3, 4, 1, 2",
+          "opt2": "3, 5, 4, 2, 1",
+          "opt3": "3, 5, 1, 4, 2",
+          "opt4": "5, 3, 1, 2, 4",
+          "ans": "3, 5, 1, 4, 2"
+        }
+      ]
+    },
+    {
+      "Section 3": [
+        {
+          "question": "Arrange the words given below in a meaningful sequence.\n1. Income\n 2. Status\n 3. Education\n 4. Well-being\n 5. Job",
+          "opt1": "3, 1, 5, 2, 4",
+          "opt2": "1, 3, 2, 5, 4",
+          "opt3": "1, 2, 5, 3, 4",
+          "opt4": "3, 5, 1, 2, 4",
+          "ans": "3, 5, 1, 2, 4"
+        },
+        {
+          "question": "Arrange the words given below in a meaningful sequence.\n1. Heel\t2. Shoulder\n 3. Skull\t\t4. Neck\n 5. Knee\t\t6. Chest\t\n 7. Thigh\t\t\t8. Stomach\n 9. Face\t\t10. Hand",
+          "opt1": "3, 4, 7, 9, 2, 5, 8, 10, 6, 1",
+          "opt2": "3, 9, 4, 2, 10, 6, 8, 7, 5, 1",
+          "opt3": "2, 4, 7, 10, 1, 5, 8, 9, 6, 3",
+          "opt4": "4, 7, 10, 1, 9, 6, 2, 5, 8, 3",
+          "ans": "3, 9, 4, 2, 10, 6, 8, 7, 5, 1"
+        },
+        {
+          "question": "Arrange the words given below in a meaningful sequence.\n1. Rainbow\n2. Rain\n3. Sun\n4. Happy\n5. Child",
+          "opt1": "4, 2, 3, 5, 1",
+          "opt2": "2, 3, 1, 5, 4",
+          "opt3": "4, 5, 1, 2, 3",
+          "opt4": "2, 1, 4, 5, 3",
+          "ans": "2, 3, 1, 5, 4"
+        },
+        {
+          "question": "Arrange the words given below in a meaningful sequence.\n1. Never   \n2. Sometimes   \n3. Generally   \n4. Seldom   \n5. Always",
+          "opt1": "5, 2, 1, 3, 4",
+          "opt2": "5, 2, 4, 3, 1",
+          "opt3": "5, 3, 2, 1, 4",
+          "opt4": "5, 3, 2, 4, 1",
+          "ans": "5, 3, 2, 4, 1"
+        },
+        {
+          "question": "Arrange the words given below in a meaningful sequence.\n1. Index   \n2. Contents   \n3. Title   \n4. Chapters   \n5. Introduction",
+          "opt1": "2, 3, 4, 5, 1",
+          "opt2": "3, 2, 5, 1, 4",
+          "opt3": "3, 2, 5, 4, 1",
+          "opt4": "5, 1, 4, 2, 3",
+          "ans": "3, 2, 5, 4, 1"
+        },
+        {
+          "question": "Arrange the words given below in a meaningful sequence.\n1. Income   \n2. Status   \n3. Education   \n4. Well-being   \n5. Job",
+          "opt1": "1, 2, 5, 3, 4",
+          "opt2": "1, 3, 2, 5, 4",
+          "opt3": "3, 1, 5, 2, 4",
+          "opt4": "3, 5, 1, 2, 4",
+          "ans": "3, 5, 1, 2, 4"
+        },
+        {
+          "question": "Arrange the words given below in a meaningful sequence.\n1. Table   \n2. Tree   \n3. Wood   \n4. Seed   \n5. Plant",
+          "opt1": "1, 2, 3, 4, 5",
+          "opt2": "1, 3, 2, 4, 5",
+          "opt3": "4, 5, 2, 3, 1",
+          "opt4": "4, 5, 3, 2, 1",
+          "ans": "4, 5, 2, 3, 1"
+        },
+        {
+          "question": "Arrange the words given below in a meaningful sequence.\n1. Windows\t\t2. Walls   \n3. Floor\t\t4. Foundation   \n5. Roof\t\t6. Room",
+          "opt1": "4, 1, 5, 6, 2, 3",
+          "opt2": "4, 2, 1, 5, 3, 6",
+          "opt3": "4, 3, 5, 6, 2, 1",
+          "opt4": "4, 5, 3, 2, 1, 6",
+          "ans": "4, 2, 1, 5, 3, 6"
+        },
+        {
+          "question": "Arrange the words given below in a meaningful sequence.\n1. Presentation   \n2. Recommendation   \n3. Arrival   \n4. Discussion   \n5. Introduction",
+          "opt1": "3, 5, 1, 4, 2",
+          "opt2": "3, 5, 4, 2, 1",
+          "opt3": "5, 3, 1, 2, 4",
+          "opt4": "5, 3, 4, 1, 2",
+          "ans": "3, 5, 1, 4, 2"
+        },
+        {
+          "question": "Arrange the words given below in a meaningful sequence.\n1. Butterfly   \n2. Cocoon   \n3. Egg   \n4. Worm",
+          "opt1": "1, 3, 4, 2",
+          "opt2": "1, 4, 3, 2",
+          "opt3": "2, 4, 1, 3",
+          "opt4": "3, 4, 2, 1",
+          "ans": "3, 4, 2, 1"
+        }
+      ]
+    },
+    {
+      "Section 4": [
+        {
+          "question": "Arrange the words given below in a meaningful sequence.\n1. Site   \n2. Plan   \n3. Rent   \n4. Money   \n5. Building   \n6. Construction",
+          "opt1": "1, 2, 3, 6, 5, 4",
+          "opt2": "2, 3, 6, 5, 1, 4",
+          "opt3": "3, 4, 2, 6, 5, 1",
+          "opt4": "4, 1, 2, 6, 5, 3",
+          "ans": "4, 1, 2, 6, 5, 3"
+        },
+        {
+          "question": "Arrange the words given below in a meaningful sequence.\n1. Key   \n2. Door   \n3. Lock   \n4. Room   \n5. Switch on",
+          "opt1": "1, 2, 3, 5, 4",
+          "opt2": "1, 3, 2, 4, 5",
+          "opt3": "5, 1, 2, 4, 3",
+          "opt4": "4, 2, 1, 5, 3",
+          "ans": "1, 3, 2, 4, 5"
+        },
+        {
+          "question": "Arrange the words given below in a meaningful sequence.\n1. District   \n2. Village   \n3. State   \n4. Town   \n5. City",
+          "opt1": "2, 4, 1, 5, 3",
+          "opt2": "2, 1, 4, 5, 3",
+          "opt3": "5, 3, 2, 1, 4",
+          "opt4": "2, 5, 3, 4, 1",
+          "ans": "2, 4, 1, 5, 3"
+        },
+        {
+          "question": "Arrange the words given below in a meaningful sequence.\n1. Rainbow   \n2. Rain   \n3. Sun   \n4. Happy   \n5. Child",
+          "opt1": "2, 1, 4, 3, 5",
+          "opt2": "2, 3, 1, 5, 4",
+          "opt3": "4, 2, 3, 5, 1",
+          "opt4": "4, 5, 1, 2, 3",
+          "ans": "2, 3, 1, 5, 4"
+        },
+        {
+          "question": "Arrange the words given below in a meaningful sequence.\n1. Heel\t\t2. Shoulder   \n3. Skull\t\t4. Neck   \n5. Knee\t\t6. Chest   \n7. Thigh\t\t8. Stomach   \n9. Face\t\t10. Hand",
+          "opt1": "2, 4, 7, 10, 1, 5, 8, 9, 6, 3",
+          "opt2": "3, 4, 7, 9, 2, 5, 8, 10, 6, 1",
+          "opt3": "4, 7, 10, 1, 9, 6, 3, 2, 5, 8,",
+          "opt4": "3, 9, 4, 2, 10, 6, 8, 7, 5, 1",
+          "ans": "3, 9, 4, 2, 10, 6, 8, 7, 5, 1"
+        },
+        {
+          "question": "Arrange the words given below in a meaningful sequence.\n1. Cutting   \n2. Dish   \n3. Vegetable   \n4. Market   \n5. Cooking",
+          "opt1": "1, 2, 4, 5, 3",
+          "opt2": "3, 2, 5, 1, 4",
+          "opt3": "4, 3, 1, 5, 2",
+          "opt4": "5, 3, 2, 1, 4",
+          "ans": "4, 3, 1, 5, 2"
+        },
+        {
+          "question": "Arrange the words given below in a meaningful sequence.\n1. Elephant   \n2. Cat   \n3. Mosquito   \n4. Tiger   \n5. Whale",
+          "opt1": "1, 3, 5, 4, 2",
+          "opt2": "2, 5, 1, 4, 3",
+          "opt3": "3, 2, 4, 1, 5",
+          "opt4": "5, 3, 1, 2, 4",
+          "ans": "3, 2, 4, 1, 5"
+        },
+        {
+          "question": "Arrange the words given below in a meaningful sequence.\n1. Cut   \n2. Put on   \n3. Mark   \n4. Measure   \n5. Tailor",
+          "opt1": "1, 3, 2, 4, 5",
+          "opt2": "2, 4, 3, 1, 5",
+          "opt3": "3, 1, 5, 4, 2",
+          "opt4": "4, 3, 1, 5, 2",
+          "ans": "4, 3, 1, 5, 2"
+        },
+        {
+          "question": "Arrange the words given below in a meaningful sequence.\n1. Yarn   \n2. Plant   \n3. Saree   \n4. Cotton   \n5. Cloth",
+          "opt1": "2, 4, 1, 5, 3",
+          "opt2": "2, 4, 3, 5, 1",
+          "opt3": "2, 4, 5, 1, 3",
+          "opt4": "2, 4, 5, 3, 1",
+          "ans": "2, 4, 1, 5, 3"
+        },
+        {
+          "question": "Arrange the words given below in a meaningful sequence.\n1. Police   \n2. Punishment   \n3. Crime   \n4. Justice   \n5. Judgement",
+          "opt1": "1, 2, 3, 4, 5",
+          "opt2": "3, 1, 2, 4, 5",
+          "opt3": "3, 1, 4, 5, 2",
+          "opt4": "5, 4, 3, 2, 1",
+          "ans": "3, 1, 4, 5, 2"
+        }
+      ]
+    },
+    {
+      "Section 5": [
+        {
+          "question": "Arrange the words given below in a meaningful sequence.\n1. Rain\t\t2. Monsoon   \n3. Rescue\t\t4. Flood   \n5. Shelter\t\t6. Relief",
+          "opt1": "1, 2, 3, 4, 5, 6",
+          "opt2": "1, 2, 4, 5, 3, 6",
+          "opt3": "2, 1, 4, 3, 5, 6",
+          "opt4": "2, 1, 4, 3, 5, 6",
+          "ans": "2, 1, 4, 3, 5, 6"
+        },
+        {
+          "question": "Arrange the words given below in a meaningful sequence.\n1. Milky way   \n2. Sun   \n3. Moon   \n4. Earth   \n5. Stars",
+          "opt1": "1, 4, 3, 2, 5",
+          "opt2": "2, 3, 4, 5, 1",
+          "opt3": "3, 4, 2, 5, 1",
+          "opt4": "4, 3, 2, 5, 1",
+          "ans": "3, 4, 2, 5, 1"
+        },
+        {
+          "question": "Arrange the words given below in a meaningful sequence.\n1. Foetus   \n2. Child   \n3. Baby   \n4. Adult   \n5. Youth",
+          "opt1": "1, 2, 4, 3, 5",
+          "opt2": "1, 3, 2, 5, 4",
+          "opt3": "2, 3, 5, 4, 1",
+          "opt4": "5, 4, 2, 3, 1",
+          "ans": "1, 3, 2, 5, 4"
+        },
+        {
+          "question": "Arrange the words given below in a meaningful sequence.\n1. Sea   \n2. Rivulet   \n3. Ocean   \n4. River   \n5. Glacier",
+          "opt1": "5, 2, 1, 3, 4",
+          "opt2": "5, 2, 4, 1, 3",
+          "opt3": "5, 4, 2, 3, 1",
+          "opt4": "5, 4, 3, 2, 1",
+          "ans": "5, 2, 4, 1, 3"
+        },
+        {
+          "question": "Arrange the words given below in a meaningful sequence.\n1. Doctor   \n2. Fever   \n3. Prescribe   \n4. Diagnose   \n5. Medicine",
+          "opt1": "1, 4, 3, 2, 5",
+          "opt2": "2, 1, 3, 4, 5",
+          "opt3": "2, 1, 4, 3, 5",
+          "opt4": "2, 4, 3, 5, 1",
+          "ans": "2, 1, 4, 3, 5"
+        },
+        {
+          "question": "Arrange the words given below in a meaningful sequence.\n1. Reading   \n2. Composing   \n3. Writing   \n4. Printing",
+          "opt1": "1, 3, 2, 4",
+          "opt2": "2, 3, 4, 1",
+          "opt3": "3, 1, 2, 4",
+          "opt4": "3, 2, 4, 1",
+          "ans": "3, 2, 4, 1"
+        },
+        {
+          "question": "Arrange the words given below in a meaningful sequence.\n1. Hecto   \n2. Centi   \n3. Deca   \n4. Kilo   \n5. Deci",
+          "opt1": "1, 3, 4, 5, 2",
+          "opt2": "1, 5, 3, 4, 2",
+          "opt3": "2, 5, 3, 1, 4",
+          "opt4": "5, 2, 1, 4, 3",
+          "ans": "2, 5, 3, 1, 4"
+        },
+        {
+          "question": "Arrange the words given below in a meaningful sequence.\n1. Honey   \n2. Flower   \n3. Bee   \n4. Wax",
+          "opt1": "2, 3, 1, 4",
+          "opt2": "1, 3, 4, 2",
+          "opt3": "2, 1, 4, 3",
+          "opt4": "4, 3, 2, 1",
+          "ans": "2, 3, 1, 4"
+        },
+        {
+          "question": "Arrange the words given below in a meaningful sequence.\n1. Probation\t\t2. Interview   \n3. Selection\t\t4. Appointment   \n5. Advertisement\t\t6. Application",
+          "opt1": "5, 6, 2, 3, 4, 1",
+          "opt2": "5, 6, 3, 2, 4, 1",
+          "opt3": "5, 6, 4, 2, 3, 1",
+          "opt4": "6, 5, 4, 2, 3, 1",
+          "ans": "5, 6, 2, 3, 4, 1"
+        },
+        {
+          "question": "Arrange the words given below in a meaningful sequence.\n1. Country   \n2. Furniture   \n3. Forest   \n4. Wood   \n5. Trees",
+          "opt1": "1, 3, 5, 4, 2",
+          "opt2": "1, 4, 3, 2, 5",
+          "opt3": "2, 4, 3, 1, 5",
+          "opt4": "5, 2, 3, 1, 4",
+          "ans": "1, 3, 5, 4, 2"
+        },
+        {
+          "question": "Arrange the words given below in a meaningful sequence.\n1. Patient   \n2. Diagnosis   \n3. Bill   \n4. Doctor   \n5. Treatment",
+          "opt1": "1, 4, 2, 3, 5",
+          "opt2": "1, 4, 2, 5, 3",
+          "opt3": "1, 4, 3, 2, 5",
+          "opt4": "4, 1, 2, 3, 5",
+          "ans": "1, 4, 2, 5, 3"
+        },
+        {
+          "question": "Arrange the words given below in a meaningful sequence.\n1. Andhra Pradesh   \n2. Universe   \n3. Tirupati   \n4. World   \n5. India",
+          "opt1": "1, 5, 3, 2, 4",
+          "opt2": "2, 1, 3, 5, 4",
+          "opt3": "3, 1, 5, 4, 2",
+          "opt4": "5, 4, 2, 1, 3",
+          "ans": "3, 1, 5, 4, 2"
+        },
+        {
+          "question": "Arrange the words given below in a meaningful sequence.\n1. Study   \n2. Job   \n3. Examination   \n4. Earn   \n5. Apply",
+          "opt1": "1, 3, 2, 5, 4",
+          "opt2": "1, 2, 3, 4, 5",
+          "opt3": "1, 3, 5, 2, 4",
+          "opt4": "1, 3, 5, 4, 2",
+          "ans": "1, 3, 5, 2, 4"
+        },
+        {
+          "question": "Arrange the words given below in a meaningful sequence.\n1. Atomic Age   \n2. Metallic Age   \n3. Stone Age   \n4. Alloy Age",
+          "opt1": "1, 3, 4, 2",
+          "opt2": "2, 3, 1, 4",
+          "opt3": "3, 2, 4, 1",
+          "opt4": "4, 3, 2, 1",
+          "ans": "3, 2, 4, 1"
+        },
+        {
+          "question": "Arrange the words given below in a meaningful sequence.\n1. Book   \n2. Pulp   \n3. Timber   \n4. Jungle   \n5. Paper",
+          "opt1": "2, 5, 1, 4, 3",
+          "opt2": "3, 2, 5, 1, 4",
+          "opt3": "4, 3, 2, 5, 1",
+          "opt4": "5, 4, 3, 1, 2",
+          "ans": "4, 3, 2, 5, 1"
+        },
+        {
+          "question": "Arrange the words given below in a meaningful sequence.\n1. Sentence\t\t2. Chapter   \n3. Letter\t\t4. Book   \n5. Word\t\t6. Paragraph",
+          "opt1": "4, 2, 1, 6, 5, 3",
+          "opt2": "4, 2, 6, 1, 5, 3",
+          "opt3": "4, 6, 1, 2, 3, 5",
+          "opt4": "4, 6, 2, 5, 1, 3",
+          "ans": "4, 2, 6, 1, 5, 3"
+        },
+        {
+          "question": "Arrange the words given below in a meaningful sequence.\n1. Leaf   \n2. Fruit   \n3. Stem   \n4. Root   \n5. Flower",
+          "opt1": "3, 4, 5, 1, 2",
+          "opt2": "4, 1, 3, 5, 2",
+          "opt3": "4, 3, 1, 2, 5",
+          "opt4": "4, 3, 1, 5, 2",
+          "ans": "4, 3, 1, 5, 2"
+        },
+        {
+          "question": "Arrange the words given below in a meaningful sequence.\n1. College   \n2. Child   \n3. Salary   \n4. School   \n5. Employment",
+          "opt1": "1, 2, 4, 3, 5",
+          "opt2": "2, 4, 1, 5, 3",
+          "opt3": "4, 1, 3, 5, 2",
+          "opt4": "5, 3, 2, 1, 4",
+          "ans": "2, 4, 1, 5, 3"
+        },
+        {
+          "question": "Arrange the words given below in a meaningful sequence.\n1. Puberty\t\t2. Adulthood   \n3. Childhood\t\t4. Infancy\n5. Senescence\t\t6. Adolescence",
+          "opt1": "4, 3, 1, 6, 2, 5",
+          "opt2": "2, 4, 6, 3, 1, 5",
+          "opt3": "4, 3, 6, 2, 1, 5",
+          "opt4": "5, 6, 2, 3, 4, 1",
+          "ans": "4, 3, 1, 6, 2, 5"
+        },
+        {
+          "question": "Arrange the words given below in a meaningful sequence.\n1. Mother   \n2. Child   \n3. Milk   \n4. Cry   \n5. Smile",
+          "opt1": "1, 5, 2, 4, 3",
+          "opt2": "2, 4, 1, 3, 5",
+          "opt3": "2, 4, 3, 1, 5",
+          "opt4": "3, 2, 1, 5, 4",
+          "ans": "2, 4, 1, 3, 5"
+        }
+      ]
+    }
+  ],
+  "Blood Relations": [
+    {
+      "Section 1": [
+        {
+          "question": "Pointing to a photograph of a boy Suresh said, \"He is the son of the only son of my mother.\" How is Suresh related to that boy?",
+          "opt1": "Brother",
+          "opt2": "Uncle",
+          "opt3": "Cousin",
+          "opt4": "Father",
+          "ans": "Father"
+        },
+        {
+          "question": "If A + B means A is the mother of B; A - B means A is the brother B; A % B means A is the father of B and A x B means A is the sister of B, which of the following shows that P is the maternal uncle of Q?",
+          "opt1": "Q - N + M x P",
+          "opt2": "P + S x N - Q",
+          "opt3": "P - M + N x Q",
+          "opt4": "Q - S % P",
+          "ans": "P - M + N x Q"
+        },
+        {
+          "question": "If A is the brother of B; B is the sister of C; and C is the father of D, how D is related to A?",
+          "opt1": "Brother",
+          "opt2": "Sister",
+          "opt3": "Nephew",
+          "opt4": "Cannot be determined",
+          "ans": "Cannot be determined"
+        },
+        {
+          "question": "If A + B means A is the brother of B; A - B means A is the sister of B and A x B means A is the father of B. Which of the following means that C is the son of M?",
+          "opt1": "M - N x C + F",
+          "opt2": "F - C + N x M",
+          "opt3": "N + M - F x C",
+          "opt4": "M x N - C + F",
+          "ans": "M x N - C + F"
+        },
+        {
+          "question": "Introducing a boy, a girl said, \"He is the son of the daughter of the father of my uncle.\" How is the boy related to the girl?",
+          "opt1": "Brother",
+          "opt2": "Nephew",
+          "opt3": "Uncle",
+          "opt4": "Son-in-law",
+          "ans": "Brother"
+        },
+        {
+          "question": "Pointing to a photograph Lata says, \"He is the son of the only son of my grandfather.\" How is the man in the photograph related to Lata?",
+          "opt1": "Brother",
+          "opt2": "Uncle",
+          "opt3": "Cousin",
+          "opt4": "Data is inadequate",
+          "ans": "Brother"
+        },
+        {
+          "question": "If A + B means A is the brother of B; A x B means A is the son of B; and A % B means B is the daughter of A then which of the following means M is the maternal uncle of N?",
+          "opt1": "M + O x N",
+          "opt2": "M % O x N + P",
+          "opt3": "M + O % N",
+          "opt4": "None of these",
+          "ans": "None of these"
+        },
+        {
+          "question": "If D is the brother of B, how B is related to C? To answer this question which of the statements is/are necessary?\n1. The son of D is the grandson of C.\n2. B is the sister of D.",
+          "opt1": "Only 1",
+          "opt2": "Only 2",
+          "opt3": "Either 1 or 2",
+          "opt4": "1 and 2 both are required",
+          "ans": "1 and 2 both are required"
+        },
+        {
+          "question": "If A + B means A is the father of B; A - B means A is the brother B; A % B means A is the wife of B and A x B means A is the mother of B, which of the following shows that M is the maternal grandmother of T?",
+          "opt1": "M x N % S + T",
+          "opt2": "M x N - S % T",
+          "opt3": "M x S - N % T",
+          "opt4": "M x N x S % T",
+          "ans": "M x N % S + T"
+        },
+        {
+          "question": "Pointing to a photograph. Bajpai said, \"He is the son of the only daughter of the father of my brother.\" How Bajpai is related to the man in the photograph?",
+          "opt1": "Nephew",
+          "opt2": "Brother",
+          "opt3": "Father",
+          "opt4": "Maternal Uncle",
+          "ans": "Maternal Uncle"
+        }
+      ]
+    },
+    {
+      "Section 2": [
+        {
+          "question": "Deepak said to Nitin, \"That boy playing with the football is the younger of the two brothers of the daughter of my father\'s wife.\" How is the boy playing football related to Deepak?",
+          "opt1": "Son",
+          "opt2": "Brother",
+          "opt3": "Cousin",
+          "opt4": "Brother-in-law",
+          "ans": "Brother"
+        },
+        {
+          "question": "Pointing a photograph X said to his friend Y, \"She is the only daughter of the father of my mother.\" How X is related to the person of photograph?",
+          "opt1": "Daughter",
+          "opt2": "Son",
+          "opt3": "Nephew",
+          "opt4": "Cannot be decided",
+          "ans": "Son"
+        },
+        {
+          "question": "Veena who is the sister-in-law of Ashok, is the daughter-in-law of Kalyani. Dheeraj is the father of Sudeep who is the only brother of Ashok. How Kalyani is related to Ashok?",
+          "opt1": "Mother-in-law",
+          "opt2": "Aunt",
+          "opt3": "Wife",
+          "opt4": "None of these",
+          "ans": "None of these"
+        },
+        {
+          "question": "If A + B means A is the sister of B; A x B means A is the wife of B, A % B means A is the father of B and A - B means A is the brother of B. Which of the following means T is the daughter of P?",
+          "opt1": "P x Q % R + S - T",
+          "opt2": "P x Q % R - T + S",
+          "opt3": "P x Q % R + T - S",
+          "opt4": "P x Q % R + S + T",
+          "ans": "P x Q % R - T + S"
+        },
+        {
+          "question": "Pointing to a woman, Abhijit said, \"Her granddaughter is the only daughter of my brother.\" How is the woman related to Abhijit?",
+          "opt1": "Sister",
+          "opt2": "Grandmother",
+          "opt3": "Mother-in-law",
+          "opt4": "Mother",
+          "ans": "Mother"
+        },
+        {
+          "question": "Amit said - \"This girl is the wife of the grandson of my mother\". How is Amit related to the girl?",
+          "opt1": "Brother",
+          "opt2": "Grandfather",
+          "opt3": "Husband",
+          "opt4": "Father-in-law",
+          "ans": "Father-in-law"
+        },
+        {
+          "question": "A and B are children of D. Who is the father of A? To answer this question which of the statements (1) and (2) is necessary?\n1. C is the brother of A and the son of E.\n2. F is the mother B.",
+          "opt1": "Only (1)",
+          "opt2": "Only (2)",
+          "opt3": "Either (1) or (2)",
+          "opt4": "(1) and (2) both",
+          "ans": "Only (2)"
+        },
+        {
+          "question": "Pointing towards a man, a woman said, \"His mother is the only daughter of my mother.\" How is the woman related to the man?",
+          "opt1": "Mother",
+          "opt2": "Grandmother",
+          "opt3": "Sister",
+          "opt4": "Daughter",
+          "ans": "Mother"
+        },
+        {
+          "question": "If P $ Q means P is the brother of Q; P # Q means P is the mother of Q; P * Q means P is the daughter of Q in A # B $ C * D, who is the father?",
+          "opt1": "D",
+          "opt2": "B",
+          "opt3": "C",
+          "opt4": "Data is inadequate",
+          "ans": "D"
+        },
+        {
+          "question": "Introducing Sonia, Aamir says, \"She is the wife of only nephew of only brother of my mother.\" How Sonia is related to Aamir?",
+          "opt1": "Wife",
+          "opt2": "Sister",
+          "opt3": "Sister-in-law",
+          "opt4": "Data is inadequate",
+          "ans": "Wife"
+        }
+      ]
+    },
+    {
+      "Section 3": [
+        {
+          "question": "If A + B means A is the brother of B; A % B means A is the father of B and A x B means A is the sister of B. Which of the following means M is the uncle of P?",
+          "opt1": "M % N x P",
+          "opt2": "N x P % M",
+          "opt3": "M + S % R % P",
+          "opt4": "M + K % T x P",
+          "ans": "M + K % T x P"
+        },
+        {
+          "question": "Pointing to Varman, Madhav said, \"I am the only son of one of the sons of his father.\" How is Varman related to Madhav?",
+          "opt1": "Nephew",
+          "opt2": "Uncle",
+          "opt3": "Father or Uncle",
+          "opt4": "Father",
+          "ans": "Father or Uncle"
+        },
+        {
+          "question": "Introducing a woman, Shashank said, \"She is the mother of the only daughter of my son.\" How that woman is related to Shashank?",
+          "opt1": "Daughter",
+          "opt2": "Sister-in-law",
+          "opt3": "Wife",
+          "opt4": "Daughter-in-law",
+          "ans": "Daughter-in-law"
+        },
+        {
+          "question": "If A + B means B is the brother of A; A x B means B is the husband of A; A - B means A is the mother of B and A % B means A is the father of B, which of the following relations shows that Q is the grandmother of T?",
+          "opt1": "Q - P + R % T",
+          "opt2": "P x Q % R - T",
+          "opt3": "P x Q % R + T",
+          "opt4": "P + Q % R - T",
+          "ans": "Q - P + R % T"
+        },
+        {
+          "question": "1. A3P means A is the mother of P\n2. A4P means A is the brother of P\n3. A9P means A is the husband of P\n4. A5P means A is the daughter of nWhich of the following means that K is the mother-in-law of M?",
+          "opt1": "M9N3K4J",
+          "opt2": "M9N5K3J",
+          "opt3": "K5J9M3N",
+          "opt4": "K3J9N4M",
+          "ans": "M9N5K3J"
+        },
+        {
+          "question": "Pointing to a photograph Anjali said, \"He is the son of the only son of my grandfather.\" How is the man in the photograph related to Anjali?",
+          "opt1": "Brother",
+          "opt2": "Uncle",
+          "opt3": "Son",
+          "opt4": "Data is inadequate",
+          "ans": "Brother"
+        },
+        {
+          "question": "Pointing to a person, Deepak said, \"His only brother is the father of my daughter\'s father\". How is the person related to Deepak?",
+          "opt1": "Father",
+          "opt2": "Grandfather",
+          "opt3": "Uncle",
+          "opt4": "Brother-in-law",
+          "ans": "Uncle"
+        },
+        {
+          "question": "P is the mother of K; K is the sister of D; D is the father of J. How is P related to J?",
+          "opt1": "Mother",
+          "opt2": "Grandmother",
+          "opt3": "Aunt",
+          "opt4": "Data inadequate",
+          "ans": "Grandmother"
+        },
+        {
+          "question": "If P $ Q means P is the father of Q; P # Q means P is the mother of Q and P * Q means P is the sister of Q, then N # L $ P * Q shows which of the relation of Q to N?",
+          "opt1": "Grand son",
+          "opt2": "Grand daughter",
+          "opt3": "Nephew",
+          "opt4": "Data is inadequate",
+          "ans": "Data is inadequate"
+        },
+        {
+          "question": "If A $ B means A is the brother of B; A @ B means A is the wife of B; A # B means A is the daughter of B and A * B means A is the father of B, which of the following indicates that U is the father-in-law of P?",
+          "opt1": "P @ Q $ T # U * W",
+          "opt2": "P @ W $ Q * T # U",
+          "opt3": "P @ Q $ W * T # U",
+          "opt4": "P @ Q $ T # W * U",
+          "ans": "P @ Q $ T # U * W"
+        }
+      ]
+    },
+    {
+      "Section 4": [
+        {
+          "question": "Introducing a man, a woman said, \"He is the only son of the mother of my mother.\" How is the woman related to the man?",
+          "opt1": "Mother",
+          "opt2": "Sister",
+          "opt3": "Niece",
+          "opt4": "Maternal aunt",
+          "ans": "Niece"
+        },
+        {
+          "question": "Pointing to Gopi, Nalni says, \"I am the daughter of the only son of his grandfather.\" How Nalni is related to Gopi?",
+          "opt1": "Niece",
+          "opt2": "Daughter",
+          "opt3": "Sister",
+          "opt4": "Cannot be determined",
+          "ans": "Sister"
+        },
+        {
+          "question": "A\'s son B is married with C whose sister D is married to E the brother of B. How D is related to A?",
+          "opt1": "Sister",
+          "opt2": "Daughter-in-law",
+          "opt3": "Sister-in-law",
+          "opt4": "Cousin",
+          "ans": "Daughter-in-law"
+        },
+        {
+          "question": "Pointing to a lady a person said, \"The son of her only brother is the brother of my wife.\" How is the lady related to the person?",
+          "opt1": "Maternal aunt",
+          "opt2": "Grandmother",
+          "opt3": "Sister of father-in-law",
+          "opt4": "None of these",
+          "ans": "Sister of father-in-law"
+        },
+        {
+          "question": "1. B5D means B is the father of D.\n2. B9D means B is the sister of D.\n3. B4D means B is the brother of D.\n4. B3D means B is the wife of D.Which of the following means F is the mother of K?",
+          "opt1": "F3M5K",
+          "opt2": "F5M3K",
+          "opt3": "F9M4N3K",
+          "opt4": "F3M5N3K",
+          "ans": "F3M5K"
+        },
+        {
+          "question": "A $ B means A is the father of B; A # B means A is the sister of B; A * B means A is the daughter of B and A @ B means A is the brother of B. Which of the following indicates that M is the wife of Q?",
+          "opt1": "Q $ R # T @ M",
+          "opt2": "Q $ R @ T # M",
+          "opt3": "Q $ R * T # M",
+          "opt4": "Q $ R @ T * M",
+          "ans": "Q $ R @ T * M"
+        },
+        {
+          "question": "Pointing to a girl Sandeep said, \"She is the daughter of the only sister of my father.\" How is sandeep related to the girl?",
+          "opt1": "Uncle",
+          "opt2": "Cousin",
+          "opt3": "Father",
+          "opt4": "Grandfather",
+          "ans": "Cousin"
+        },
+        {
+          "question": "If A $ B means A is the brother of B; B * C means B is the son of C; C @ D means C is the wife of D and A # D means A is the son of D, how C is related to A?",
+          "opt1": "Maternal grandmother",
+          "opt2": "Maternal aunt",
+          "opt3": "Aunt",
+          "opt4": "Mother",
+          "ans": "Mother"
+        },
+        {
+          "question": "Pointing to a boy in the photograph Reena said, \"He is the only son of the only child of my grandfather.\" How Reena is related to that boy?",
+          "opt1": "Mother",
+          "opt2": "Sister",
+          "opt3": "Aunt",
+          "opt4": "Cannot be determined",
+          "ans": "Sister"
+        }
+      ]
+    },
+    {
+      "Section 5": [
+        {
+          "question": "1. A * B means A is the sister of B\n2. A $ B means B is the mother of A\n3. A + B means A is the brother of B\n4. A = B means B is the father of A.\nWhich of the following means M is the maternal uncle of N?",
+          "opt1": "M = P + Q * N",
+          "opt2": "N + P = Q * M",
+          "opt3": "N * P $ Q * M",
+          "opt4": "None of these",
+          "ans": "None of these"
+        },
+        {
+          "question": "If M x N means M is the daughter of N; M + N means M is the father of N; M % N means M is the mother of N and M - N means M is the brother of N then P % Q + R - T x K indicates which relation of P to K?",
+          "opt1": "Daughter-in-law",
+          "opt2": "Sister-in-law",
+          "opt3": "Aunt",
+          "opt4": "None of these",
+          "ans": "None of these"
+        },
+        {
+          "question": "If P + Q means P is the brother of Q; P x Q means P is the father of Q and P - Q means P is the sister of Q, which of the following relations shows that I is the niece of K?",
+          "opt1": "K + Y + Z - I",
+          "opt2": "K + Y x I - Z",
+          "opt3": "Z - I x Y + K",
+          "opt4": "K x Y + I - Z",
+          "ans": "K + Y x I - Z"
+        },
+        {
+          "question": "Pointing towards a girl, Abhisek says, \"This girl is the daughter of only a child of my father.\" What is the relation of Abhisek\'s wife to that girl?",
+          "opt1": "Daughter",
+          "opt2": "Mother",
+          "opt3": "Aunt",
+          "opt4": "Sister",
+          "ans": "Mother"
+        },
+        {
+          "question": "If A $ B means B is the father of A; A # B means B is the mother of A; A * B means B is the sister of A and A @ B means B is the husband of A, which of the following indicates that N is the grandmother of P?",
+          "opt1": "P * Q # M $ N",
+          "opt2": "P @ Q $ M # N",
+          "opt3": "P # Q $ N * M",
+          "opt4": "None of these",
+          "ans": "None of these"
+        },
+        {
+          "question": "Anupam said to a lady sitting in a car, \"The only daughter of the brother of my wife is the sister-in-law of the brother of your sister.\" How the husband of the lady is related to Anupam?",
+          "opt1": "Maternal uncle",
+          "opt2": "Uncle",
+          "opt3": "Son-in-law",
+          "opt4": "Father",
+          "ans": "Son-in-law"
+        },
+        {
+          "question": "If P + Q means P is the brother of Q; P x Q means P is the wife of Q and P % Q means P is the daughter of Q then which of the following means D is the uncle of A?",
+          "opt1": "A % B x C + D",
+          "opt2": "A x B + C % D",
+          "opt3": "A + C % B x D",
+          "opt4": "None of these",
+          "ans": "None of these"
+        },
+        {
+          "question": "A is the son of C; C and Q are sisters; Z is the mother of Q and P is the son of Z. Which of the following statements is true?",
+          "opt1": "P and A are cousins",
+          "opt2": "P is the maternal uncle of A",
+          "opt3": "Q is the maternal grandfather of A",
+          "opt4": "C and P are sisters",
+          "ans": "P is the maternal uncle of A"
+        },
+        {
+          "question": "M is the father of N who is the son of V. In order to know the relation of M to P, which of the statement/statements is/are necessary?\n1. P is the brother of V.\n2. The daughter of N is the granddaughter of V.",
+          "opt1": "Only (1)",
+          "opt2": "Either (1) or (2)",
+          "opt3": "Only (2)",
+          "opt4": "(1) and (2) both",
+          "ans": "Only (1)"
+        },
+        {
+          "question": "Which of the following shows the relation that S is the father of Q?",
+          "opt1": "S @ P $ Q",
+          "opt2": "Q @ P % S",
+          "opt3": "Q $ S @ P",
+          "opt4": "None of these",
+          "ans": "None of these"
+        },
+        {
+          "question": "Which of the following shows the relation that C is the granddaughter of E?",
+          "opt1": "C % B $ F $ E",
+          "opt2": "B $ F $ E % C",
+          "opt3": "C @ B % F % E",
+          "opt4": "E % B $ F $ C",
+          "ans": "C @ B % F % E"
+        }
+      ]
+    }
+  ],
+  "Series Completion": [
+    {
+      "Section 1": [
+        {
+          "question": "120, 99, 80, 63, 48, ?",
+          "opt1": "35",
+          "opt2": "38",
+          "opt3": "39",
+          "opt4": "40",
+          "ans": "35"
+        },
+        {
+          "question": "589654237, 89654237, 8965423, 965423, ?",
+          "opt1": "58965",
+          "opt2": "65423",
+          "opt3": "89654",
+          "opt4": "96542",
+          "ans": "96542"
+        },
+        {
+          "question": "3, 10, 101,?",
+          "opt1": "10101",
+          "opt2": "10201",
+          "opt3": "10202",
+          "opt4": "11012",
+          "ans": "10202"
+        },
+        {
+          "question": "In the series 2, 6, 18, 54, ...... what will be the 8th term",
+          "opt1": "4370",
+          "opt2": "4374",
+          "opt3": "7443",
+          "opt4": "7434",
+          "ans": "4374"
+        },
+        {
+          "question": "125,80,45,20,?",
+          "opt1": "5",
+          "opt2": "8",
+          "opt3": "10",
+          "opt4": "12",
+          "ans": "5"
+        },
+        {
+          "question": "1, 1, 4, 8, 9, 27, 16, ?",
+          "opt1": "32",
+          "opt2": "64",
+          "opt3": "81",
+          "opt4": "256",
+          "ans": "64"
+        },
+        {
+          "question": "1, 2, 3, 6, 9, 18, ?, 54",
+          "opt1": "18",
+          "opt2": "27",
+          "opt3": "36",
+          "opt4": "81",
+          "ans": "27"
+        },
+        {
+          "question": "6, 13, 25, 51, 101, ?",
+          "opt1": "201",
+          "opt2": "202",
+          "opt3": "203",
+          "opt4": "205",
+          "ans": "203"
+        },
+        {
+          "question": "5,6,9, 15, ?, 40",
+          "opt1": "21",
+          "opt2": "25",
+          "opt3": "27",
+          "opt4": "33",
+          "ans": "25"
+        },
+        {
+          "question": "1, 3, 4, 8, 15, 27, ?",
+          "opt1": "37",
+          "opt2": "44",
+          "opt3": "50",
+          "opt4": "55",
+          "ans": "50"
+        }
+      ]
+    },
+    {
+      "Section 2": [
+        {
+          "question": "13, 32, 24, 43, 35, ?, 46, 65, 57, 76",
+          "opt1": "45",
+          "opt2": "52",
+          "opt3": "54",
+          "opt4": "55",
+          "ans": "54"
+        },
+        {
+          "question": "22, 24, 28, ?, 52, 84",
+          "opt1": "36",
+          "opt2": "38",
+          "opt3": "42",
+          "opt4": "46",
+          "ans": "36"
+        },
+        {
+          "question": "3, 15, ?, 63, 99, 143",
+          "opt1": "27",
+          "opt2": "35",
+          "opt3": "45",
+          "opt4": "56",
+          "ans": "35"
+        },
+        {
+          "question": "90, 180, 12, 50, 100, 200, ?, 3, 50, 4, 25, 2, 6, 30, 3",
+          "opt1": "150",
+          "opt2": "175",
+          "opt3": "225",
+          "opt4": "250",
+          "ans": "150"
+        },
+        {
+          "question": "48, 24, 96, 48, 192, ?",
+          "opt1": "76",
+          "opt2": "90",
+          "opt3": "96",
+          "opt4": "98",
+          "ans": "96"
+        },
+        {
+          "question": "2,15,41,80,?",
+          "opt1": "111",
+          "opt2": "120",
+          "opt3": "121",
+          "opt4": "132",
+          "ans": "132"
+        },
+        {
+          "question": "6, 11, 21, 36, 56, ?",
+          "opt1": "42",
+          "opt2": "51",
+          "opt3": "81",
+          "opt4": "91",
+          "ans": "81"
+        },
+        {
+          "question": "563, 647, 479, 815, ?",
+          "opt1": "672",
+          "opt2": "386",
+          "opt3": "279",
+          "opt4": "143",
+          "ans": "143"
+        },
+        {
+          "question": "13, 35, 57, 79, 911, ?",
+          "opt1": "1110",
+          "opt2": "1112",
+          "opt3": "1113",
+          "opt4": "1315",
+          "ans": "1113"
+        },
+        {
+          "question": "1, 4, 10, 22, 46, ?",
+          "opt1": "64",
+          "opt2": "86",
+          "opt3": "94",
+          "opt4": "122",
+          "ans": "94"
+        },
+        {
+          "question": "66, 36, 18, ?",
+          "opt1": "3",
+          "opt2": "6",
+          "opt3": "8",
+          "opt4": "9",
+          "ans": "8"
+        },
+        {
+          "question": "In the series 3, 9, 15, ...... what will be the 21st term?",
+          "opt1": "117",
+          "opt2": "121",
+          "opt3": "123",
+          "opt4": "129",
+          "ans": "123"
+        },
+        {
+          "question": "28, 33, 31, 36, ?, 39",
+          "opt1": "32",
+          "opt2": "34",
+          "opt3": "38",
+          "opt4": "40",
+          "ans": "34"
+        },
+        {
+          "question": "1, 9, 25, 49, 81, ?",
+          "opt1": "100",
+          "opt2": "112",
+          "opt3": "121",
+          "opt4": "144",
+          "ans": "121"
+        },
+        {
+          "question": "1, 9, 25, 49, ?, 121",
+          "opt1": "64",
+          "opt2": "81",
+          "opt3": "91",
+          "opt4": "100",
+          "ans": "81"
+        },
+        {
+          "question": "2,2,5, 13,28,?",
+          "opt1": "49",
+          "opt2": "50",
+          "opt3": "51",
+          "opt4": "52",
+          "ans": "52"
+        },
+        {
+          "question": "0, 2, 8, 14, ?, 34",
+          "opt1": "20",
+          "opt2": "23",
+          "opt3": "24",
+          "opt4": "25",
+          "ans": "24"
+        },
+        {
+          "question": "1, 5, 14, 30, 55, 91, ?",
+          "opt1": "130",
+          "opt2": "140",
+          "opt3": "150",
+          "opt4": "160",
+          "ans": "140"
+        },
+        {
+          "question": "In the series 10, 17, 24, 31, 38,.....which of the following will be a number of the series ?",
+          "opt1": "48",
+          "opt2": "346",
+          "opt3": "574",
+          "opt4": "1003",
+          "ans": "346"
+        },
+        {
+          "question": "240, ?, 120, 40, 10, 2",
+          "opt1": "180",
+          "opt2": "240",
+          "opt3": "420",
+          "opt4": "480",
+          "ans": "240"
+        }
+      ]
+    },
+    {
+      "Section 3": [
+        {
+          "question": "4832, 5840, 6848, ?",
+          "opt1": "7815",
+          "opt2": "7846",
+          "opt3": "7856",
+          "opt4": "7887",
+          "ans": "7856"
+        },
+        {
+          "question": "5824, 5242, ?, 4247, 3823",
+          "opt1": "4467",
+          "opt2": "4718",
+          "opt3": "4856",
+          "opt4": "5164",
+          "ans": "4718"
+        },
+        {
+          "question": "2, 8, 16, 128, ?",
+          "opt1": "2042",
+          "opt2": "2046",
+          "opt3": "2048",
+          "opt4": "2056",
+          "ans": "2048"
+        },
+        {
+          "question": "1, 2, 6, 7, 21, 22, 66, 67, ?",
+          "opt1": "70",
+          "opt2": "134",
+          "opt3": "201",
+          "opt4": "301",
+          "ans": "201"
+        },
+        {
+          "question": "0.5, 0.55, 0.65,0.8,?",
+          "opt1": "0.9",
+          "opt2": "0.82",
+          "opt3": "1",
+          "opt4": "0.95",
+          "ans": "1"
+        },
+        {
+          "question": "0, 2, 3, 5, 8, 10, 15, 17, 24, 26, ?",
+          "opt1": "28",
+          "opt2": "30",
+          "opt3": "32",
+          "opt4": "35",
+          "ans": "35"
+        },
+        {
+          "question": "11, 13, 17, 19, 23, 25, ?",
+          "opt1": "26",
+          "opt2": "27",
+          "opt3": "29",
+          "opt4": "37",
+          "ans": "29"
+        },
+        {
+          "question": "5, 2, 7, 9, 16, 25, ?",
+          "opt1": "41",
+          "opt2": "45",
+          "opt3": "48",
+          "opt4": "52",
+          "ans": "41"
+        },
+        {
+          "question": "7, 26, 63, 124, 215, 342, ?",
+          "opt1": "391",
+          "opt2": "421",
+          "opt3": "481",
+          "opt4": "511",
+          "ans": "511"
+        },
+        {
+          "question": "3, 12,27,48, 75, 108,?",
+          "opt1": "147",
+          "opt2": "162",
+          "opt3": "183",
+          "opt4": "192",
+          "ans": "147"
+        },
+        {
+          "question": "3, 7, 23, 95, ?",
+          "opt1": "62",
+          "opt2": "128",
+          "opt3": "479",
+          "opt4": "575",
+          "ans": "479"
+        },
+        {
+          "question": "6, 18, 3, 21, 7, 56, ?",
+          "opt1": "8",
+          "opt2": "9",
+          "opt3": "63",
+          "opt4": "64",
+          "ans": "8"
+        },
+        {
+          "question": "4, 9, 25, ?, 121, 169, 289, 361",
+          "opt1": "49",
+          "opt2": "64",
+          "opt3": "81",
+          "opt4": "87",
+          "ans": "49"
+        },
+        {
+          "question": "6, 13,28,59,?",
+          "opt1": "111",
+          "opt2": "113",
+          "opt3": "114",
+          "opt4": "122",
+          "ans": "122"
+        },
+        {
+          "question": "4, 12, 36, 108, ?",
+          "opt1": "144",
+          "opt2": "216",
+          "opt3": "304",
+          "opt4": "324",
+          "ans": "324"
+        },
+        {
+          "question": "Which term of the series 5, 8, 11, 14,.....is 320?",
+          "opt1": "104th",
+          "opt2": "105th",
+          "opt3": "106th",
+          "opt4": "64th",
+          "ans": "106th"
+        },
+        {
+          "question": "8, 9, 8, 7, 10, 9, 6, 11, 10, ?, 12",
+          "opt1": "5",
+          "opt2": "7",
+          "opt3": "8",
+          "opt4": "11",
+          "ans": "5"
+        },
+        {
+          "question": "3, 7, 15, ?, 63, 127",
+          "opt1": "30",
+          "opt2": "31",
+          "opt3": "47",
+          "opt4": "52",
+          "ans": "31"
+        },
+        {
+          "question": "4, 10, ?, 82, 244, 730",
+          "opt1": "24",
+          "opt2": "28",
+          "opt3": "77",
+          "opt4": "218",
+          "ans": "28"
+        },
+        {
+          "question": "1, 5, 13,25,41,?",
+          "opt1": "51",
+          "opt2": "57",
+          "opt3": "61",
+          "opt4": "63",
+          "ans": "61"
+        },
+        {
+          "question": "325, 259, 204, 160, 127, 105, ?",
+          "opt1": "94",
+          "opt2": "96",
+          "opt3": "98",
+          "opt4": "100",
+          "ans": "94"
+        },
+        {
+          "question": "4, 7, 12, 19, 28, ?",
+          "opt1": "30",
+          "opt2": "36",
+          "opt3": "39",
+          "opt4": "49",
+          "ans": "39"
+        },
+        {
+          "question": "5760, 960, ?, 48, 16, 8",
+          "opt1": "120",
+          "opt2": "160",
+          "opt3": "192",
+          "opt4": "240",
+          "ans": "192"
+        },
+        {
+          "question": "45, 54, 47, ?, 49, 56, 51, 57, 53",
+          "opt1": "48",
+          "opt2": "50",
+          "opt3": "55",
+          "opt4": "None of these",
+          "ans": "55"
+        },
+        {
+          "question": "3, 8, 13, 24, 41, ?",
+          "opt1": "70",
+          "opt2": "75",
+          "opt3": "80",
+          "opt4": "85",
+          "ans": "70"
+        },
+        {
+          "question": "10, 14, 26, 42, 70, ?",
+          "opt1": "100",
+          "opt2": "102",
+          "opt3": "106",
+          "opt4": "114",
+          "ans": "114"
+        },
+        {
+          "question": "10, 18, 28, 40, 54, 70, ?",
+          "opt1": "85",
+          "opt2": "86",
+          "opt3": "87",
+          "opt4": "88",
+          "ans": "88"
+        },
+        {
+          "question": "8, 28, 116, 584, ?",
+          "opt1": "1752",
+          "opt2": "3502",
+          "opt3": "3508",
+          "opt4": "3504",
+          "ans": "3508"
+        },
+        {
+          "question": "Find out the wrong term:\n121, 143, 165, 186, 209",
+          "opt1": "143",
+          "opt2": "165",
+          "opt3": "186",
+          "opt4": "209",
+          "ans": "186"
+        },
+        {
+          "question": "Find out the wrong term:\n6, 15, 35, 77, 165, 221",
+          "opt1": "35",
+          "opt2": "165",
+          "opt3": "77",
+          "opt4": "15",
+          "ans": "165"
+        }
+      ]
+    },
+    {
+      "Section 4": [
+        {
+          "question": "Find out the wrong term:\n5, 10, 40, 80, 320, 550, 2560",
+          "opt1": "80",
+          "opt2": "320",
+          "opt3": "550",
+          "opt4": "2560",
+          "ans": "550"
+        },
+        {
+          "question": "Find out the wrong term:\n2, 3, 4, 4, 6, 8, 9, 12, 16",
+          "opt1": "3",
+          "opt2": "6",
+          "opt3": "9",
+          "opt4": "12",
+          "ans": "9"
+        },
+        {
+          "question": "Find out the wrong term:\n11, 5, 20, 12, 40, 26, 74, 54",
+          "opt1": "5",
+          "opt2": "20",
+          "opt3": "40",
+          "opt4": "26",
+          "ans": "40"
+        },
+        {
+          "question": "Find out the wrong term:\n5, 27, 61, 122, 213, 340, 509",
+          "opt1": "27",
+          "opt2": "61",
+          "opt3": "122",
+          "opt4": "509",
+          "ans": "27"
+        },
+        {
+          "question": "Find out the wrong term:\n3, 7, 15, 39, 63, 127, 255, 511",
+          "opt1": "15",
+          "opt2": "39",
+          "opt3": "63",
+          "opt4": "127",
+          "ans": "39"
+        },
+        {
+          "question": "Find out the wrong term:\n380, 188, 92, 48, 20, 8, 2",
+          "opt1": "8",
+          "opt2": "20",
+          "opt3": "48",
+          "opt4": "188",
+          "ans": "48"
+        },
+        {
+          "question": "Find out the wrong term:\n16, 22, 30, 45, 52, 66",
+          "opt1": "30",
+          "opt2": "45",
+          "opt3": "52",
+          "opt4": "66",
+          "ans": "45"
+        },
+        {
+          "question": "Find out the wrong term:\n10, 26, 74, 218, 654, 1946, 5834",
+          "opt1": "26",
+          "opt2": "74",
+          "opt3": "218",
+          "opt4": "654",
+          "ans": "654"
+        },
+        {
+          "question": "Find out the wrong term:\n24576, 6144, 1536, 386, 96, 24",
+          "opt1": "96",
+          "opt2": "386",
+          "opt3": "1536",
+          "opt4": "6144",
+          "ans": "386"
+        },
+        {
+          "question": "Find out the wrong term:\n10, 14, 28, 32, 64, 68, 132",
+          "opt1": "28",
+          "opt2": "32",
+          "opt3": "64",
+          "opt4": "132",
+          "ans": "132"
+        },
+        {
+          "question": "Find out the wrong term:\n46080, 3840, 384, 48, 24, 2, 1",
+          "opt1": "384",
+          "opt2": "48",
+          "opt3": "24",
+          "opt4": "2",
+          "ans": "24"
+        },
+        {
+          "question": "Find out the wrong term:\n89, 78, 86, 80, 85, 82, 83",
+          "opt1": "83",
+          "opt2": "82",
+          "opt3": "86",
+          "opt4": "78",
+          "ans": "86"
+        },
+        {
+          "question": "Find out the wrong term:\n0, 2, 3, 5, 8, 10, 15, 18, 24, 26, 35",
+          "opt1": "18",
+          "opt2": "24",
+          "opt3": "26",
+          "opt4": "10",
+          "ans": "18"
+        },
+        {
+          "question": "Find out the wrong term:\n325, 259, 202, 160, 127, 105, 94",
+          "opt1": "94",
+          "opt2": "127",
+          "opt3": "202",
+          "opt4": "259",
+          "ans": "202"
+        },
+        {
+          "question": "Find out the wrong term:\n1236, 2346, 3456, 4566, 5686",
+          "opt1": "1236",
+          "opt2": "3456",
+          "opt3": "4566",
+          "opt4": "5686",
+          "ans": "5686"
+        },
+        {
+          "question": "Find out the wrong term:\n93, 309, 434, 498, 521, 533",
+          "opt1": "309",
+          "opt2": "434",
+          "opt3": "498",
+          "opt4": "521",
+          "ans": "521"
+        },
+        {
+          "question": "WFB, TGD, QHG, ?",
+          "opt1": "NIJ",
+          "opt2": "NIK",
+          "opt3": "NJK",
+          "opt4": "OIK",
+          "ans": "NIK"
+        },
+        {
+          "question": "AZ, GT, MN, ?, YB",
+          "opt1": "JH",
+          "opt2": "SH",
+          "opt3": "SK",
+          "opt4": "TS",
+          "ans": "SH"
+        },
+        {
+          "question": "H, I, K, N, ?",
+          "opt1": "O",
+          "opt2": "Q",
+          "opt3": "R",
+          "opt4": "S",
+          "ans": "R"
+        },
+        {
+          "question": "Z, S, W, O, T, K, Q, G, ?, ?",
+          "opt1": "N, C",
+          "opt2": "N, D",
+          "opt3": "O, C",
+          "opt4": "O, D",
+          "ans": "N, C"
+        },
+        {
+          "question": "b e d f ? h j ? l",
+          "opt1": "i m",
+          "opt2": "m i",
+          "opt3": "i n",
+          "opt4": "j m",
+          "ans": "i m"
+        },
+        {
+          "question": "A, G, L, P, S, ?",
+          "opt1": "U",
+          "opt2": "W",
+          "opt3": "X",
+          "opt4": "Y",
+          "ans": "U"
+        },
+        {
+          "question": "ajs, gpy, ?, sbk, yhq",
+          "opt1": "dmv",
+          "opt2": "mve",
+          "opt3": "oua",
+          "opt4": "qzi",
+          "ans": "mve"
+        },
+        {
+          "question": "AB, DEF, HIJK, ?, STUVWX",
+          "opt1": "LMNO",
+          "opt2": "LMNOP",
+          "opt3": "MNOPQ",
+          "opt4": "QRSTU",
+          "ans": "MNOPQ"
+        },
+        {
+          "question": "Y, B, T, G, O, ?",
+          "opt1": "N",
+          "opt2": "M",
+          "opt3": "L",
+          "opt4": "K",
+          "ans": "L"
+        },
+        {
+          "question": "C, Z, F, X, I, V, L, T, O, ?, ?",
+          "opt1": "O, P",
+          "opt2": "P, Q",
+          "opt3": "R, R",
+          "opt4": "S, R",
+          "ans": "R, R"
+        },
+        {
+          "question": "A, B, B, D, C, F, D; H, E, ?, ?",
+          "opt1": "E, F",
+          "opt2": "F, G",
+          "opt3": "F, I",
+          "opt4": "J, F",
+          "ans": "J, F"
+        },
+        {
+          "question": "Z, X, S, I, R, R, ?, ?",
+          "opt1": "G,I",
+          "opt2": "J, I",
+          "opt3": "J,K",
+          "opt4": "K,M",
+          "ans": "G,I"
+        },
+        {
+          "question": "AYBZC, DWEXF, GUHVI, JSKTL, ?",
+          "opt1": "MQORN",
+          "opt2": "MQNRO",
+          "opt3": "NQMOR",
+          "opt4": "QMONR",
+          "ans": "MQNRO"
+        },
+        {
+          "question": "T, R, P, N, L, ?, ?",
+          "opt1": "J, G",
+          "opt2": "J, H",
+          "opt3": "K, H",
+          "opt4": "K, I",
+          "ans": "J, H"
+        },
+        {
+          "question": "PMT, OOS, NQR, MSQ, ?",
+          "opt1": "LUP",
+          "opt2": "LVP",
+          "opt3": "LVR",
+          "opt4": "LWP",
+          "ans": "LUP"
+        },
+        {
+          "question": "A, B, N, C, D, O, E, F, P, ?, ?, ?",
+          "opt1": "G, H, I",
+          "opt2": "G, H, J",
+          "opt3": "G, H, Q",
+          "opt4": "J, K, L",
+          "ans": "G, H, Q"
+        },
+        {
+          "question": "GH, JL, NQ, SW, YD, ?",
+          "opt1": "EJ",
+          "opt2": "FJ",
+          "opt3": "EL",
+          "opt4": "FL",
+          "ans": "FL"
+        },
+        {
+          "question": "R, U, X, A, D, ?",
+          "opt1": "F",
+          "opt2": "G",
+          "opt3": "H",
+          "opt4": "I",
+          "ans": "G"
+        },
+        {
+          "question": "AYD, BVF, DRH, ?, KGL",
+          "opt1": "FMI",
+          "opt2": "GLJ",
+          "opt3": "GMJ",
+          "opt4": "HLK",
+          "ans": "GMJ"
+        },
+        {
+          "question": "AZ, CX, FU, ?",
+          "opt1": "IR",
+          "opt2": "IV",
+          "opt3": "JQ",
+          "opt4": "KP",
+          "ans": "JQ"
+        },
+        {
+          "question": "ADVENTURE, DVENTURE, DVENTUR, ?, VENTU",
+          "opt1": "DVENT",
+          "opt2": "VENTURE",
+          "opt3": "VENTUR",
+          "opt4": "DVENTU",
+          "ans": "VENTUR"
+        },
+        {
+          "question": "A, D, H, M, ?, Z",
+          "opt1": "T",
+          "opt2": "G",
+          "opt3": "N",
+          "opt4": "S",
+          "ans": "S"
+        },
+        {
+          "question": "PERPENDICULAR, ERPENDICULA, RPENDICUL, ?",
+          "opt1": "PENDICUL",
+          "opt2": "PENDIC",
+          "opt3": "ENDIC",
+          "opt4": "PENDICU",
+          "ans": "PENDICU"
+        },
+        {
+          "question": "Z, ?, T, ?, N, ?, H, ?, B",
+          "opt1": "W, Q, K, E",
+          "opt2": "W, R, K, E",
+          "opt3": "X, Q, K, E",
+          "opt4": "X, R, K, E",
+          "ans": "W, Q, K, E"
+        }
+      ]
+    },
+    {
+      "Section 5": [
+        {
+          "question": "ejo tyd ins xch ?",
+          "opt1": "nrw",
+          "opt2": "mrw",
+          "opt3": "msx",
+          "opt4": "nsx",
+          "ans": "mrw"
+        },
+        {
+          "question": "Z, U, Q, ?, L",
+          "opt1": "I",
+          "opt2": "K",
+          "opt3": "M",
+          "opt4": "N",
+          "ans": "N"
+        },
+        {
+          "question": "M, N, O, L, R, I, V, ?",
+          "opt1": "A",
+          "opt2": "E",
+          "opt3": "F",
+          "opt4": "H",
+          "ans": "E"
+        },
+        {
+          "question": "B, D, F, I, L, P, ?",
+          "opt1": "R",
+          "opt2": "S",
+          "opt3": "T",
+          "opt4": "U",
+          "ans": "T"
+        },
+        {
+          "question": "ATTRIBUTION, TTRIBUTIO, RIBUTIO, IBUTI, ?",
+          "opt1": "IBU",
+          "opt2": "UT",
+          "opt3": "UTI",
+          "opt4": "BUT",
+          "ans": "UTI"
+        },
+        {
+          "question": "DHL, PTX, BFJ, ?",
+          "opt1": "CGK",
+          "opt2": "KOS",
+          "opt3": "NRV",
+          "opt4": "RVZ",
+          "ans": "NRV"
+        },
+        {
+          "question": "A, CD, GHI, ?, UVWXY",
+          "opt1": "LMNO",
+          "opt2": "MNO",
+          "opt3": "MNOP",
+          "opt4": "NOPQ",
+          "ans": "MNOP"
+        },
+        {
+          "question": "Z, Y, X, U, T, S, P, O, N, K, ?, ?",
+          "opt1": "H, G",
+          "opt2": "H, I",
+          "opt3": "I, H",
+          "opt4": "J, I",
+          "ans": "J, I"
+        },
+        {
+          "question": "U, B, I, P, W, ?",
+          "opt1": "D",
+          "opt2": "F",
+          "opt3": "Q",
+          "opt4": "Z",
+          "ans": "D"
+        },
+        {
+          "question": "AI, BJ, CK, ?",
+          "opt1": "DL",
+          "opt2": "DM",
+          "opt3": "GH",
+          "opt4": "LM",
+          "ans": "DL"
+        },
+        {
+          "question": "_ stt _ tt _ tts _",
+          "opt1": "tsts",
+          "opt2": "ttst",
+          "opt3": "sstt",
+          "opt4": "tsst",
+          "ans": "tsst"
+        },
+        {
+          "question": "gfe _ ig _ eii _ fei _ gf_ ii",
+          "opt1": "eifgi",
+          "opt2": "figie",
+          "opt3": "ifgie",
+          "opt4": "ifige",
+          "ans": "ifgie"
+        },
+        {
+          "question": "_ a _ b _ abaa _ bab _ abb",
+          "opt1": "aaabb",
+          "opt2": "ababb",
+          "opt3": "babab",
+          "opt4": "babba",
+          "ans": "babba"
+        },
+        {
+          "question": "abca _ bcaab _ ca _ bbc _ a",
+          "opt1": "ccaa",
+          "opt2": "bbaa",
+          "opt3": "abac",
+          "opt4": "abba",
+          "ans": "abac"
+        },
+        {
+          "question": "_ tu _ rt _ s _ _ usrtu _",
+          "opt1": "rtusru",
+          "opt2": "rsutrr",
+          "opt3": "rsurtr",
+          "opt4": "rsurts",
+          "ans": "rsurts"
+        },
+        {
+          "question": "_ _aba _ _ ba _ ab",
+          "opt1": "abbba",
+          "opt2": "abbab",
+          "opt3": "baabb",
+          "opt4": "bbaba",
+          "ans": "abbab"
+        },
+        {
+          "question": "c _ bbb _ _ abbbb _ abbb _",
+          "opt1": "aabcb",
+          "opt2": "abccb",
+          "opt3": "abacb",
+          "opt4": "baebb",
+          "ans": "abccb"
+        },
+        {
+          "question": "_ bbca _ bcca _ ac _ a _ cb",
+          "opt1": "abeba",
+          "opt2": "acbab",
+          "opt3": "bacab",
+          "opt4": "bcaajb",
+          "ans": "acbab"
+        },
+        {
+          "question": "Find out the wrong term:\n8, 13, 21, 32, 47, 63, 83",
+          "opt1": "13",
+          "opt2": "21",
+          "opt3": "32",
+          "opt4": "47",
+          "ans": "47"
+        },
+        {
+          "question": "Find out the wrong term:\n1, 2, 4, 8, 16, 32, 64, 96",
+          "opt1": "32",
+          "opt2": "4",
+          "opt3": "64",
+          "opt4": "96",
+          "ans": "96"
+        },
+        {
+          "question": "Find out the wrong term:\n3, 4, 10, 32, 136, 685, 4116",
+          "opt1": "10",
+          "opt2": "32",
+          "opt3": "136",
+          "opt4": "4116",
+          "ans": "32"
+        },
+        {
+          "question": "Find out the wrong term:\n105, 85, 60, 30, 0, - 45, - 90",
+          "opt1": "105",
+          "opt2": "60",
+          "opt3": "-45",
+          "opt4": "0",
+          "ans": "0"
+        },
+        {
+          "question": "Find out the wrong term:\n2, 5, 10, 17, 26, 37, 50, 64",
+          "opt1": "17",
+          "opt2": "26",
+          "opt3": "37",
+          "opt4": "64",
+          "ans": "64"
+        },
+        {
+          "question": "Find out the wrong term:\n125, 126, 124, 127, 123, 129",
+          "opt1": "126",
+          "opt2": "124",
+          "opt3": "123",
+          "opt4": "129",
+          "ans": "129"
+        },
+        {
+          "question": "Find out the wrong term:\n2, 5, 10, 50, 500, 5000",
+          "opt1": "5",
+          "opt2": "10",
+          "opt3": "50",
+          "opt4": "5000",
+          "ans": "5000"
+        },
+        {
+          "question": "Find out the wrong term:\n1,3,12,25,48",
+          "opt1": "3",
+          "opt2": "12",
+          "opt3": "25",
+          "opt4": "48",
+          "ans": "25"
+        },
+        {
+          "question": "Find out the wrong term:\n15, 16, 22, 29, 45, 70",
+          "opt1": "16",
+          "opt2": "22",
+          "opt3": "45",
+          "opt4": "70",
+          "ans": "22"
+        },
+        {
+          "question": "Find out the wrong term:\n8, 14, 26, 48, 98, 194, 386",
+          "opt1": "14",
+          "opt2": "48",
+          "opt3": "98",
+          "opt4": "194",
+          "ans": "48"
+        },
+        {
+          "question": "a _ bbc _ aab _ cca _ bbcc",
+          "opt1": "bacb",
+          "opt2": "acba",
+          "opt3": "abba",
+          "opt4": "caba",
+          "ans": "acba"
+        },
+        {
+          "question": "ac _ cab _ baca _ aba _ acac",
+          "opt1": "aacb",
+          "opt2": "aebe",
+          "opt3": "babb",
+          "opt4": "bcbb",
+          "ans": "aacb"
+        },
+        {
+          "question": "3, 4, 7, 7, 13, 13, 21, 22, 31, 34, ?",
+          "opt1": "42",
+          "opt2": "43",
+          "opt3": "51",
+          "opt4": "52",
+          "ans": "43"
+        },
+        {
+          "question": "198, 194, 185, 169, ?",
+          "opt1": "92",
+          "opt2": "112",
+          "opt3": "136",
+          "opt4": "144",
+          "ans": "144"
+        },
+        {
+          "question": "2, 3, 5,7,11,?, 17",
+          "opt1": "12",
+          "opt2": "13",
+          "opt3": "14",
+          "opt4": "15",
+          "ans": "13"
+        },
+        {
+          "question": "6, 12, 21, ?, 48",
+          "opt1": "33",
+          "opt2": "38",
+          "opt3": "40",
+          "opt4": "45",
+          "ans": "33"
+        },
+        {
+          "question": "Which term of the series 5, 10, 20, 40, ..... is 1280?",
+          "opt1": "10th",
+          "opt2": "9th",
+          "opt3": "8th",
+          "opt4": "None of these",
+          "ans": "9th"
+        },
+        {
+          "question": "2, 5, 9, ?, 20, 27",
+          "opt1": "14",
+          "opt2": "16",
+          "opt3": "18",
+          "opt4": "24",
+          "ans": "14"
+        },
+        {
+          "question": "2, 3, 3, 5, 10, 13, ?, 43, 172, 177",
+          "opt1": "23",
+          "opt2": "38",
+          "opt3": "39",
+          "opt4": "40",
+          "ans": "39"
+        },
+        {
+          "question": "9, 27, 31, 155, 161, 1127, ?",
+          "opt1": "316",
+          "opt2": "1135",
+          "opt3": "1288",
+          "opt4": "2254",
+          "ans": "1135"
+        },
+        {
+          "question": "2, 1, 2, 4, 4, 5, 6, 7, 8, 8, 10, 11, ?",
+          "opt1": "9",
+          "opt2": "10",
+          "opt3": "11",
+          "opt4": "12",
+          "ans": "10"
+        },
+        {
+          "question": "Which of the following will not be a number of the series 1, 8, 27, 64, 125,.....?",
+          "opt1": "256",
+          "opt2": "512",
+          "opt3": "729",
+          "opt4": "1000",
+          "ans": "256"
+        },
+        {
+          "question": "2,3,8,27, 112,?",
+          "opt1": "226",
+          "opt2": "339",
+          "opt3": "452",
+          "opt4": "565",
+          "ans": "565"
+        },
+        {
+          "question": "6, 17, 39, 72, ?",
+          "opt1": "83",
+          "opt2": "94",
+          "opt3": "116",
+          "opt4": "127",
+          "ans": "116"
+        },
+        {
+          "question": "20, 20, 19, 16, 17, 13, 14, 11, ?, ?",
+          "opt1": "10, 10",
+          "opt2": "10, 11",
+          "opt3": "13, 16",
+          "opt4": "13, 14",
+          "ans": "10, 10"
+        },
+        {
+          "question": "24, 60, 120, 210, ?",
+          "opt1": "300",
+          "opt2": "336",
+          "opt3": "420",
+          "opt4": "525",
+          "ans": "336"
+        },
+        {
+          "question": "625, 5, 125, 25, 25, ?, 5",
+          "opt1": "5",
+          "opt2": "25",
+          "opt3": "125",
+          "opt4": "625",
+          "ans": "125"
+        },
+        {
+          "question": "10, 100, 200, 310, ?",
+          "opt1": "400",
+          "opt2": "410",
+          "opt3": "420",
+          "opt4": "430",
+          "ans": "430"
+        },
+        {
+          "question": "11, 10, ?, 100, 1001, 1000, 10001",
+          "opt1": "101",
+          "opt2": "110",
+          "opt3": "111",
+          "opt4": "None of these",
+          "ans": "101"
+        },
+        {
+          "question": "2, 7, 27, 107, 427, ?",
+          "opt1": "1262",
+          "opt2": "1707",
+          "opt3": "4027",
+          "opt4": "4207",
+          "ans": "1707"
+        },
+        {
+          "question": "1, 1, 2, 6, 24, ?, 720",
+          "opt1": "100",
+          "opt2": "104",
+          "opt3": "108",
+          "opt4": "120",
+          "ans": "120"
+        },
+        {
+          "question": "2, 15, 4, 12, 6, 7, ?, ?",
+          "opt1": "8, 8",
+          "opt2": "8, 0",
+          "opt3": "3, 8",
+          "opt4": "None of these",
+          "ans": "8, 0"
+        },
+        {
+          "question": "Find out the wrong term:\n3, 10, 27, 4, 16, 64, 5, 25, 125",
+          "opt1": "3",
+          "opt2": "4",
+          "opt3": "10",
+          "opt4": "27",
+          "ans": "10"
+        },
+        {
+          "question": "Find out the wrong term:\n1, 5, 9, 15, 25, 37, 49",
+          "opt1": "9",
+          "opt2": "15",
+          "opt3": "25",
+          "opt4": "37",
+          "ans": "15"
+        },
+        {
+          "question": "Find out the wrong term:\n4, 10, 22, 46, 96, 190, 382",
+          "opt1": "4",
+          "opt2": "10",
+          "opt3": "96",
+          "opt4": "382",
+          "ans": "96"
+        },
+        {
+          "question": "Find out the wrong term:\n2, 6, 24, 96, 285, 568, 567",
+          "opt1": "6",
+          "opt2": "24",
+          "opt3": "285",
+          "opt4": "567",
+          "ans": "24"
+        },
+        {
+          "question": "Find out the wrong term:\n3, 2, 8, 9, 13, 22, 18, 32, 23, 42",
+          "opt1": "8",
+          "opt2": "9",
+          "opt3": "13",
+          "opt4": "22",
+          "ans": "9"
+        },
+        {
+          "question": "Find out the wrong term:\n196, 169, 144, 121, 101",
+          "opt1": "101",
+          "opt2": "121",
+          "opt3": "169",
+          "opt4": "196",
+          "ans": "101"
+        },
+        {
+          "question": "Find out the wrong term:\n56, 58, 62, 70, 84, 118, 182",
+          "opt1": "58",
+          "opt2": "62",
+          "opt3": "84",
+          "opt4": "118",
+          "ans": "84"
+        },
+        {
+          "question": "Find out the wrong term:\n1, 5, 5, 9, 7, 11, 11, 15, 12, 17",
+          "opt1": "11",
+          "opt2": "12",
+          "opt3": "17",
+          "opt4": "15",
+          "ans": "12"
+        },
+        {
+          "question": "Find out the wrong term:\n25, 36, 49, 81, 121, 169, 225",
+          "opt1": "36",
+          "opt2": "49",
+          "opt3": "169",
+          "opt4": "225",
+          "ans": "36"
+        },
+        {
+          "question": "Find out the wrong term:\n1, 3, 10, 21, 64, 129, 356, 777",
+          "opt1": "21",
+          "opt2": "129",
+          "opt3": "10",
+          "opt4": "356",
+          "ans": "356"
+        }
+      ]
+    }
+  ],
+  "Analogy": [
+    {
+      "Section 1": [
+        {
+          "question": "Find the alternative which will replace the question mark.\nCUP : LIP :: BIRD : ?",
+          "opt1": "BUSH",
+          "opt2": "GRASS",
+          "opt3": "FOREST",
+          "opt4": "BEAK",
+          "ans": "BEAK"
+        },
+        {
+          "question": "Find the alternative which will replace the question mark.\nFlow : River :: Stagnant : ?",
+          "opt1": "Rain",
+          "opt2": "Stream",
+          "opt3": "Pool",
+          "opt4": "Canal",
+          "ans": "Pool"
+        },
+        {
+          "question": "Find the alternative which will replace the question mark.\nPaw : Cat :: Hoof : ?",
+          "opt1": "Lamb",
+          "opt2": "Elephant",
+          "opt3": "Lion",
+          "opt4": "Horse",
+          "ans": "Horse"
+        },
+        {
+          "question": "Find the alternative which will replace the question mark.\nOrnithologist : Bird :: Archealogist : ?",
+          "opt1": "Islands",
+          "opt2": "Mediators",
+          "opt3": "Archealogy",
+          "opt4": "Aquatic",
+          "ans": "Archealogy"
+        },
+        {
+          "question": "Find the alternative which will replace the question mark.\nPeacock : India :: Bear : ?",
+          "opt1": "Australia",
+          "opt2": "America",
+          "opt3": "Russia",
+          "opt4": "England",
+          "ans": "Russia"
+        },
+        {
+          "question": "Find the alternative which will replace the question mark.\nREASON : SFBTPO :: THINK : ?",
+          "opt1": "SGHMJ",
+          "opt2": "UIJOL",
+          "opt3": "UHNKI",
+          "opt4": "UJKPM",
+          "ans": "UIJOL"
+        },
+        {
+          "question": "Find the alternative which will replace the question mark.\nCarbon : Diamond :: Corundum : ?",
+          "opt1": "Garnet",
+          "opt2": "Ruby",
+          "opt3": "Pukhraj",
+          "opt4": "Pearl",
+          "ans": "Ruby"
+        },
+        {
+          "question": "Find the alternative which will replace the question mark.\nNATION : ANTINO :: HUNGRY : ?",
+          "opt1": "HNUGRY",
+          "opt2": "UHNGYR",
+          "opt3": "YRNGUH",
+          "opt4": "UNHGYR",
+          "ans": "UHNGYR"
+        },
+        {
+          "question": "Find the alternative which will replace the question mark.\nArchitect : Building :: Sculptor : ?",
+          "opt1": "Museum",
+          "opt2": "Stone",
+          "opt3": "Chisel",
+          "opt4": "Statue",
+          "ans": "Statue"
+        },
+        {
+          "question": "Find the alternative which will replace the question mark.\nEye : Myopia :: Teeth : ?",
+          "opt1": "Pyorrhoea",
+          "opt2": "Cataract",
+          "opt3": "Trachoma",
+          "opt4": "Eczema",
+          "ans": "Pyorrhoea"
+        },
+        {
+          "question": "Find the alternative which will replace the question mark.\nConference : Chairman :: Newspaper : ?",
+          "opt1": "Reporter",
+          "opt2": "Distributor",
+          "opt3": "Printer",
+          "opt4": "Editor",
+          "ans": "Editor"
+        },
+        {
+          "question": "Find the alternative which will replace the question mark.\nSafe : Secure :: Protect : ?",
+          "opt1": "Lock",
+          "opt2": "Sure",
+          "opt3": "Guard",
+          "opt4": "Conserve",
+          "ans": "Guard"
+        },
+        {
+          "question": "Find the alternative which will replace the question mark.\nMaster : OCUVGT :: LABOUR : ?",
+          "opt1": "NCDQWT",
+          "opt2": "NDERWT",
+          "opt3": "NBERWT",
+          "opt4": "NEDRWT",
+          "ans": "NCDQWT"
+        },
+        {
+          "question": "Find the alternative which will replace the question mark.\nMicrophone : Loud :: Microscope : ?",
+          "opt1": "Elongate",
+          "opt2": "Investigate",
+          "opt3": "Magnify",
+          "opt4": "Examine",
+          "ans": "Magnify"
+        },
+        {
+          "question": "Find the alternative which will replace the question mark.\nMelt : Liquid :: Freeze : ?",
+          "opt1": "Ice",
+          "opt2": "Condense",
+          "opt3": "Solid",
+          "opt4": "Force",
+          "ans": "Solid"
+        },
+        {
+          "question": "Find the alternative which will replace the question mark.\nCollege : Student :: Hospital : ?",
+          "opt1": "Nurse",
+          "opt2": "Doctor",
+          "opt3": "Treatment",
+          "opt4": "Patient",
+          "ans": "Patient"
+        },
+        {
+          "question": "Find the alternative which will replace the question mark.\nTree : Forest :: Grass : ?",
+          "opt1": "Lawn",
+          "opt2": "Garden",
+          "opt3": "Park",
+          "opt4": "Field",
+          "ans": "Lawn"
+        },
+        {
+          "question": "Find the alternative which will replace the question mark.\nSouth : North-West :: West : ?",
+          "opt1": "North",
+          "opt2": "South-West",
+          "opt3": "North-East",
+          "opt4": "East",
+          "ans": "North-East"
+        },
+        {
+          "question": "Find the alternative which will replace the question mark.\nCloth : Mill :: Newspaper : ?",
+          "opt1": "Editor",
+          "opt2": "Reader",
+          "opt3": "Paper",
+          "opt4": "Press",
+          "ans": "Press"
+        },
+        {
+          "question": "Find the alternative which will replace the question mark.\nCountry : President :: State : ?",
+          "opt1": "Governer",
+          "opt2": "M.P",
+          "opt3": "Legislator",
+          "opt4": "Minister",
+          "ans": "Governer"
+        }
+      ]
+    },
+    {
+      "Section 2": [
+        {
+          "question": "Find the alternative which will replace the question mark.\nRace : Fatigue :: Fast : ?",
+          "opt1": "Food",
+          "opt2": "Laziness",
+          "opt3": "Hunger",
+          "opt4": "Race",
+          "ans": "Hunger"
+        },
+        {
+          "question": "Find the alternative which will replace the question mark.\nPeace : Chaos :: Creation : ?",
+          "opt1": "Build",
+          "opt2": "Construction",
+          "opt3": "Destruction",
+          "opt4": "Manufacture",
+          "ans": "Destruction"
+        },
+        {
+          "question": "Find the alternative which will replace the question mark.\nTiger : Forest :: Otter : ?",
+          "opt1": "Cage",
+          "opt2": "Sky",
+          "opt3": "Nest",
+          "opt4": "Water",
+          "ans": "Water"
+        },
+        {
+          "question": "Find the alternative which will replace the question mark.\nPoles : Magnet :: ? : Battery",
+          "opt1": "Cells",
+          "opt2": "Power",
+          "opt3": "Terminals",
+          "opt4": "Energy",
+          "ans": "Terminals"
+        },
+        {
+          "question": "Find the alternative which will replace the question mark.\nCassock : Priest :: ? : Graduate",
+          "opt1": "Cap",
+          "opt2": "Tie",
+          "opt3": "Coat",
+          "opt4": "Gown",
+          "ans": "Gown"
+        },
+        {
+          "question": "Find the alternative which will replace the question mark.\nIce : Coldness :: Earth : ?",
+          "opt1": "Weight",
+          "opt2": "Jungle",
+          "opt3": "Gravitatism",
+          "opt4": "Sea",
+          "ans": "Gravitatism"
+        },
+        {
+          "question": "Find the alternative which will replace the question mark.\nParts : Strap :: Wolf : ?",
+          "opt1": "Fox",
+          "opt2": "Animal",
+          "opt3": "Wood",
+          "opt4": "Flow",
+          "ans": "Flow"
+        },
+        {
+          "question": "Find the alternative which will replace the question mark.\nPhysician : Treatment :: Judge : ?",
+          "opt1": "Punishment",
+          "opt2": "Judgement",
+          "opt3": "Lawyer",
+          "opt4": "Court",
+          "ans": "Judgement"
+        },
+        {
+          "question": "Find the alternative which will replace the question mark.\nBEGK : ADFJ :: PSVY : ?",
+          "opt1": "ROUX",
+          "opt2": "ORUX",
+          "opt3": "LQUT",
+          "opt4": "LOQT",
+          "ans": "ORUX"
+        },
+        {
+          "question": "Find the alternative which will replace the question mark.\nAZBY : CXDW :: EVFU : ?",
+          "opt1": "GTHS",
+          "opt2": "GHTS",
+          "opt3": "GSTH",
+          "opt4": "TGSH",
+          "ans": "GTHS"
+        },
+        {
+          "question": "Find the alternative which will replace the question mark.\nACEG : IKMO :: QSUW : ?",
+          "opt1": "YZCE",
+          "opt2": "YACD",
+          "opt3": "YACE",
+          "opt4": "YBCE",
+          "ans": "YACE"
+        },
+        {
+          "question": "Find the alternative which will replace the question mark.\nBCFG : HILM :: NORQ : ?",
+          "opt1": "TXWU",
+          "opt2": "TXUW",
+          "opt3": "TUXW",
+          "opt4": "TVWX",
+          "ans": "TUXW"
+        },
+        {
+          "question": "Find the alternative which will replace the question mark.\nZRYQ : KCJB :: PWOV : ?",
+          "opt1": "GBHA",
+          "opt2": "ISJT",
+          "opt3": "ELDK",
+          "opt4": "EOFP",
+          "ans": "ELDK"
+        },
+        {
+          "question": "Find the alternative which will replace the question mark.\nKeaC : CaeK :: XgmF : ?",
+          "opt1": "GmcF",
+          "opt2": "FmgX",
+          "opt3": "EgmX",
+          "opt4": "EmgF",
+          "ans": "FmgX"
+        },
+        {
+          "question": "Find the alternative which will replace the question mark.\nCorden : zrogbq :: ? : pxivro",
+          "opt1": "mulmul",
+          "opt2": "sulsul",
+          "opt3": "munmun",
+          "opt4": "srspql",
+          "ans": "sulsul"
+        },
+        {
+          "question": "Find the alternative which will replace the question mark.\nLKJ : pon :: ? : hgf",
+          "opt1": "dcle",
+          "opt2": "DBC",
+          "opt3": "dcd",
+          "opt4": "DCB",
+          "ans": "DCB"
+        },
+        {
+          "question": "Find the alternative which will replace the question mark.\nComputer : fqprxvht :: Language : ?",
+          "opt1": "oxpixdig",
+          "opt2": "ocqicyig",
+          "opt3": "ocqixcjg",
+          "opt4": "ocqixcig",
+          "ans": "ocqixcjg"
+        },
+        {
+          "question": "Find the alternative which will replace the question mark.\nAEFJ : KOPT :: ? : QUVZ",
+          "opt1": "GKLP",
+          "opt2": "GLKP",
+          "opt3": "HKLP",
+          "opt4": "HKQL",
+          "ans": "GKLP"
+        },
+        {
+          "question": "Find the alternative which will replace the question mark.\nPASS : QBTT :: FAIL : ?",
+          "opt1": "GJBM",
+          "opt2": "GBJM",
+          "opt3": "MBJG",
+          "opt4": "MJBG",
+          "ans": "GBJM"
+        },
+        {
+          "question": "Find the alternative which will replace the question mark.\nBLOCKED : YOLXPVW :: ? : OZFMXS",
+          "opt1": "DEBATE",
+          "opt2": "RESULT",
+          "opt3": "LABOR",
+          "opt4": "LAUNCH",
+          "ans": "LAUNCH"
+        }
+      ]
+    },
+    {
+      "Section 3": [
+        {
+          "question": "Find the alternative which will replace the question mark.\nCEDH : HDEC :: ? : PNRV",
+          "opt1": "VRNP",
+          "opt2": "RNPV",
+          "opt3": "NRVP",
+          "opt4": "VNRP",
+          "ans": "VRNP"
+        },
+        {
+          "question": "Find the alternative which will replace the question mark.\nDFHJ : LNPR :: TVXZ : ?",
+          "opt1": "DBFH",
+          "opt2": "DBHF",
+          "opt3": "BDFH",
+          "opt4": "FDBH",
+          "ans": "BDFH"
+        },
+        {
+          "question": "Find the alternative which will replace the question mark.\nACEG : ? :: BDFH : KMOQ",
+          "opt1": "NLPR",
+          "opt2": "LMNO",
+          "opt3": "JLNP",
+          "opt4": "JNLO",
+          "ans": "JLNP"
+        },
+        {
+          "question": "Find the alternative which will replace the question mark.\nPSQR : CFED :: JMKL : ?",
+          "opt1": "UVXZ",
+          "opt2": "YVZX",
+          "opt3": "YXZW",
+          "opt4": "WZYX",
+          "ans": "WZYX"
+        },
+        {
+          "question": "Find the alternative which will replace the question mark.\nFIELD : GJFME :: SICKLE : ?",
+          "opt1": "RHBJKD",
+          "opt2": "RHJBKD",
+          "opt3": "TJLDMF",
+          "opt4": "TJDLMF",
+          "ans": "TJDLMF"
+        },
+        {
+          "question": "Find the alternative which will replace the question mark.\n? : QEHMDF :: WIDELY : HVCDXK",
+          "opt1": "FRINGE",
+          "opt2": "STRING",
+          "opt3": "FRANCE",
+          "opt4": "DEMAND",
+          "ans": "FRINGE"
+        },
+        {
+          "question": "Find the alternative which will replace the question mark.\nACFJ : ZXUQ :: EGIN : ?",
+          "opt1": "VUSQ",
+          "opt2": "UTRP",
+          "opt3": "VRPM",
+          "opt4": "VTRM",
+          "ans": "VTRM"
+        },
+        {
+          "question": "Find the alternative which will replace the question mark.\nABCD : WXYZ :: EFGH : ?",
+          "opt1": "STUV",
+          "opt2": "ZYXW",
+          "opt3": "VUTS",
+          "opt4": "WXZY",
+          "ans": "STUV"
+        },
+        {
+          "question": "Find the alternative which will replace the question mark.\nQIOK : MMKO :: YAWC : ?",
+          "opt1": "UESG",
+          "opt2": "USGA",
+          "opt3": "VUES",
+          "opt4": "SUEG",
+          "ans": "UESG"
+        },
+        {
+          "question": "Find the alternative which will replace the question mark.\nREASON : SFBTPO :: THINK : ?",
+          "opt1": "SGHMJ",
+          "opt2": "UIJOL",
+          "opt3": "UJKPM",
+          "opt4": "UHNKI",
+          "ans": "UIJOL"
+        },
+        {
+          "question": "Find the alternative which will replace the question mark.\n14 : 9 :: 26 : ?",
+          "opt1": "12",
+          "opt2": "13",
+          "opt3": "31",
+          "opt4": "15",
+          "ans": "15"
+        },
+        {
+          "question": "Find the alternative which will replace the question mark.\nMO : 13 11 :: HJ : ?",
+          "opt1": "19 17",
+          "opt2": "18 16",
+          "opt3": "8 10",
+          "opt4": "16 18",
+          "ans": "18 16"
+        },
+        {
+          "question": "Find the alternative which will replace the question mark.\n123 : 13^2 :: 235 : ?",
+          "opt1": "23^2",
+          "opt2": "35^2",
+          "opt3": "25^3",
+          "opt4": "25^2",
+          "ans": "25^3"
+        },
+        {
+          "question": "Find the alternative which will replace the question mark.\n8 : 28 :: 27 : ?",
+          "opt1": "28",
+          "opt2": "8",
+          "opt3": "64",
+          "opt4": "65",
+          "ans": "65"
+        },
+        {
+          "question": "Find the alternative which will replace the question mark.\n3 : 12 :: 5 : ?",
+          "opt1": "25",
+          "opt2": "35",
+          "opt3": "30",
+          "opt4": "15",
+          "ans": "30"
+        },
+        {
+          "question": "Find the alternative which will replace the question mark.\nMXN : 13 x 14 :: FXR : ?",
+          "opt1": "14 x 15",
+          "opt2": "5 x 17",
+          "opt3": "6 x 18",
+          "opt4": "7 x 19",
+          "ans": "6 x 18"
+        },
+        {
+          "question": "Find the alternative which will replace the question mark.\n16 : 56 :: 32 : ?",
+          "opt1": "96",
+          "opt2": "112",
+          "opt3": "120",
+          "opt4": "128",
+          "ans": "112"
+        },
+        {
+          "question": "Find the alternative which will replace the question mark.\n4 : 19 :: 7 : ?",
+          "opt1": "52",
+          "opt2": "49",
+          "opt3": "28",
+          "opt4": "68",
+          "ans": "52"
+        },
+        {
+          "question": "Find the alternative which will replace the question mark.\n24 : 60 :: 120 : ?",
+          "opt1": "160",
+          "opt2": "220",
+          "opt3": "300",
+          "opt4": "108",
+          "ans": "300"
+        },
+        {
+          "question": "Find the alternative which will replace the question mark.\n335 : 216 :: 987 : ?",
+          "opt1": "868",
+          "opt2": "867",
+          "opt3": "872",
+          "opt4": "888",
+          "ans": "868"
+        },
+        {
+          "question": "\'Dress\' is related to \'Body\' in the same way as \'Bangles\' is related to:",
+          "opt1": "Glass",
+          "opt2": "Wrist",
+          "opt3": "Lady",
+          "opt4": "Beauty",
+          "ans": "Wrist"
+        },
+        {
+          "question": "\'College\' is related to \'Teachers\' in the same way as \'Hospital\' is related to:",
+          "opt1": "Doctors",
+          "opt2": "Patients",
+          "opt3": "Medicine",
+          "opt4": "Beds",
+          "ans": "Doctors"
+        },
+        {
+          "question": "\'Flower\' is related to \'Bud\' in the same way as \'Fruit\' is related to:",
+          "opt1": "Seed",
+          "opt2": "Tree",
+          "opt3": "Flower",
+          "opt4": "Stem",
+          "ans": "Flower"
+        },
+        {
+          "question": "\'Jade\' is related to \'Green\' in the same way as \'Garnet\' is related to:",
+          "opt1": "Red",
+          "opt2": "Blue",
+          "opt3": "Orange",
+          "opt4": "Yellow",
+          "ans": "Red"
+        },
+        {
+          "question": "\'Table\' is related to \'Wood\' in the same way as \'Shirt\' is related to:",
+          "opt1": "Cotton",
+          "opt2": "Cloth",
+          "opt3": "Dress",
+          "opt4": "Uniform",
+          "ans": "Cloth"
+        },
+        {
+          "question": "\'Jackal\' is related to \'Howl\' in the same way as \'Cow\' is related to:",
+          "opt1": "Caws",
+          "opt2": "Hoot",
+          "opt3": "Coo",
+          "opt4": "Moo",
+          "ans": "Moo"
+        },
+        {
+          "question": "\'Cat\' is related to \'Kitten\' in the same way as \'Woman\' is related to:",
+          "opt1": "Puppy",
+          "opt2": "Colt",
+          "opt3": "Calf",
+          "opt4": "Baby",
+          "ans": "Baby"
+        },
+        {
+          "question": "\'Horse\' is related to \'Hoof\' in the same way as \'Eagle\' is related to:",
+          "opt1": "Clutch",
+          "opt2": "Leg",
+          "opt3": "Foot",
+          "opt4": "Claw",
+          "ans": "Claw"
+        },
+        {
+          "question": "\'Forest\' is related to \'Viviparium\' in the same way as \'sea\' is related to:",
+          "opt1": "Port site",
+          "opt2": "Water",
+          "opt3": "Fishery",
+          "opt4": "Aquarium",
+          "ans": "Aquarium"
+        },
+        {
+          "question": "\'Walk\' is related to \'Run\' in the same way as \'Breeze\' is related to:",
+          "opt1": "Cold",
+          "opt2": "Dust",
+          "opt3": "Wind",
+          "opt4": "Air",
+          "ans": "Wind"
+        }
+      ]
+    },
+    {
+      "Section 4": [
+        {
+          "question": "Find out which one will be another member of the group or class.\nNewspaper, Hoarding, Television",
+          "opt1": "Press",
+          "opt2": "Media",
+          "opt3": "Rumor",
+          "opt4": "Broadcast",
+          "ans": "Broadcast"
+        },
+        {
+          "question": "Find out which one will be another member of the group or class.\nArid, Parched, Droughty",
+          "opt1": "Draft",
+          "opt2": "Earth",
+          "opt3": "Dry",
+          "opt4": "Cow",
+          "ans": "Dry"
+        },
+        {
+          "question": "Find out which one will be another member of the group or class.\nEngine, Compartment, Wheels",
+          "opt1": "Motor",
+          "opt2": "Sea",
+          "opt3": "Ship",
+          "opt4": "Rail-line",
+          "ans": "Rail-line"
+        },
+        {
+          "question": "Find out which one will be another member of the group or class.\nCarpenter, Plumber, Electrician",
+          "opt1": "Doctor",
+          "opt2": "Blacksmith",
+          "opt3": "Professor",
+          "opt4": "Lawyer",
+          "ans": "Blacksmith"
+        },
+        {
+          "question": "Find out which one will be another member of the group or class.\nTamilian, Gujarati, Punjabi",
+          "opt1": "Aryan",
+          "opt2": "Dravidan",
+          "opt3": "Indian",
+          "opt4": "Barbarian",
+          "ans": "Indian"
+        },
+        {
+          "question": "Find out which one will be another member of the group or class.\nClutch, Brake, Horn",
+          "opt1": "Car",
+          "opt2": "Scooter",
+          "opt3": "Accident",
+          "opt4": "Steering",
+          "ans": "Steering"
+        },
+        {
+          "question": "\'Ophthalmia\' is related to \'Eye\' in the same way as \'Rickets\' is related to:",
+          "opt1": "Kidney",
+          "opt2": "Nose",
+          "opt3": "Bone",
+          "opt4": "Heart",
+          "ans": "Bone"
+        },
+        {
+          "question": "\'Indolence\' is related to \'Work\' in the same way as \'Taciturn\' is related to:",
+          "opt1": "Cheat",
+          "opt2": "Act",
+          "opt3": "Speak",
+          "opt4": "Observe",
+          "ans": "Speak"
+        },
+        {
+          "question": "\'Nun\' is related to \'Convent\' in the same way as \'Hen\' is related to:",
+          "opt1": "Nest",
+          "opt2": "Shed",
+          "opt3": "Cell",
+          "opt4": "Cote",
+          "ans": "Cote"
+        },
+        {
+          "question": "\'Reading\' is related to \'knowledge\' in the same way as \'Work\' is related to:",
+          "opt1": "Money",
+          "opt2": "Employment",
+          "opt3": "Experience",
+          "opt4": "Engagement",
+          "ans": "Experience"
+        },
+        {
+          "question": "Find the alternative which will replace the question mark.\n10 : 99 :: 9 : ?",
+          "opt1": "69",
+          "opt2": "80",
+          "opt3": "97",
+          "opt4": "49",
+          "ans": "80"
+        },
+        {
+          "question": "Find the alternative which will replace the question mark.\n8 : 24 :: ? : 32",
+          "opt1": "5",
+          "opt2": "6",
+          "opt3": "10",
+          "opt4": "8",
+          "ans": "6"
+        },
+        {
+          "question": "Find the alternative which will replace the question mark.\n144 : 10 :: 169 : ?",
+          "opt1": "14",
+          "opt2": "11",
+          "opt3": "13",
+          "opt4": "12",
+          "ans": "11"
+        },
+        {
+          "question": "Find the alternative which will replace the question mark.\n9 : 8 :: 16 : ?",
+          "opt1": "27",
+          "opt2": "17",
+          "opt3": "16",
+          "opt4": "18",
+          "ans": "27"
+        },
+        {
+          "question": "In this pyramid number if: 11 22 31 : 12 21 32 :: 9 12 21 : ?\n               1\n             2  3  4\n           9  8  7  6  5\n      10 11 12  13  14 15 16\n    25 2 23 22  21  20 19 18 17\n26 27 28 29 30  31  32 33 34 35 36",
+          "opt1": "2 7 14",
+          "opt2": "8 13 20",
+          "opt3": "6 15 18",
+          "opt4": "10 23 30",
+          "ans": "8 13 20"
+        },
+        {
+          "question": "Find the alternative which will replace the question mark.\n25 : 37 :: 49 : ?",
+          "opt1": "41",
+          "opt2": "65",
+          "opt3": "56",
+          "opt4": "60",
+          "ans": "65"
+        },
+        {
+          "question": "Find the alternative which will replace the question mark.\nK/T : 11/20 :: J/R : ?",
+          "opt1": "10/18",
+          "opt2": "11/19",
+          "opt3": "10/8",
+          "opt4": "9/10",
+          "ans": "10/18"
+        },
+        {
+          "question": "Find the alternative which will replace the question mark.\n68 : 130 :: ? : 350",
+          "opt1": "220",
+          "opt2": "222",
+          "opt3": "224",
+          "opt4": "226",
+          "ans": "222"
+        },
+        {
+          "question": "Find the alternative which will replace the question mark.\n61 : 121 :: ? : 337",
+          "opt1": "211",
+          "opt2": "222",
+          "opt3": "220",
+          "opt4": "240",
+          "ans": "211"
+        },
+        {
+          "question": "Find the alternative which will replace the question mark.\n27 : 125 :: 64 : ?",
+          "opt1": "162",
+          "opt2": "216",
+          "opt3": "517",
+          "opt4": "273",
+          "ans": "216"
+        },
+        {
+          "question": "Pick up the pair that best illustrate a similar relationship.\nGlove : Hand",
+          "opt1": "Neck : Collar",
+          "opt2": "Tie : Shirt",
+          "opt3": "Socks : Feet",
+          "opt4": "Coat : Pocket",
+          "ans": "Socks : Feet"
+        },
+        {
+          "question": "Pick up the pair that best illustrate a similar relationship.\nLawyer : Court",
+          "opt1": "Chemist : Laboratory",
+          "opt2": "Businessman : Office",
+          "opt3": "Labour : Factory",
+          "opt4": "Athlete : Olympics",
+          "ans": "Chemist : Laboratory"
+        },
+        {
+          "question": "Pick up the pair that best illustrate a similar relationship.\nLetter : Word",
+          "opt1": "Page : Book",
+          "opt2": "Product : Factory",
+          "opt3": "Club : People",
+          "opt4": "Home work : School",
+          "ans": "Page : Book"
+        },
+        {
+          "question": "Pick up the pair that best illustrate a similar relationship.\nLively : Dull",
+          "opt1": "Employed : Jobless",
+          "opt2": "Flower : Bud",
+          "opt3": "Factory : Labour",
+          "opt4": "Happy : Gay",
+          "ans": "Employed : Jobless"
+        },
+        {
+          "question": "Pick up the pair that best illustrate a similar relationship.\nSilence : Noise",
+          "opt1": "Quiet : Peace",
+          "opt2": "Baldness : Hair",
+          "opt3": "Talk : Whisper",
+          "opt4": "Sing : Dance",
+          "ans": "Baldness : Hair"
+        },
+        {
+          "question": "Pick up the pair that best illustrate a similar relationship.\nKick : Football",
+          "opt1": "Wash : Dishes",
+          "opt2": "Dust : Rage",
+          "opt3": "Mop : Sweep",
+          "opt4": "Throw : Ring",
+          "ans": "Throw : Ring"
+        },
+        {
+          "question": "Pick up the pair that best illustrate a similar relationship.\nScales : Fish",
+          "opt1": "Bear : Fur",
+          "opt2": "Woman : Dress",
+          "opt3": "Skin : Man",
+          "opt4": "Tree : Leaves",
+          "ans": "Skin : Man"
+        },
+        {
+          "question": "Pick up the pair that best illustrate a similar relationship.\nNumismatist : Coins",
+          "opt1": "Jeweller : Jewels",
+          "opt2": "Cartographer : Maps",
+          "opt3": "Philatelist : Stamps",
+          "opt4": "Geneticist : Chromosomes",
+          "ans": "Philatelist : Stamps"
+        },
+        {
+          "question": "Pick up the pair that best illustrate a similar relationship.\nSunrise : Sunset",
+          "opt1": "Dawn : Twilight",
+          "opt2": "Noon : Midnight",
+          "opt3": "Morning : Night",
+          "opt4": "Energetic : Lazy",
+          "ans": "Morning : Night"
+        },
+        {
+          "question": "Pick up the pair that best illustrate a similar relationship.\nCandle : Wick",
+          "opt1": "Hammer : Nail",
+          "opt2": "Light : Bulb",
+          "opt3": "Oven : Fire",
+          "opt4": "Bicycle : Wheel",
+          "ans": "Bicycle : Wheel"
+        }
+      ]
+    },
+    {
+      "Section 5": [
+        {
+          "question": "Pick up the pair that best illustrate a similar relationship.\nSound : Muffled",
+          "opt1": "Moisture : Humid",
+          "opt2": "Colour : Faded",
+          "opt3": "Despair : Anger",
+          "opt4": "Odour : Pungent",
+          "ans": "Colour : Faded"
+        },
+        {
+          "question": "Pick up the pair that best illustrate a similar relationship.\nPlatform : Train",
+          "opt1": "Aeroplane : Aerodrome",
+          "opt2": "Hotel : Tourist",
+          "opt3": "Quay : Ship",
+          "opt4": "Footpath : Traveller",
+          "ans": "Quay : Ship"
+        },
+        {
+          "question": "Pick up the pair that best illustrate a similar relationship.\nTrain : Track",
+          "opt1": "Water : Boat",
+          "opt2": "Bullet : Barrel",
+          "opt3": "Idea : Brain",
+          "opt4": "Fame : Television",
+          "ans": "Bullet : Barrel"
+        },
+        {
+          "question": "Pick up the pair that best illustrate a similar relationship.\nChalk : Blackboard",
+          "opt1": "Type : Point",
+          "opt2": "Table : Chair",
+          "opt3": "Door : Handle",
+          "opt4": "Ink : Paper",
+          "ans": "Ink : Paper"
+        },
+        {
+          "question": "Pick up the pair that best illustrate a similar relationship.\nRectangle : Pentagon",
+          "opt1": "Side : Angle",
+          "opt2": "Diagonal : Perimeter",
+          "opt3": "Triangle : Rectangle",
+          "opt4": "Circle : Square",
+          "ans": "Triangle : Rectangle"
+        },
+        {
+          "question": "Pick up the pair that best illustrate a similar relationship.\nThermometer : Temperature",
+          "opt1": "Millimeter : Scale",
+          "opt2": "Length : Breadth",
+          "opt3": "Solar Energy : Sun",
+          "opt4": "Cardiograph : Heart rate",
+          "ans": "Cardiograph : Heart rate"
+        },
+        {
+          "question": "Pick up the pair that best illustrate a similar relationship.\nBorder : Country",
+          "opt1": "Pen : Cap",
+          "opt2": "Book : Cover",
+          "opt3": "Handle : Shade",
+          "opt4": "Frame : Picture",
+          "ans": "Frame : Picture"
+        },
+        {
+          "question": "Pick up the pair that best illustrate a similar relationship.\nRiver : Ocean",
+          "opt1": "Child : School",
+          "opt2": "Book : Library",
+          "opt3": "Lane : Road",
+          "opt4": "Cloth : Body",
+          "ans": "Lane : Road"
+        },
+        {
+          "question": "Pick up the pair that best illustrate a similar relationship.\nArc : Circle",
+          "opt1": "Number : Count",
+          "opt2": "Fraction : Percentage",
+          "opt3": "Pie : Slice",
+          "opt4": "Segment : Line",
+          "ans": "Segment : Line"
+        },
+        {
+          "question": "Find out which one will be another member of the group or class.\nApple, Grape, Orange",
+          "opt1": "Vegetable",
+          "opt2": "Fruits",
+          "opt3": "Stems",
+          "opt4": "Oats",
+          "ans": "Fruits"
+        },
+        {
+          "question": "Find out which one will be another member of the group or class.\nLucknow, Patna, Bhopal, Jaipur",
+          "opt1": "Shimla",
+          "opt2": "Mysore",
+          "opt3": "Pune",
+          "opt4": "Indore",
+          "ans": "Shimla"
+        },
+        {
+          "question": "Find out which one will be another member of the group or class.\nLock, Shut, Fasten",
+          "opt1": "Window",
+          "opt2": "Iron",
+          "opt3": "Door",
+          "opt4": "Block",
+          "ans": "Block"
+        },
+        {
+          "question": "Find out which one will be another member of the group or class.\nWheat, Barley, Rice",
+          "opt1": "Food",
+          "opt2": "Gram",
+          "opt3": "Agriculture",
+          "opt4": "Farm",
+          "ans": "Gram"
+        },
+        {
+          "question": "Find out which one will be another member of the group or class.\nPathology, Cardiology, Radiology, Ophthalmology",
+          "opt1": "Biology",
+          "opt2": "Hematology",
+          "opt3": "Zoology",
+          "opt4": "Geology",
+          "ans": "Hematology"
+        },
+        {
+          "question": "Find out which one will be another member of the group or class.\nMars, Earth, Jupiter",
+          "opt1": "Planets",
+          "opt2": "Cosmos",
+          "opt3": "Orbits",
+          "opt4": "Astronauts",
+          "ans": "Planets"
+        },
+        {
+          "question": "Find out which one will be another member of the group or class.\nLungs, Liver, Kidney",
+          "opt1": "Neck",
+          "opt2": "Testis",
+          "opt3": "Heart",
+          "opt4": "Nose",
+          "ans": "Heart"
+        },
+        {
+          "question": "Find out which one will be another member of the group or class.\nBasic, Pascal, Fortran",
+          "opt1": "Cobol",
+          "opt2": "Bhopal",
+          "opt3": "Calculator",
+          "opt4": "Cyclotron",
+          "ans": "Cobol"
+        },
+        {
+          "question": "Find out which one will be another member of the group or class.\nRoot, Stem, Branch",
+          "opt1": "Fertilizer",
+          "opt2": "Leaf",
+          "opt3": "Tree",
+          "opt4": "Wood",
+          "ans": "Leaf"
+        },
+        {
+          "question": "Find out which one will be another member of the group or class.\nVolleyball, Hockey, Football",
+          "opt1": "Aquatics",
+          "opt2": "Baseball",
+          "opt3": "Athletes",
+          "opt4": "Sports",
+          "ans": "Baseball"
+        },
+        {
+          "question": "Find out which one will be another member of the group or class.\nWrestling, Karate, Boxing",
+          "opt1": "Pole-vault",
+          "opt2": "Swimming",
+          "opt3": "Judo",
+          "opt4": "Polo",
+          "ans": "Judo"
+        },
+        {
+          "question": "\'Wax\' is related to \'Grease\' in the same way as \'Milk\' is related to:",
+          "opt1": "Drink",
+          "opt2": "Ghee",
+          "opt3": "Protein",
+          "opt4": "Curd",
+          "ans": "Curd"
+        },
+        {
+          "question": "\'Much\' is related to \'Many\' in the same way as \'Measure\' is related to:",
+          "opt1": "Count",
+          "opt2": "Measures",
+          "opt3": "Calculate",
+          "opt4": "Weigh",
+          "ans": "Count"
+        },
+        {
+          "question": "\'Calf\' is related to \'Cow\' in the same way as \'Kitten\' is related to:",
+          "opt1": "Deer",
+          "opt2": "Bear",
+          "opt3": "Cat",
+          "opt4": "Duck",
+          "ans": "Cat"
+        },
+        {
+          "question": "\'Smoke\' is related to \'Pollution\' in the same way as \'War\' is related to:",
+          "opt1": "Victory",
+          "opt2": "Treaty",
+          "opt3": "Defeat",
+          "opt4": "Destruction",
+          "ans": "Destruction"
+        },
+        {
+          "question": "\'Mountain\' is related to \'Hill\' in the same way as \'River\' is related to:",
+          "opt1": "Path",
+          "opt2": "Swimming",
+          "opt3": "Flowing",
+          "opt4": "Tank",
+          "ans": "Tank"
+        },
+        {
+          "question": "\'Dogs\' is related to \'Bark\' in the same way as \'Goats\' is related to:",
+          "opt1": "Bleat",
+          "opt2": "Crow",
+          "opt3": "Grunt",
+          "opt4": "Howl",
+          "ans": "Bleat"
+        },
+        {
+          "question": "\'Kathak\' is related to \'U.P\' in the same way as \'Odyssey\' is related to:",
+          "opt1": "Assam",
+          "opt2": "Kerala",
+          "opt3": "Orissa",
+          "opt4": "Gujarat",
+          "ans": "Orissa"
+        },
+        {
+          "question": "\'Metal\' is related to \'Conduction\' in the same way as \'Plastic\' is related to:",
+          "opt1": "Ground oil chemistry",
+          "opt2": "Industry",
+          "opt3": "Inflammability",
+          "opt4": "Insulation",
+          "ans": "Inflammability"
+        },
+        {
+          "question": "\'Sea\' is related to \'Ship\' in the same way as \'Road\' is related to:",
+          "opt1": "Traffic",
+          "opt2": "Travellers",
+          "opt3": "journey",
+          "opt4": "Bus",
+          "ans": "Bus"
+        },
+        {
+          "question": "\'Rabbit\' is related to \'Burrow\' in the same way as \'Lunatic\' is related to:",
+          "opt1": "Prison",
+          "opt2": "Cell",
+          "opt3": "Barrack",
+          "opt4": "Asylum",
+          "ans": "Asylum"
+        }
+      ]
+    }
+  ]
+}

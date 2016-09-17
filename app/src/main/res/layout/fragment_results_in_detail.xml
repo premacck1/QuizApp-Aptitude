@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <com.prembros.aptitude.quizapp.CustomTextViewSemiLight
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/detailedResultHeader"
+        android:textSize="30sp"
+        android:gravity="center_horizontal"
+        android:paddingTop="8dp"
+        android:paddingBottom="8dp"
+        android:layout_gravity="center_horizontal"
+        android:background="@color/colorPrimary"
+        android:layout_alignParentTop="true"
+        android:textColor="#ffffff" />
+
+    <TextView
+        android:id="@+id/tv"
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_below="@+id/detailedResultHeader"
+        android:background="#FFFFFF" />
+
+    <ListView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:divider="#00000000"
+        android:dividerHeight="15dp"
+        android:paddingLeft="12dp"
+        android:paddingStart="12dp"
+        android:paddingRight="12dp"
+        android:paddingEnd="12dp"
+        android:listSelector="@color/transparent"
+        android:background="@color/colorPrimaryTranslucent"
+        android:scrollbars="none"
+        android:layout_alignParentBottom="true"
+        android:id="@+id/detailedResultListView"
+        android:layout_below="@+id/tv"
+        android:layout_gravity="center" />
+
+</RelativeLayout>

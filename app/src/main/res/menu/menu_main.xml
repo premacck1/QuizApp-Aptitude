@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_bookmark"
+        android:icon="@drawable/bookmarks_see"
+        android:title="@string/bookmarks"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/action_help"
+        android:title="@string/help"
+        android:icon="@drawable/ic_action_help"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/action_tutorial"
+        android:title="@string/tutorial"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/action_get_pro"
+        android:title="@string/get_pro"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_leaderboard"
+        android:title="@string/leaderboard"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_achievements"
+        android:title="@string/achievements"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_rate_this_app"
+        android:title="@string/rate_this_app"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_about"
+        android:orderInCategory="80"
+        android:title="@string/about"
+        app:showAsAction="never" />
+</menu>

@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/colorPrimary">
+
+    <com.prembros.aptitude.quizapp.CustomTextViewSemiLight
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:textSize="28sp"
+        android:text="@string/help_header"
+        android:paddingTop="8dp"
+        android:paddingBottom="8dp"
+        android:textColor="@color/default_color" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:layout_gravity="center_horizontal"
+        android:background="@color/default_color" />
+
+    <ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/colorPrimaryLight">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="16dp"
+            android:paddingRight="16dp">
+
+            <com.prembros.aptitude.quizapp.CustomTextViewSemiLight
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center_horizontal"
+                android:textSize="20sp"
+                android:layout_marginTop="10dp"
+                android:text="@string/help_choosing_a_difficulty_level"
+                android:textColor="@color/black" />
+
+            <TextView
+                android:layout_width="225dp"
+                android:layout_height="1dp"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:layout_gravity="center_horizontal"
+                android:background="@color/black" />
+
+            <com.prembros.aptitude.quizapp.CustomTextViewLight
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center_horizontal"
+                android:layout_marginTop="10dp"
+                android:text="@string/help_choosing_a_difficulty_level_content"
+                android:textColor="@color/black"
+                android:textSize="18sp" />
+
+            <com.prembros.aptitude.quizapp.CustomTextViewSemiLight
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center_horizontal"
+                android:textSize="20sp"
+                android:layout_marginTop="40dp"
+                android:text="@string/help_during_the_quiz"
+                android:textColor="@color/black" />
+
+            <TextView
+                android:layout_width="135dp"
+                android:layout_height="1dp"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:layout_gravity="center_horizontal"
+                android:background="@color/black" />
+
+            <com.prembros.aptitude.quizapp.CustomTextViewLight
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center_horizontal"
+                android:layout_marginTop="10dp"
+                android:text="@string/help_during_the_quiz_content"
+                android:textColor="@color/black"
+                android:textSize="18sp" />
+
+            <com.prembros.aptitude.quizapp.CustomTextViewSemiLight
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center_horizontal"
+                android:textSize="20sp"
+                android:layout_marginTop="40dp"
+                android:text="@string/help_bookmarks"
+                android:textColor="@color/black"
+                android:alpha="255" />
+
+            <TextView
+                android:layout_width="100dp"
+                android:layout_height="1dp"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:layout_gravity="center_horizontal"
+                android:background="@color/black" />
+
+            <com.prembros.aptitude.quizapp.CustomTextViewLight
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center_horizontal"
+                android:layout_marginTop="10dp"
+                android:text="@string/help_bookmarks_content"
+                android:textColor="@color/black"
+                android:textSize="18sp" />
+
+            <com.prembros.aptitude.quizapp.CustomTextViewSemiLight
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center_horizontal"
+                android:textSize="20sp"
+                android:layout_marginTop="40dp"
+                android:text="@string/help_want_more_features"
+                android:textColor="@color/black" />
+
+            <TextView
+                android:layout_width="280dp"
+                android:layout_height="1dp"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:layout_gravity="center_horizontal"
+                android:background="@color/black" />
+
+            <com.prembros.aptitude.quizapp.CustomTextViewLight
+                android:id="@+id/more_features_content"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center_horizontal"
+                android:layout_marginTop="10dp"
+                android:textColor="@color/black"
+                android:textSize="18sp" />
+
+            <com.prembros.aptitude.quizapp.CustomTextViewBlack
+                android:id="@+id/get_pro"
+                android:paddingBottom="20dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center_horizontal"
+                android:layout_marginTop="10dp"
+                android:text="@string/get_pro"
+                android:textColor="@color/colorLink"
+                android:shadowColor="@color/black"
+                android:shadowRadius="20"
+                android:textSize="28sp" />
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

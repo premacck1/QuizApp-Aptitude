@@ -1,0 +1,21 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+<!--    <item>
+        <shape android:shape="rectangle">
+            <stroke android:color="@color/black_overlay"
+                android:dashGap="40dp" android:dashWidth="5dp" />
+            <solid android:color="#0000"/>
+        </shape>
+    </item>-->
+    <item android:id="@android:id/progress">
+        <clip>
+            <shape android:shape="rectangle">
+                <gradient
+                    android:type="linear"
+                    android:useLevel="true"
+                    android:startColor="@color/colorPrimary"
+                    android:centerColor="@color/colorPrimary"
+                    android:endColor="@color/colorPrimaryDarker" />
+            </shape>
+        </clip>
+    </item>
+</layer-list>
