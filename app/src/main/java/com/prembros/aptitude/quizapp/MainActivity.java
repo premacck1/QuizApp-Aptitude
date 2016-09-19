@@ -589,7 +589,7 @@ public class MainActivity extends LoginActivity
                     if (google_api_client != null && google_api_client.isConnected()) {
                         if (Questions.SCORE > 0) {
                             Games.Leaderboards.submitScore(google_api_client,
-                                    getLeaderboardID(Questions.selections[1]), Questions.SCORE);
+                                    getLeaderboardID(Questions.selections[0]), Questions.SCORE);
                         }
                         else Toast.makeText(this, "Score above zero to be in leaderboards", Toast.LENGTH_LONG).show();
                     }
@@ -603,49 +603,46 @@ public class MainActivity extends LoginActivity
                 */
                 if (google_api_client != null && google_api_client.isConnected()) {
                     Achievements achievements = Games.Achievements;
-                    switch (Questions.selections[1]){
-                        case "Section 1":
-                            if (Questions.CORRECT_ANSWERS == Questions.QUESTION_COUNT)
-                                achievements.unlock(google_api_client, "CgkI6Zu3v5AcEAIQBw");
-                            break;
-                        case "Section 2":
-                            if (Questions.CORRECT_ANSWERS == Questions.QUESTION_COUNT)
-                                achievements.unlock(google_api_client, "CgkI6Zu3v5AcEAIQCA");
-                            break;
-                        case "Section 3":
-                            if (Questions.CORRECT_ANSWERS == Questions.QUESTION_COUNT)
-                                achievements.unlock(google_api_client, "CgkI6Zu3v5AcEAIQCQ");
-                            break;
-                        case "Section 4":
-                            if (Questions.CORRECT_ANSWERS == Questions.QUESTION_COUNT)
-                                achievements.unlock(google_api_client, "CgkI6Zu3v5AcEAIQCg");
-                            break;
-                        case "Section 5":
-                            if (Questions.CORRECT_ANSWERS == Questions.QUESTION_COUNT)
-                                achievements.unlock(google_api_client, "CgkI6Zu3v5AcEAIQCw");
-                            break;
-                        default:
-                            break;
-                    }
                     if (Questions.CORRECT_ANSWERS == Questions.QUESTION_COUNT) {
-                        achievements.unlock(google_api_client, "CgkIl-nPp9wBEAIQAg");           //achievement_beginners_luck
-                        achievements.increment(google_api_client, "CgkIl-nPp9wBEAIQAw", 1);     //achievement_streak_of_5
-                        achievements.increment(google_api_client, "CgkIl-nPp9wBEAIQBA", 1);     //achievement_streak_of_15
-                        achievements.increment(google_api_client, "CgkIl-nPp9wBEAIQBQ", 1);     //achievement_streak_of_30
-                        achievements.increment(google_api_client, "CgkIl-nPp9wBEAIQIg", 1);     //achievement_streak_of_50
-                        achievements.increment(google_api_client, "CgkIl-nPp9wBEAIQIw", 1);     //achievement_streak_of_100
-                        achievements.increment(google_api_client, "CgkIl-nPp9wBEAIQJA", 1);     //achievement_streak_if_150
-                        achievements.increment(google_api_client, "CgkIl-nPp9wBEAIQJQ", 1);     //achievement_streak_of_200
+                        switch (Questions.selections[1]){
+                            case "Section 1":
+                                achievements.unlock(google_api_client, getString(R.string.achievement_rule_section_1));
+                                break;
+                            case "Section 2":
+                                achievements.unlock(google_api_client, getString(R.string.achievement_rule_section_2));
+                                break;
+                            case "Section 3":
+                                achievements.unlock(google_api_client, getString(R.string.achievement_rule_section_3));
+                                break;
+                            case "Section 4":
+                                achievements.unlock(google_api_client, getString(R.string.achievement_rule_section_4));
+                                break;
+                            case "Section 5":
+                                achievements.unlock(google_api_client, getString(R.string.achievement_rule_section_5));
+                                break;
+                            default:
+                                break;
+                        }
+                        achievements.increment(google_api_client, getString(R.string.achievement_streak_of_5), 1);
+                        achievements.increment(google_api_client, getString(R.string.achievement_streak_of_10), 1);
+                        achievements.increment(google_api_client, getString(R.string.achievement_streak_of_20), 1);
+                        achievements.increment(google_api_client, getString(R.string.achievement_streak_of_50), 1);
                     } else if (Questions.INCORRECT_ANSWERS == Questions.QUESTION_COUNT) {
-                        achievements.unlock(google_api_client, "CgkIl-nPp9wBEAIQBg");           //achievement_bummer_star
-                        achievements.increment(google_api_client, "CgkIl-nPp9wBEAIQBw", 1);     //achievement_bummer_king
-                        achievements.increment(google_api_client, "CgkIl-nPp9wBEAIQCA", 1);     //achievement_emperor_of_bummerville
+                        achievements.unlock(google_api_client, getString(R.string.achievement_bummer));
+                        achievements.increment(google_api_client, getString(R.string.achievement_bummer_king), 1);
+                        achievements.increment(google_api_client, getString(R.string.achievement_emperor_of_bummerville), 1);
+                        achievements.increment(google_api_client, getString(R.string.achievement_bummergod), 1);
                     } else if (Questions.CORRECT_ANSWERS == (Questions.QUESTION_COUNT / 2)) {
-                        achievements.unlock(google_api_client, "CgkIl-nPp9wBEAIQJg");           //achievement_positive_halfsies
+                        achievements.unlock(google_api_client, getString(R.string.achievement_positive_halfsies));
                     } else if (Questions.INCORRECT_ANSWERS == (Questions.QUESTION_COUNT / 2)) {
-                        achievements.unlock(google_api_client, "CgkIl-nPp9wBEAIQJw");           //achievement_negative_halfsies
+                        achievements.unlock(google_api_client, getString(R.string.achievement_negative_halfsies));
+                    } else if (Questions.SKIPPED_ANSWERS == (Questions.QUESTION_COUNT / 2)) {
+                        achievements.unlock(google_api_client, getString(R.string.achievement_neutral_halfsies));
                     } else if (Questions.SKIPPED_ANSWERS == Questions.QUESTION_COUNT) {
-                        achievements.unlock(google_api_client, "CgkIl-nPp9wBEAIQIQ");           //achievement_skippy
+                        achievements.unlock(google_api_client, getString(R.string.achievement_skippy));
+                    } else if (Questions.CORRECT_ANSWERS == Questions.INCORRECT_ANSWERS
+                            && Questions.CORRECT_ANSWERS == Questions.SKIPPED_ANSWERS){
+                        achievements.unlock(google_api_client, getString(R.string.achievement_equalizor));
                     }
                 }
                 break;

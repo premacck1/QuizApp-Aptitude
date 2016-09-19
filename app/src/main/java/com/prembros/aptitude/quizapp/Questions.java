@@ -172,12 +172,12 @@ public class Questions extends Fragment implements OnClickListener, OnLongClickL
             //Set up ads
             mInterstitialAd1 = new InterstitialAd(getContext());
             // set the ad unit ID
-            mInterstitialAd1.setAdUnitId(getString(R.string.int_add_full));
+            mInterstitialAd1.setAdUnitId(getString(R.string.ad_questions_first));
 
             //Set up ads
             mInterstitialAd2 = new InterstitialAd(getContext());
             // set the ad unit ID
-            mInterstitialAd2.setAdUnitId(getString(R.string.int_add_full1));
+            mInterstitialAd2.setAdUnitId(getString(R.string.ad_questions_last));
 
 /*            //Set up ads
             mInterstitialAd3 = new InterstitialAd(getContext());
@@ -587,9 +587,6 @@ public class Questions extends Fragment implements OnClickListener, OnLongClickL
         alert.show();
     }
 
-    public void changeDifficulty(){
-    }
-
     //    OPTIONS MENU
     @Override
     public void onCreateOptionsMenu(Menu menu, MenuInflater inflater) {
@@ -632,10 +629,6 @@ public class Questions extends Fragment implements OnClickListener, OnLongClickL
             case 2:
                 getActivity().getSupportFragmentManager().popBackStackImmediate();
                 getActivity().getSupportFragmentManager().popBackStackImmediate();
-                break;
-//            CALLED ON ACTION BAR UP BUTTON PRESS (CHANGE THE SECTION)
-            case 3:
-                changeDifficulty();
                 break;
 //            DEFAULT EXIT CALL, GENERALLY WHEN Section.BACK_FROM_RESULTS == 1
             default:

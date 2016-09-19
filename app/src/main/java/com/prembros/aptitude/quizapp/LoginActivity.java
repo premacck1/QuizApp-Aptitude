@@ -428,31 +428,31 @@ public class LoginActivity extends AppCompatActivity implements OnConnectionFail
                 arithmeticReasoning.setOnClickListener(new View.OnClickListener() {
                     @Override
                     public void onClick(View view) {
-                        startLeaderboard("CgkI6Zu3v5AcEAIQAg", 0);
+                        startLeaderboard(getString(R.string.leaderboard_arithmetic_reasoning), 0);
                     }
                 });
                 logicalWordSequence.setOnClickListener(new View.OnClickListener() {
                     @Override
                     public void onClick(View view) {
-                        startLeaderboard("CgkI6Zu3v5AcEAIQAw", 1);
+                        startLeaderboard(getString(R.string.leaderboard_logical_word_sequence), 1);
                     }
                 });
                 bloodRelations.setOnClickListener(new View.OnClickListener() {
                     @Override
                     public void onClick(View view) {
-                        startLeaderboard("CgkI6Zu3v5AcEAIQBA", 2);
+                        startLeaderboard(getString(R.string.leaderboard_blood_relations), 2);
                     }
                 });
                 seriesCompletion.setOnClickListener(new View.OnClickListener() {
                     @Override
                     public void onClick(View view) {
-                        startLeaderboard("CgkI6Zu3v5AcEAIQBQ", 3);
+                        startLeaderboard(getString(R.string.leaderboard_series_completion), 3);
                     }
                 });
                 analogy.setOnClickListener(new View.OnClickListener() {
                     @Override
                     public void onClick(View view) {
-                        startLeaderboard("CgkI6Zu3v5AcEAIQBg", 4);
+                        startLeaderboard(getString(R.string.leaderboard_analogy), 4);
                     }
                 });
                 dialog.show();
@@ -549,51 +549,6 @@ public class LoginActivity extends AppCompatActivity implements OnConnectionFail
                 break;
         }
     }
-
-//    public static void setupDialog(Dialog dialog) {
-//        CustomTextViewLight arithmeticReasoning = (CustomTextViewLight) dialog.findViewById(R.id.leaderboard_arithmetic_reasoning);
-//        CustomTextViewLight logicalWordSequence = (CustomTextViewLight) dialog.findViewById(R.id.leaderboard_logical_word_sequence);
-//        CustomTextViewLight bloodRelations = (CustomTextViewLight) dialog.findViewById(R.id.leaderboard_blood_relations);
-//        CustomTextViewLight seriesCompletion = (CustomTextViewLight) dialog.findViewById(R.id.leaderboard_series_completion);
-//        CustomTextViewLight analogy = (CustomTextViewLight) dialog.findViewById(R.id.leaderboard_analogy);
-//
-//        arithmeticReasoning.setOnClickListener(new View.OnClickListener() {
-//            @Override
-//            public void onClick(View view) {
-//                startActivityForResult(Games.Leaderboards.getLeaderboardIntent(google_api_client,
-//                        "CgkI6Zu3v5AcEAIQAg"), 0);
-//            }
-//        });
-//        logicalWordSequence.setOnClickListener(new View.OnClickListener() {
-//            @Override
-//            public void onClick(View view) {
-//                startActivityForResult(Games.Leaderboards.getLeaderboardIntent(google_api_client,
-//                        "CgkI6Zu3v5AcEAIQAw"), 1);
-//            }
-//        });
-//        bloodRelations.setOnClickListener(new View.OnClickListener() {
-//            @Override
-//            public void onClick(View view) {
-//                startActivityForResult(Games.Leaderboards.getLeaderboardIntent(google_api_client,
-//                        "CgkI6Zu3v5AcEAIQBA"), 2);
-//            }
-//        });
-//        seriesCompletion.setOnClickListener(new View.OnClickListener() {
-//            @Override
-//            public void onClick(View view) {
-//                startActivityForResult(Games.Leaderboards.getLeaderboardIntent(google_api_client,
-//                        "CgkI6Zu3v5AcEAIQBQ"), 3);
-//            }
-//        });
-//        analogy.setOnClickListener(new View.OnClickListener() {
-//            @Override
-//            public void onClick(View view) {
-//                startActivityForResult(Games.Leaderboards.getLeaderboardIntent(google_api_client,
-//                        "CgkI6Zu3v5AcEAIQBg"), 4);
-//            }
-//        });
-//
-//    }
 
     /*
       Sign-in into the Google + account
@@ -750,96 +705,21 @@ public class LoginActivity extends AppCompatActivity implements OnConnectionFail
     * Used to submit score to leaderboard
     */
     public String getLeaderboardID(String section){
-        String leaderboardID = null;
         switch (section){
-            case "Section 1":
-                leaderboardID = "CgkI6Zu3v5AcEAIQAg";
-                break;
-            case "Section 2":
-                leaderboardID = "CgkI6Zu3v5AcEAIQAw";
-                break;
-            case "Section 3":
-                leaderboardID = "CgkI6Zu3v5AcEAIQBA";
-                break;
-            case "Section 4":
-                leaderboardID = "CgkI6Zu3v5AcEAIQBQ";
-                break;
-            case "Section 5":
-                leaderboardID = "CgkI6Zu3v5AcEAIQBg";
-                break;
+            case "Arithmetic Reasoning":
+                return getString(R.string.leaderboard_arithmetic_reasoning);
+            case "Logical Word Sequence":
+                return getString(R.string.leaderboard_logical_word_sequence);
+            case "Blood Relations":
+                return getString(R.string.leaderboard_blood_relations);
+            case "Series Completion":
+                return getString(R.string.leaderboard_series_completion);
+            case "Analogy":
+                return getString(R.string.leaderboard_analogy);
             default:
-                break;
+                return null;
         }
-        return leaderboardID;
     }
-
-//    public void startLeaderboard(int id){
-//        if (google_api_client != null) {
-//            if (google_api_client.isConnected()) {
-//                switch (id) {
-//                    case 0:
-//                        startActivityForResult(Games.Leaderboards.getLeaderboardIntent(google_api_client,
-//                                "CgkI6Zu3v5AcEAIQAg"), 0);
-//                        break;
-//                    case 1:
-//                        startActivityForResult(Games.Leaderboards.getLeaderboardIntent(google_api_client,
-//                                "CgkI6Zu3v5AcEAIQAw"), 1);
-//                        break;
-//                    case 2:
-//                        startActivityForResult(Games.Leaderboards.getLeaderboardIntent(google_api_client,
-//                                "CgkI6Zu3v5AcEAIQBA"), 2);
-//                        break;
-//                    case 3:
-//                        startActivityForResult(Games.Leaderboards.getLeaderboardIntent(google_api_client,
-//                                "CgkI6Zu3v5AcEAIQBQ"), 3);
-//                        break;
-//                    case 4:
-//                        startActivityForResult(Games.Leaderboards.getLeaderboardIntent(google_api_client,
-//                                "CgkI6Zu3v5AcEAIQBg"), 4);
-//                        break;
-//                    default:
-//                        Toast.makeText(LoginActivity.this, "Cannot find leaderboard", Toast.LENGTH_SHORT).show();
-//                        break;
-//                }
-//            } else {
-//                Toast.makeText(LoginActivity.this, "Cannot load leaderboard. Check your internet connection.", Toast.LENGTH_SHORT).show();
-//            }
-//        } else {
-//            Toast.makeText(LoginActivity.this, "Cannot load leaderboard. No Google API found.", Toast.LENGTH_SHORT).show();
-//        }
-//    }
-
-//    @Override
-//    public void onFragmentInteraction(int resultCode) {
-//        if (google_api_client != null) {
-//            if (google_api_client.isConnected()) {
-//                switch (resultCode) {
-//                    case 0:
-//                        startLeaderboard(0);
-//                        break;
-//                    case 1:
-//                        startLeaderboard(1);
-//                        break;
-//                    case 2:
-//                        startLeaderboard(2);
-//                        break;
-//                    case 3:
-//                        startLeaderboard(3);
-//                        break;
-//                    case 4:
-//                        startLeaderboard(4);
-//                        break;
-//                    default:
-//                        Toast.makeText(LoginActivity.this, "Cannot find leaderboard", Toast.LENGTH_SHORT).show();
-//                        break;
-//                }
-//            } else {
-//                Toast.makeText(this, "Cannot load leaderboard. Check your internet connection.", Toast.LENGTH_SHORT).show();
-//            }
-//        } else {
-//            Toast.makeText(this, "Cannot load leaderboard. No Google API found.", Toast.LENGTH_SHORT).show();
-//        }
-//    }
 
     @Override
     public void onBackPressed() {

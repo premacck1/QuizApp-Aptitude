@@ -2,7 +2,7 @@
     <string name="app_name">QuizApp Aptitude</string>
     <string name="app_name_2_line">QuizApp\nFree</string>
     <string name="app_series">QuizApp</string>
-    <string name="app_fields">iOS | Java | HTML | JavaScript</string>
+    <string name="app_fields">Arithmetic Reasoning | Logical Word Sequence | Blood Relations | Series Completion | Analogy</string>
 
     <string name="app_id">966500666857</string>
     <string name="package_name">com.prembros.aptitude.quizapp</string>
@@ -11,6 +11,19 @@
     <string name="achievement_rule_section_3">CgkI6Zu3v5AcEAIQCQ</string>
     <string name="achievement_rule_section_4">CgkI6Zu3v5AcEAIQCg</string>
     <string name="achievement_rule_section_5">CgkI6Zu3v5AcEAIQCw</string>
+    <string name="achievement_streak_of_5">CgkI6Zu3v5AcEAIQDA</string>
+    <string name="achievement_streak_of_10">CgkI6Zu3v5AcEAIQDQ</string>
+    <string name="achievement_streak_of_20">CgkI6Zu3v5AcEAIQDg</string>
+    <string name="achievement_streak_of_50">CgkI6Zu3v5AcEAIQDw</string>
+    <string name="achievement_skippy">CgkI6Zu3v5AcEAIQEQ</string>
+    <string name="achievement_positive_halfsies">CgkI6Zu3v5AcEAIQEg</string>
+    <string name="achievement_negative_halfsies">CgkI6Zu3v5AcEAIQEw</string>
+    <string name="achievement_neutral_halfsies">CgkI6Zu3v5AcEAIQGQ</string>
+    <string name="achievement_equalizor">CgkI6Zu3v5AcEAIQFA</string>
+    <string name="achievement_bummer">CgkI6Zu3v5AcEAIQFQ</string>
+    <string name="achievement_bummer_king">CgkI6Zu3v5AcEAIQFg</string>
+    <string name="achievement_emperor_of_bummerville">CgkI6Zu3v5AcEAIQFw</string>
+    <string name="achievement_bummergod">CgkI6Zu3v5AcEAIQGA</string>
     <string name="leaderboard_arithmetic_reasoning">CgkI6Zu3v5AcEAIQAg</string>
     <string name="leaderboard_logical_word_sequence">CgkI6Zu3v5AcEAIQAw</string>
     <string name="leaderboard_blood_relations">CgkI6Zu3v5AcEAIQBA</string>
@@ -27,7 +40,7 @@
     <string name="intro">Do you really have what it takes?\nTest your aptitude in the following fields:</string>
     <string name="intro_section">Now select a section\nand get on with the test!</string>
 
-    <!--DIFFICULTIES-->
+    <!--SECTIONS-->
     <string name="section_1">Section 1</string>
     <string name="section_2">Section 2</string>
     <string name="section_3">Section 3</string>
@@ -50,34 +63,33 @@
     <string name="about_the_app">About the App</string>
     <string name="about_the_app_details">
         QuizApp is a series of android apps designed specially for the quiz minds.
-        \nThis app consists of the quizzes related to the programming languages.
-        \n(Objective C, Java, HTML and Javascript)</string>
+        \nThis app consists of the quizzes related to aptitude.
+        \n(Arithmetic Reasoning, Logical Word Sequence, Blood Relations, Series Completion &amp; Analogy)</string>
     <string name="other_apps_in_quizapp_series">Other apps in QuizApp series:</string>
     <string name="other_apps_in_quizapp_series_details">
-        QuizApp-Aptitude(Coming soon)
+        QuizApp-Programming
         \nQuizApp-Science(Coming soon)</string>
     <string name="special_thanks">Special Thanks</string>
     <string name="special_thanks_details">My Parents for the support</string>
 
     <!--HELP PAGE STRINGS-->
     <string name="help_header">Help</string>
-    <string name="help_choosing_a_difficulty_level">Choosing a Difficulty level</string>
-    <string name="help_choosing_a_difficulty_level_content">
-        * You can choose a difficulty level ranging from very easy up to very hard:
-        \nRookie - Very easy
-        \nApprentice - Fair
-        \nPro - Kind of difficult
-        \nHitman - Very difficult
+    <string name="help_choosing_a_section">Choosing a section</string>
+    <string name="help_choosing_a_section_content">
+        * You can choose a Section ranging from very easy up to very hard, depending on the time limit.
+        \n\nThere are 5 sections in each field:
+        \nSection 1, Section 2, Section 3, Section 4 &amp; Section 5.
     </string>
     <string name="help_during_the_quiz">During the quiz</string>
     <string name="help_during_the_quiz_content">
-        * You can change the difficulty by clicking the \'up\' button.
+        * Long Press any action button on the page and it will tell you what it does!
+        \n\n* You can change the section by clicking the \'up\' button.
         \n\n* To exit the quiz at any time, press the back button on the action bar.
         \n\n* There is also a skip option in the middle if you want to skip the current question.
     </string>
     <string name="help_bookmarks">Bookmarks</string>
     <string name="help_bookmarks_content">
-        * Like a question and want to refer to it later?
+        * Like a question and want to refer to it later? It is available in the pro version
         \n\n* Just click on \'add bookmark\' on the top right corner and that\'s it!
         \n\n* You can later view it in the Bookmarks section.
         \n\n* To remove a bookmark, just click on the darkened \'add bookmark\' and it will remove the bookmark!
@@ -142,16 +154,19 @@
     </string>
     <string name="connect_to_google_play_games">Connect to Google Play Games</string>
     <string name="quiz">Quiz</string>
-    <!-- <string name="int_add_full">ca-app-pub-3940256099942544/6300978111</string>&lt;!&ndash;ca-app-pub-3940256099942544/6300978111&ndash;&gt;
-    <string name="int_add_full1">ca-app-pub-3940256099942544/6300978111</string>&lt;!&ndash;ca-app-pub-3940256099942544/6300978111&ndash;&gt;
-    <string name="int_add_full2">ca-app-pub-3940256099942544/6300978111</string>&lt;!&ndash;ca-app-pub-3940256099942544/6300978111&ndash;&gt;
-    <string name="int_add_full_bookmark">ca-app-pub-3940256099942544/6300978111</string>&lt;!&ndash;ca-app-pub-3940256099942544/6300978111&ndash;&gt;
--->
-    <string name="int_add_full">ca-app-pub-0057541165660355/5470334687</string><!--ca-app-pub-3940256099942544/6300978111-->
-    <string name="int_add_full1">ca-app-pub-0057541165660355/4940454280</string><!--ca-app-pub-3940256099942544/6300978111-->
-    <string name="int_add_full2">ca-app-pub-0057541165660355/6417187483</string><!--ca-app-pub-3940256099942544/6300978111-->
-    <string name="int_add_full_bookmark">ca-app-pub-0057541165660355/5152277085</string><!--ca-app-pub-3940256099942544/6300978111-->
-    <string name="times_up">Times up!</string><!--ca-app-pub-0057541165660355/5470334687-->
+     <string name="ad_questions_first">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="ad_questions_last">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="int_add_full2">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="ad_results_return">ca-app-pub-3940256099942544/6300978111</string>
+
+    <!--ORIGINAL AD UNIT IDs-->
+<!--
+    <string name="ad_questions_first">ca-app-pub-0057541165660355/6435377083</string>
+    <string name="ad_questions_last">ca-app-pub-0057541165660355/7912110282</string>
+    <string name="int_add_full2">ca-app-pub-0057541165660355/4958643883</string>
+    <string name="ad_results_return">ca-app-pub-0057541165660355/9388843480</string>
+    -->
+    <string name="times_up">Times up!</string>
     <string name="get_pro_content">Pro version comes with the following features:
                         \n\n*No Ads
                         \n*Bookmark Feature

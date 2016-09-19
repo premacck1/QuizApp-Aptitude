@@ -39,7 +39,7 @@
                 android:gravity="center_horizontal"
                 android:textSize="20sp"
                 android:layout_marginTop="10dp"
-                android:text="@string/help_choosing_a_difficulty_level"
+                android:text="@string/help_choosing_a_section"
                 android:textColor="@color/black" />
 
             <TextView
@@ -54,7 +54,7 @@
                 android:layout_height="wrap_content"
                 android:gravity="center_horizontal"
                 android:layout_marginTop="10dp"
-                android:text="@string/help_choosing_a_difficulty_level_content"
+                android:text="@string/help_choosing_a_section_content"
                 android:textColor="@color/black"
                 android:textSize="18sp" />
 
