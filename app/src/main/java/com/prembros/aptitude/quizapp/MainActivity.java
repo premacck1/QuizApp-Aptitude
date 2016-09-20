@@ -128,7 +128,7 @@ public class MainActivity extends LoginActivity
 
 //        FIRST GET THE VERSION
         if(isConnected()){
-            new HttpAsyncTask().execute("http://json-956.appspot.com/version.txt");
+            new HttpAsyncTask().execute("http://json-956.appspot.com/version_Apt.txt");
         }
 
         try{
@@ -138,8 +138,8 @@ public class MainActivity extends LoginActivity
             else{
                 if(isConnected()){
 //                 call AsyncTask to perform network operation on separate thread
-//                new HttpAsyncTask().execute("http://json-956.appspot.com/version.txt");
-                    new HttpAsyncTask().execute("https://json-956.appspot.com/json-1.txt");
+//                new HttpAsyncTask().execute("http://json-956.appspot.com/version_Apt.txt");
+                    new HttpAsyncTask().execute("https://json-956.appspot.com/json_Apt.txt");
                 }
                 else {
                     JSONString = readFromExternalFile();
@@ -321,7 +321,7 @@ public class MainActivity extends LoginActivity
                 dbHandler.open();
                 dbHandler.updateVersion(GET(params[0].trim()),"1");
                 dbHandler.close();
-                return GET("https://json-956.appspot.com/json-1.txt");
+                return GET("https://json-956.appspot.com/json_Apt.txt");
             }
             else {
                 try {
