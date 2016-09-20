@@ -10,7 +10,7 @@ import android.view.animation.AnimationUtils;
 public class Leaderboard extends Fragment {
 
     public static boolean isFragmentActive = false;
-    public static View rootView;
+    public View rootView;
 
     public Leaderboard() {
         // Required empty public constructor

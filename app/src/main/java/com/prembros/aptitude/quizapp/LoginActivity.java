@@ -527,8 +527,8 @@ public class LoginActivity extends AppCompatActivity implements OnConnectionFail
             case LEADERBOARD_TEXT:
                 if (fragmentManager.findFragmentByTag(LEADERBOARD_TEXT) != null && Leaderboard.isFragmentActive) {
                     Leaderboard.isFragmentActive = false;
-                    Leaderboard.rootView.startAnimation(AnimationUtils.loadAnimation(
-                            getApplicationContext(), R.anim.fragment_anim_out));
+//                    Leaderboard.rootView.startAnimation(AnimationUtils.loadAnimation(
+//                            getApplicationContext(), R.anim.fragment_anim_out));
 
                     fragmentManager.beginTransaction().remove(fragmentManager.findFragmentByTag(LEADERBOARD_TEXT)).commit();
                 }
@@ -675,9 +675,9 @@ public class LoginActivity extends AppCompatActivity implements OnConnectionFail
      Perform background operation asynchronously, to load user profile picture with new dimensions from the modified url
      */
     private class LoadProfilePic extends AsyncTask<String, Void, Bitmap> {
-        public ImageView bitmap_img;
+        ImageView bitmap_img;
 
-        public LoadProfilePic(ImageView bitmap_img) {
+        LoadProfilePic(ImageView bitmap_img) {
             this.bitmap_img = bitmap_img;
         }
 
