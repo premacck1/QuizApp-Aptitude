@@ -84,7 +84,7 @@ public class MainActivity extends LoginActivity
         //Set up ads
         mInterstitialAd3 = new InterstitialAd(this);
         // set the ad unit ID
-        mInterstitialAd3.setAdUnitId(getString(R.string.int_add_full2));
+        mInterstitialAd3.setAdUnitId(getString(R.string.ad_bookmark_click));
 
         requestNewInterstitial();
         mInterstitialAd3.setAdListener(new AdListener() {

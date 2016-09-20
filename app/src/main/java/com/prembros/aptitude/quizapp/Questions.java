@@ -182,7 +182,7 @@ public class Questions extends Fragment implements OnClickListener, OnLongClickL
 /*            //Set up ads
             mInterstitialAd3 = new InterstitialAd(getContext());
             // set the ad unit ID
-            mInterstitialAd3.setAdUnitId(getString(R.string.int_add_full2));*/
+            mInterstitialAd3.setAdUnitId(getString(R.string.ad_bookmark_click));*/
 
             requestNewInterstitial();
             new Handler().postDelayed(new Runnable() {

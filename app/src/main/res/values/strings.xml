@@ -154,18 +154,19 @@
     </string>
     <string name="connect_to_google_play_games">Connect to Google Play Games</string>
     <string name="quiz">Quiz</string>
+<!--
      <string name="ad_questions_first">ca-app-pub-3940256099942544/6300978111</string>
     <string name="ad_questions_last">ca-app-pub-3940256099942544/6300978111</string>
-    <string name="int_add_full2">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="ad_bookmark_click">ca-app-pub-3940256099942544/6300978111</string>
     <string name="ad_results_return">ca-app-pub-3940256099942544/6300978111</string>
+-->
 
     <!--ORIGINAL AD UNIT IDs-->
-<!--
     <string name="ad_questions_first">ca-app-pub-0057541165660355/6435377083</string>
     <string name="ad_questions_last">ca-app-pub-0057541165660355/7912110282</string>
-    <string name="int_add_full2">ca-app-pub-0057541165660355/4958643883</string>
+    <string name="ad_bookmark_click">ca-app-pub-0057541165660355/4958643883</string>
     <string name="ad_results_return">ca-app-pub-0057541165660355/9388843480</string>
-    -->
+
     <string name="times_up">Times up!</string>
     <string name="get_pro_content">Pro version comes with the following features:
                         \n\n*No Ads
