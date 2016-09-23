@@ -131,8 +131,11 @@ public class MainActivity extends LoginActivity
             new HttpAsyncTask().execute("http://json-956.appspot.com/version_Apt.txt");
         }
 
-        try{
-            String string = readFromFile();
+        try{ String string = "";
+            string=readFromExternalFile();
+            if(string==null || string.equalsIgnoreCase("")){
+                string = readFromFile();
+            }
             if(string != null)
                 JSONString = string;
             else{
@@ -323,19 +326,20 @@ public class MainActivity extends LoginActivity
                 dbHandler.close();
                 return GET("https://json-956.appspot.com/json_Apt.txt");
             }
-            else {
+/*            else {
                 try {
                     result = readFromFile();
                 } catch (IOException e) {
                     e.printStackTrace();
                 }
                 return result;
-            }
+            }*/
+            return "";
         }
 
         @Override
         protected void onPostExecute(String s) {
-            if (s != null){
+            if (s != null || !s.equalsIgnoreCase("")){
                 writeToExternalFile(s);
                 JSONString = s;
             }
