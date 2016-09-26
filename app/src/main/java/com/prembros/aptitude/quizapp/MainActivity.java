@@ -318,13 +318,13 @@ public class MainActivity extends LoginActivity
 
         @Override
         protected String doInBackground(String... params) {
-            String result = null;
+            String result = "";
             if(!(version.equals(GET(params[0]).trim()))) {
                 // DB Update with new Version
                 dbHandler.open();
                 dbHandler.updateVersion(GET(params[0].trim()),"1");
                 dbHandler.close();
-                return GET("https://json-956.appspot.com/json_Apt.txt");
+                result =  GET("https://json-956.appspot.com/json_Apt.txt");
             }
 /*            else {
                 try {
@@ -334,12 +334,12 @@ public class MainActivity extends LoginActivity
                 }
                 return result;
             }*/
-            return "";
+            return result;
         }
 
         @Override
         protected void onPostExecute(String s) {
-            if (s != null || !s.equalsIgnoreCase("")){
+            if (s != null || !s.equals("")){
                 writeToExternalFile(s);
                 JSONString = s;
             }
