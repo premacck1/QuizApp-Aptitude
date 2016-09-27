@@ -156,7 +156,7 @@ public class MainActivity extends LoginActivity
     }
 
     public String readFromExternalFile(){
-        String ret = null;
+        String ret = "";
 
         try {
             InputStream inputStream = openFileInput("GeneratedJSON.txt");
@@ -339,7 +339,7 @@ public class MainActivity extends LoginActivity
 
         @Override
         protected void onPostExecute(String s) {
-            if (s != null || !s.equals("")){
+            if (s != null && !s.equalsIgnoreCase("")){
                 writeToExternalFile(s);
                 JSONString = s;
             }
