@@ -131,7 +131,8 @@ public class MainActivity extends LoginActivity
             new HttpAsyncTask().execute("http://json-956.appspot.com/version_Apt.txt");
         }
 
-        try{ String string;
+        try{
+            String string;
             string=readFromExternalFile();
             if(string==null || string.equalsIgnoreCase("")){
                 string = readFromFile();
