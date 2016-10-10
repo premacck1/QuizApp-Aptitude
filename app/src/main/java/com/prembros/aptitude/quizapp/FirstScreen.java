@@ -14,7 +14,7 @@ public class FirstScreen extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_first_screen);
+//        setContentView(R.layout.activity_first_screen);
 
         //  Declare a new thread to do a preference check
         final Thread t = new Thread(new Runnable() {
