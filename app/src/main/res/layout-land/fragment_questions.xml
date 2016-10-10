@@ -17,7 +17,7 @@
 
     <ProgressBar
         style="?android:attr/progressBarStyleHorizontal"
-        android:progressDrawable="@drawable/progress_bar_states"
+        android:progressDrawable="@drawable/progress_bar_time"
         android:id="@+id/time_progressBar"
         android:layout_width="match_parent"
         android:layout_height="6dp"
@@ -57,7 +57,8 @@
             android:paddingRight="@dimen/activity_horizontal_margin"
             android:paddingTop="@dimen/activity_vertical_margin"
             app:layout_behavior="@string/appbar_scrolling_view_behavior"
-            android:background="#00FFFFFF">
+            android:background="#00FFFFFF"
+            tools:ignore="UselessParent">
 
             <RelativeLayout
                 android:layout_width="match_parent"
